@@ -1,304 +1,278 @@
-# Kitap Bölümü Öneri Raporu — v3 (konum metni / aktivist kurgu)
+# Kitap Bölümü Öneri Raporu — v4 (didaktik derleme)
 
 **Bölüm başlığı:** İç Mimarlıkta Sürdürülebilir Malzeme Seçimi ve Döngüsel Tasarım
 **Kitap:** İç Mimarlıkta Güncel Yaklaşımlar ve Mekânsal Araştırmalar (Ed. Dr. Öğr. Üyesi Seval Yılmaz, Vizetek Yayıncılık)
 **Yazar:** Betül Ünal
 **Rapor tarihi:** 16 Eylül 2026 · **Son gönderim:** 6 Ekim 2026
 
-> **Sürüm notu.** v1 çerçeve + veri ağırlıklıydı; v2 kuram + organizma örnekleri. v3, üçünün en tutarlısı: **kuramsal konum metni (position paper)** — az örnek, güçlü argüman, tek emblematik vaka. v1 ve v2 git geçmişinde duruyor.
+> **Sürüm notu.** v1 çerçeve + veri; v2 kuram + organizma örnekleri; v3 aktivist konum metni. **v4: didaktik tematik derleme** — kaynak külliyatının analizi, ılımlı ton, tez neredeyse yok. v1–v3 git geçmişinde.
 
 ---
 
-## 0. Karar hakkında: evet, ama türünü doğru adlandıralım
+## 0. Değerlendirme
 
-Bu kurgu bence üçünün en iyisi. Gerekçem:
+Bu, elinizdeki malzemeye **en çok yakışan** ve **en az riskli** kurgu:
 
-- **Derlenmiş kitaplar tam da konum metinlerinin yeridir.** Dergiler ampirik katkı ister; kitaplar argüman taşır. Bir kitabın en çok okunan ve derste okutulan bölümü genellikle tavır alan bölümdür.
-- **Tekrar sorununu tümüyle çözer.** Tez bulgularınız tek bir emblematik vakaya iner; İngilizce makalenizle çakışma yüzeyi daralır.
-- **Kitabın tonuna oturur.** Diğer bölümler kuramsal-eleştirel.
-- **Bunu yazma yetkiniz var.** Bu alanda doktora yaptınız. Konum metni yazma hakkı, alandaki emekle kazanılır — sizde var.
+- Repodaki 22 kaynak zaten bir külliyat. Analiz edilecek veri hazır.
+- Tekrar riski neredeyse sıfır: kendi çalışmanız ~200 kelimeye iniyor.
+- Derleme bölümleri, kitapların **en çok atıf alan** bölümleridir — çünkü alana giren herkes oradan başlar.
+- Yazması en hızlı olan da bu: kaynakları zaten okumuşsunuz.
+- Kitabın tonuna ve öğrenci okuruna birebir oturuyor.
 
-**Ama tek bir koşulla:** Metnin türünü **kendiniz ilan edin.** Öz'de ve girişte "bu bölüm kuramsal bir konum metnidir; ampirik bir performans değerlendirmesi sunmaz" deyin. Bunu yapmayan aktivist metinler, yapmadıkları şey üzerinden eleştirilir. Yaptığınızda ise okur sizi kendi ölçütünüzle okur.
+**Tek gerçek risk:** Derleme bölümü, yazar geçidine dönüşürse ölür. *"Camere ve Karana (2018)… demiştir. Crawford (2022)… belirtmiştir."* Böyle bir metin kimse tarafından okunmaz.
 
-### Aktivist akademik metnin tehlikesi ve panzehiri
+**Panzehir:** Derlemenin bir **bulgusu** olmalı. Yani külliyatı özetlemek değil, külliyatı **çözümlemek**. Aşağıda size bu bulguları çıkardım — §3'te beş örüntü var ve hepsi kaynaklarla kanıtlanabilir.
 
-Bu türün tek gerçek riski **vaaz**a dönüşmektir. Panzehiri şu: **Aktivizm, akademide tonla değil argümanla kazanılır.** Metnin öfkesi cümlelerde değil, kurduğu çelişkide olsun. §7'de bunun somut yazım kurallarını verdim.
+### Kritik bir dürüstlük uyarısı
 
-### Ve bir soykütük — bunu mutlaka kullanın
+22 kaynak, **sistematik derleme (systematic review) değildir.** Öyle iddia ederseniz hakem PRISMA akış şeması, veri tabanı adları, arama dizgileri, dahil etme/dışlama sayıları ister ve metin savunulamaz hâle gelir.
 
-Aktivist tasarım yazısı bir tuhaflık değil, **kurumsallaşmış bir gelenektir**. Bunu bölümde erkenden belirtirseniz "bu akademik değil" itirazı daha doğmadan ölür:
+**Doğru adlandırma: "amaçlı örneklemeye dayalı tematik derleme" (purposive thematic review).** Bunu yöntem bölümünde açıkça yazın: külliyat kapsayıcı değil, **amaçlı** olarak seçilmiştir; amaç alanın haritasını çıkarmaktır. Bu, hem dürüst hem de yeterlidir — ve bir kitap bölümü için tam olarak uygun türdür.
 
-- **Victor Papanek (1971), *Design for the Real World*** — alanın kurucu metni. Açılış cümlesi: *"Endüstriyel tasarımdan daha zararlı meslekler vardır, ama sayıları çok azdır."* Türkiye'de tasarım eğitiminde tanınır; en güçlü çıpanız budur.
-- **Alastair Fuad-Luke (2009), *Design Activism***
-- **Tony Fry** — *defuturing*: tasarım, geleceği yalnızca üretmez, aynı zamanda **yok eder**
-- **Ezio Manzini** — sosyal inovasyon ve tasarım
-
-Yani metniniz bir çıkış değil, bir **hat**tır. Bunu söylemek size hem meşruiyet hem derinlik kazandırır.
+> *İsterseniz yükseltme seçeneği:* Scopus/WoS üzerinde tarih aralığı ve arama dizgisi belirterek külliyatı 40–45 kaynağa çıkarır ve "yarı-sistematik" diyebilirsiniz. Ama 3 haftada bu zor; tematik derleme gerçekçi ve savunulabilir olan.
 
 ---
 
-## 1. BÖLÜMÜN OMURGASI
+## 1. KÜLLİYATIN ANALİZİ
 
-> **"Atık", maddenin bir özelliği değil, bir tasarım kararıdır. Tasarımcının ilk işi malzeme seçmek değil, neyin malzeme sayılacağına karar vermektir.**
+Bunu sizin için yaptım. Aşağıdaki tablo bölümün **kanıt tabanı** olacak (Tablo 2 olarak koyun).
 
-Bu cümle bölümün hem tezi hem aktivist enerjisidir. Çünkü:
+### 1.1. Külliyat tablosu
 
-- Editörün başlığındaki **"malzeme seçimi"**ni reddetmez, **radikalleştirir**: seçim kümesinin kendisini tartışmaya açar.
-- **"Döngüsel tasarım"**ı doğrudan karşılar: atık kategorisini ortadan kaldırmak, döngüselliğin tanımıdır.
-- Normatif bir çağrıyı, **çürütülebilir bir iddia** biçiminde ifade eder — yani akademik olarak savunulabilir.
-- Tek örneğinizi kaçınılmaz kılar: yumurta kabuğu tam olarak bu yeniden sınıflandırmanın vakasıdır.
+| # | Kaynak | Yıl | Tür | Disiplin | Ölçek |
+|---|---|---|---|---|---|
+| 1 | Andréen & Goidea | 2022 | Kuramsal (ilke önerisi) | Mimarlık | Yapı |
+| 2 | Goidea, Floudas & Andréen | 2022 | Kuramsal + deneysel | Mimarlık + Mikrobiyoloji | Ölçekler arası |
+| 3 | Crawford | 2022 | Kuramsal | Tasarım | Genel |
+| 4 | Yang vd. | 2019 | Editöryal (alan tanımı) | Sentetik biyoloji | Moleküler |
+| 5 | Camere & Karana | 2018 | Ampirik — 8 görüşme | Tasarım | Ürün |
+| 6 | Karana vd. | 2018 | Ampirik — vaka (miselyum) | Tasarım | Ürün |
+| 7 | Chayaamor-Heil vd. | 2024 | Analitik inceleme | Mimarlık + Biyoloji | Yapı |
+| 8 | Bandoni, Almendra & Forman | 2022 | Ampirik — 10 görüşme | Tasarım | Süreç |
+| 9 | Stefanova | 2021 | Pratik temelli araştırma | Mimarlık | Malzeme |
+| 10 | Rognoli, Ayala Garcia & Parisi | 2016 | Vaka + kavram (NeWool) | Tasarım | Malzeme |
+| 11 | Rognoli & Ayala Garcia | 2018 | Kavramsal (malzeme aktivizmi) | Tasarım | Malzeme |
+| 12 | Bourbia, Kazeoui & Belarbi | 2023 | Derleme | İnşaat / enerji | Yapı kabuğu |
+| 13 | Chang, Mohanty & Misra | 2020 | Derleme (131 atıf) | Malzeme bilimi | Malzeme |
+| 14 | Lee, Lee & Lee | 2021 | Derleme | Biyoteknoloji | Süreç |
+| 15 | Babatunde vd. | 2020 | Deneysel (kitosan) | Kimya müh. | Malzeme |
+| 16 | Heymans vd. | 2019 | **Sistematik derleme — 57 makale** | Kentsel planlama | Kent |
+| 17 | O'Rourke & Seepersad | 2015 | **Eleştirel analiz** | Makine müh. / tasarım | Genel |
+| 18 | Kırdök, Altun, Dokgöz & Tokuç | 2019 | Kuramsal / derleme | Mimarlık | Yapı |
+| 19 | Kırbaş Akyürek, Ciravoğlu vd. | 2020 | **Terminoloji araştırması — 80 vaka + 20 uzman** | Mimarlık | Yapı |
+| 20 | Zheng | 2015 | **Sistematik derleme — 162 çalışma** | Yöntembilim | Yöntem |
+| 21 | Ünal | 2025 | Deneysel + tasarım | **İç mimarlık** | **İç mekân** |
 
-### Ve bölümün açılış imgesi
+### 1.2. Beş örüntü — bölümün bulguları
 
-Bu çelişkiyle başlayın; bölümün tamamı bu tek imgeden açılır:
-
-> Türkiye yılda yaklaşık **21 milyar yumurta** üretiyor — dünyanın ilk on üreticisi, ilk beş ihracatçısı arasında. Bu, kabaca **yılda 120–130 bin ton yumurta kabuğu** demek; ağırlığının yaklaşık **%94'ü kalsiyum karbonat**. Aynı ülke, kalsiyum karbonat elde etmek için kireçtaşı ocaklarında dağ patlatıyor. Yani aynı mineral, bir yerde milyarlarca liralık bir çıkarım endüstrisinin konusu, başka bir yerde çöp.
->
-> Bu iki maddeyi ayıran şey kimyaları değil, **kategorilerimizdir.**
-
-Bu paragraf bölümün tamamını taşır. Aktivist metin duyguyla değil, **oranla** ikna eder.
-
-> ⚠️ **Doğrulama notu:** 21 milyar rakamı TÜİK verisine dayanıyor (yaklaşık 1,3 milyon ton). Kabuk kütlesini, kabuğun yumurta ağırlığının ~%10'u olduğu kabulüyle hesapladım. **Bu kabulü dipnotta açıkça belirtin** ve TÜİK'in güncel bültenini birincil kaynak olarak verin. Kireçtaşı/çimento üretimi karşılaştırmasını da TÇMB verisiyle doğrulayın. Aktivist metinde tek bir doğrulanmamış sayı, tüm argümanı götürür.
+Bunlar külliyattan gerçekten çıkıyor ve her biri kaynakla kanıtlanabilir. Bölümün özgün katkısı bu beş maddedir.
 
 ---
 
-## 2. YAPININ MANTIĞI: Bir merdiven, bir kategori yıkımı, bir vaka
+**① Tarihsel yay: taklitten üretime, üretimden paradigmaya**
 
-```
-1. ÇELİŞKİ          Yumurta kabuğu / kireçtaşı: aynı mineral, farklı kategori
-        ▼
-2. KÖK              Antroposantrizm — maddenin edilgenleştirilmesi
-        ▼           (doğa: girdide depo, çıktıda çöplük)
-3. MERDİVEN         Yıkıcı → daha az kötü → sürdürülebilir → onarıcı → YENİLEYİCİ
-        ▼           "Sürdürülebilirlik yetersiz bir hedeftir"
-4. AYRIM            Döngüselliğin zayıf ve güçlü biçimleri
-        ▼
-5. KATEGORİ YIKIMI  "Atık" bir madde değil, bir karardır   ← AKTİVİST ÇEKİRDEK
-        ▼
-6. ÜRETİM MANTIĞI   Biyoloji temelli üretim: doğada atık kategorisi yoktur
-        ▼
-7. VAKA             Yumurta kabuğu biyokompoziti (tek örnek, emblem)
-        ▼
-8. SONUÇ            İç mimarlık pratiği ve eğitimi için ne değişir
-```
-
-### 2.1. Merdiven — rejeneratif tasarımın yapısal armağanı
-
-Rejeneratif tasarım literatürü size hazır ve **atıflı** bir omurga veriyor. Lyle (1994), Reed (2007) ve Regenesis Group'un geliştirdiği yörünge şeması. Reed'in kritik notu: bu kademeler **birbirini dışlamaz, birikimlidir**. Bunu malzeme ve atık mantığına şöyle bağlayın — bölümün merkez tablosu bu olacak:
-
-| Kademe | Paradigma | Malzeme mantığı | **Atığa bakış** |
-|---|---|---|---|
-| **Yıkıcı** | Ekstraktif / doğrusal | Çıkar – üret – at | Atık, kaçınılmaz bir dışsallıktır |
-| **Daha az kötü** | Verimlilik | Daha az zarar veren ürün seç | Atık, azaltılacak bir maliyettir |
-| **Sürdürülebilir** | Nötrlük | Zarar vermeme | Atık, sıfırlanacak bir hedeftir |
-| **Onarıcı** | Geri kazanım | Sistemi tamir etme | Atık, geri kazanılacak bir kaynaktır |
-| **Yenileyici** | Ortak evrim | **Sistemin kapasitesini artırma** | **"Atık" kategorisi ortadan kalkar; besin vardır** |
-
-**Bölümün kuramsal olarak en keskin cümlesi burada:**
-
-> Sürdürülebilirlik yeterli bir hedef değildir. Çünkü "nötr" olmak, **zaten bozulmuş bir sistemi bozulmuş hâliyle sabitlemektir.** Sıfır etki, sıfır onarım demektir.
-
-Bu, rejeneratif tasarım literatürünün merkezî iddiasıdır — yani süslü bir laf değil, **atıflı bir pozisyon**. Aktivist tonun akademik zemine oturduğu yer tam burasıdır.
-
-### 2.2. Zayıf ve güçlü döngüsellik (v2'den korundu)
-
-| | **Zayıf döngüsellik** | **Güçlü döngüsellik** |
+| Dönem | Karakter | Külliyattaki kaynaklar |
 |---|---|---|
-| Ne yapar | Halkayı teknik olarak kapatır | Maddeyi metabolik döngüye geri verir |
-| Varsayımı | İnsan döngünün **yöneticisidir** | İnsan döngünün **içindedir** |
-| Ontolojisi | **Hâlâ antroposantrik**, sadece daha verimli | Post-antroposantrik |
-| Örnek | Geri dönüştürülmüş içerikli lamine panel | Kompostlanabilir, tek malzemeli, sökülebilir bileşen |
+| **2015–2016** | Biyomimikri eleştirisi ve kendin-yap malzemeler | O'Rourke & Seepersad (2015), Rognoli vd. (2016), Zheng (2015) |
+| **2018–2020** | **Üretim pratiğine dönüş** — tasarımcı malzeme üretiyor | Camere & Karana (2018), Karana vd. (2018), Kırdök vd. (2019), Kırbaş Akyürek vd. (2020), Chang vd. (2020), Babatunde vd. (2020) |
+| **2021–2024** | **Paradigma ve ontoloji dönüşü** | Crawford (2022), Stefanova (2021), Goidea vd. (2022), Andréen & Goidea (2022), Bandoni vd. (2022), Bourbia vd. (2023), Chayaamor-Heil vd. (2024) |
 
-Kritik cümle: *Daha çok geri dönüştürmek, antroposantrizmden çıkmak değildir; onu daha verimli işletmektir.*
-
-Ve Ellen MacArthur'un kelebek diyagramındaki iç halkalar: **bakım → onarım → yeniden kullanım**, geri dönüşümden *önce* gelir. Geri dönüşüm en dıştaki, yani **en zayıf** halkadır. Döngüsel ekonomi söyleminin geri dönüşüme indirgenmesi, bölümün eleştirdiği asıl şey olmalı.
-
-### 2.3. Aktivist çekirdek: "Atık bir karardır" (5. bölüm)
-
-Bölümün en özgün ve en yüklü kısmı. Argümanın adımları:
-
-1. **Atık, maddenin bir özelliği değildir.** Hiçbir maddenin kimyasında "atıklık" yoktur. Atık, bir maddenin *içinde bulunduğu ekonomik ve kültürel sınıflandırmadır*.
-2. **Doğada bu kategori yoktur.** Bir organizmanın çıktısı, bir başkasının girdisidir. "Atık" tümüyle insan yapımı bir kategoridir — ve sanayi devriminden eski değildir.
-3. **Dolayısıyla atık, bir tasarım başarısızlığıdır.** Braungart'ın formülüyle: atık yoktur, yalnızca *yanlış yerde duran besin* vardır.
-4. **Bu, tasarımcının işini değiştirir.** Malzeme seçimi, üretici kataloğunun sunduğu kümeden tercih yapmak değildir. **İlk karar, kümenin sınırını çizmektir:** neyi malzeme sayıyoruz?
-5. **Ve bu bir güç meselesidir.** Neyin malzeme, neyin çöp sayılacağına kim karar veriyor? Şartname kültürü, sertifikasyon rejimi, tedarik zinciri ve üretici kataloğu — bu sınırı tasarımcı adına çiziyor. İç mimar, bu sınırı devraldığı sürece yalnızca *seçen* kişidir.
-
-> **Muhatabı doğru adlandırın:** Düşman "kapitalizm" ya da "sanayi" gibi soyut bir kütle değil — **malzeme evrenini üretici kataloğuyla sınırlayan şartname kültürü**. Belirsiz düşman, belirsiz argüman demektir. Somut adlandırma, metni hem keskin hem savunulabilir yapar.
-
-### 2.4. Biyoloji temelli üretim (6. bölüm) — katalog **değil**, mantık
-
-Örnek anlatmayacağınız için organizmaları tek tek işlemeyin. Bunun yerine **biyolojik üretimin mantığını** dört madde hâlinde kurun ve miselyum/bakteri/alg'e yalnızca alanın menzilini göstermek için birer cümleyle değinin:
-
-1. **Düşük sıcaklık.** Sanayi malzemesi ısıyla yapılır (çimento ~1450 °C, cam ~1500 °C, çelik). Biyolojik üretim ortam sıcaklığında çalışır. Bu bir teknik ayrıntı değil, **enerji rejimi farkıdır**.
-2. **Atıkla beslenme.** Biyolojik üretim girdi olarak çoğunlukla başka bir sürecin çıktısını alır. Yani doğrusal zinciri kurulum aşamasında kırar.
-3. **Yerellik.** Substrat bölgeseldir; üretim dağıtıktır. Merkezî fabrika zorunlu değildir.
-4. **Geri dönüş.** Çıktı, biyolojik döngüye geri verilebilir.
-
-Ve tasarımcının rolü: **malzeme seçicisinden malzeme üreticisine** (Karana vd., MDD; Rognoli, DIY-Materials; malzeme aktivizmi). Bu, 5. bölümdeki "kümenin sınırını kim çiziyor" sorusunun pratik cevabıdır — sınırı kendi laboratuvarında yeniden çizen tasarımcı.
-
-> **Dürüstlük notu (mutlaka koyun):** Biyo-bazlı olmak döngüsel olmak demek değildir. Geri kazanılamayan, yüksek enerjiyle üretilen ya da arazi/gıda rekabeti yaratan bir biyomalzeme çevresel olarak zararlı bile olabilir. Aktivist metnin kendini en kolay çürüttüğü yer burasıdır; itirazı siz getirin.
-
-### 2.5. Tek vaka (7. bölüm) — laboratuvar raporu **değil**, yeniden sınıflandırma anlatısı
-
-Bu bölümü şöyle yazmayın: *"Yumurta kabuğu, agar ve gliserinden üretilen kompozitin basma dayanımı 4,1 MPa olarak ölçülmüştür."*
-
-Şöyle yazın:
-
-> Bir yumurta kabuğu, kahvaltı masasından çöp kovasına giderken ağırlığının yaklaşık %94'ü kalsiyum karbonattır — kireçtaşıyla aynı mineral. Onu "atık" yapan kimyası değil, gittiği yerdir. Bu çalışmada yapılan tek şey, o yolculuğun yönünü değiştirmekti.
-
-Sonra sırasıyla:
-- **Yeniden sınıflandırma:** kabuk bir atık değil, mineral bir dolgu maddesi olarak ele alındı
-- **Bağlayıcı seçimi de aynı mantıkla:** agar (deniz yosunu, yenilenebilir), gliserin (biyodizel yan ürünü — yani **o da bir yan akım**)
-- **Üretim rejimi:** yıkama, öğütme, ısıtma, kalıplama, oda koşullarında kurutma. Fırın yok, pres yok, yüksek sıcaklık yok. **Bir mutfakta yapılabilir** — merkezî üretim gerektirmiyor. Bu, 2.4'teki "yerellik" argümanının kanıtı.
-- **Performans, alçakgönüllü biçimde:** basınç dayanımı ~4,1 MPa; sıkıştırılmış toprak blok aralığında, miselyum kompozitlerin üzerinde, betonun çok altında. Taşıyıcı değil; taşıyıcı olmayı da hedeflemiyor.
-- **Ömür sonu:** öğütülüp üretime geri verilebilir ya da kompostlanabilir. Döngü kapanıyor.
-- **Ve sınırı:** Bu bir laboratuvar prototipidir. Nem dayanımı, yangın performansı ve uzun süreli yaşlanma davranışı sınanmamıştır; ticari bir ürün değildir.
-
-**Son paragraf — vakanın işlevini açıkça söyleyin:**
-
-> Bu malzeme bir çözüm önerisi değildir. Bir **kanıt**tır: yeniden sınıflandırma işleminin gerçekten yapılabildiğinin, laboratuvar ölçeğinde de olsa gösterilmesidir. Önemli olan 4,1 MPa değil, o değerin bir çöp kovasından çıkmış olmasıdır.
-
-Bu son cümle bölümün en çok alıntılanacak yeridir. Metrik değil, **kategori** iddia ediliyor.
-
-> **Neden bu, "tezi minimumda tutma" kararınızla çelişmiyor:** Vaka ~900 kelime ama **verinin ağırlığı değil, anlatının ağırlığı**. Sayılar dipnot düzeyinde kalıyor; tezdeki nicel dirençlilik analizi (Newman Q, Shannon, β/γ/α) bölüme **hiç girmiyor.** Tekrar riski o blokta olduğu için sorun çözülmüş oluyor. `(Ünal, 2025)` atfı zorunlu.
+Alan on yılda **taklit → üretim pratiği → paradigma** hattını izlemiş. Bu, öğretilebilir ve akılda kalır bir anlatı; bölümün 4. bölümünü tek başına taşır.
 
 ---
 
-## 3. Ayrıntılı bölüm planı (v3)
+**② Disiplin yarılması ve çeviri boşluğu** ← *en güçlü bulgu*
 
-**Toplam: ~7.500 kelime.** *Editörden sınırı teyit edin; bütçe orantısal ölçeklenir.*
+Külliyat keskin biçimde ikiye ayrılıyor ve iki kanat **birbirini neredeyse hiç okumuyor**:
 
-| # | Başlık | Kelime | Kayıt | İçerik |
-|---|---|---|---|---|
-| — | Öz / Abstract + anahtar kelimeler | 350 | — | **Türün ilanı burada:** "kuramsal konum metni" |
-| **1** | **Giriş: Bir Çelişkiyle Başlamak** | 550 | **Normatif** | Yumurta kabuğu / kireçtaşı çelişkisi (§1). Bölümün iddiası, türü ve yapısı. Papanek soykütüğüne kısa değinme. |
-| **2** | **Antroposantrizm: Maddenin Edilgenleştirilmesi** | 900 | Analitik | Antroposantrik ontoloji; **doğrusal ekonomi = antroposantrizmin ekonomik biçimi**; doğa girdide depo, çıktıda çöplük; tasarım disiplininin tarihsel ortaklığı; "sürdürülebilir tasarım"ın bir mazerete dönüşmesi. |
-| **3** | **Sürdürülebilirlik Yeterli Bir Hedef Değildir** | 1.100 | Analitik | **Rejeneratif merdiven** (§2.1 tablosu); Lyle, Reed, Mang; yıkıcı→yenileyici yörünge; nötrlüğün yetersizliği; rejeneratif ≠ sürdürülebilir; kademelerin birikimli olması. |
-| **4** | **Döngüsel Ekonominin Zayıf ve Güçlü Biçimleri** | 850 | Analitik | Zayıf/güçlü ayrımı (§2.2); kelebek diyagramı iç halkalar; biyolojik ve teknik besin döngüleri; **geri dönüşüm-merkezciliğin eleştirisi**; AB mevzuatının (ESPR, CPR, DÜP) hangi kademede durduğu. |
-| **5** | **Atık: Bir Madde Değil, Bir Karar** | **1.100** | **Normatif** | **Aktivist çekirdek** (§2.3). Beş adımlı argüman. Kümenin sınırını kim çiziyor? Şartname kültürünün eleştirisi. |
-| **6** | **Biyoloji Temelli Üretim: Yeni Paradigmanın Üretim Mantığı** | 850 | Analitik | §2.4'teki dört ilke; tasarımcının malzeme üreticisine dönüşümü (MDD, DIY-Materials); organizmalara birer cümle; **biyo-bazlı ≠ döngüsel** dürüstlük notu. |
-| **7** | **Bir Vaka: Yumurta Kabuğundan Biyokompozit** | 900 | Anlatı | §2.5. Yeniden sınıflandırma anlatısı. `(Ünal, 2025)` |
-| **8** | **İç Mimarlık İçin Ne Değişir?** | 800 | **Normatif** | 7–10 yıllık yenileme döngüsü; taşıyıcı olmama → biyomalzemeler için düşük risk eşiği; **birleşim eşiği** (bir paragraf: döngüsellik detayda kararlaşır); eğitim ve şartname pratiğine somut öneriler. |
-| **9** | **Sonuç: Konum Almak** | 450 | **Normatif** | Omurganın toparlanması; **tek emir cümlesi burada**; gelecek araştırma. |
+| | **Tasarım/mimarlık kanadı** | **Malzeme bilimi/biyoteknoloji kanadı** |
+|---|---|---|
+| Sorusu | *Tasarım pratiği nasıl değişiyor?* | *Malzemenin özellikleri neler?* |
+| Yöntemi | Görüşme, vaka, pratik temelli araştırma | Deney, ölçüm, derleme |
+| Çıktısı | Süreç bilgisi, rol, zihniyet | Performans verisi |
+| Kaynaklar | Camere & Karana, Karana vd., Bandoni, Stefanova, Rognoli, Crawford, Goidea, Chayaamor-Heil | Chang, Lee, Bourbia, Babatunde, Yang |
 
-**Kayıt dağılımı — dikkat edin:** Normatif bölümler (1, 5, 8, 9) = ~%38; analitik bölümler (2, 3, 4, 6) = ~%49; anlatı (7) = %12. Yani metnin yarısından fazlası **serinkanlı**. Aktivist metni ayakta tutan şey budur.
+**Boşluk:** Tasarım kanadı nicelleştirilmemiş deneyimsel bilgi üretiyor; malzeme kanadı ise hiçbir tasarım kararına bağlanmamış veri üretiyor. **Arada çeviri yok.** Bir iç mimar, Chang vd.'nin (2020) dayanıklılık verisinden bir şartname kararı çıkaramaz; Camere ve Karana'nın (2018) "birlikte-performans" kavramından bir teknik özellik türetemez.
+
+Bu, bölümün en savunulabilir özgün tespitidir. Ve doğrudan iç mimarlığa bağlanır: **çeviriyi yapacak olan disiplin, malzemeyle kullanıcı arasında duran disiplindir.**
 
 ---
 
-## 4. Sürümler arası karşılaştırma
+**③ Ölçek boşluğu: iç mekân yok**
 
-| | v1 (çerçeve) | v2 (organizmalar) | **v3 (konum metni)** |
+Külliyatı ölçeğe göre dizin:
+
+```
+Moleküler ──── Malzeme ──── Ürün ──── [ ? ] ──── Yapı ──── Kent
+   Yang      Chang, Lee,   Camere &            Andréen,   Heymans
+             Babatunde,    Karana;             Goidea,
+             Rognoli       Karana vd.          Bourbia,
+                                               Kırdök,
+                                               Chayaamor-Heil
+```
+
+**Külliyat üründen yapıya atlıyor.** Bölücü, kaplama, yüzey, tavan, donatı — yani iç mekân ölçeği — boş. Bu yalnızca bu külliyatın değil, alanın genel durumu (Türkçe yazında da böyle).
+
+Bu boşluk bölümünüzün hem **gerekçesi** hem de **katkısı**. Kitabın adı "İç Mimarlıkta…" olduğuna göre bundan daha yerinde bir tespit olamaz.
+
+---
+
+**④ Eleştiri açığı**
+
+Külliyattaki **21 kaynaktan yalnızca biri** (O'Rourke & Seepersad, 2015) "biyoloji gerçekten sürdürülebilir mi?" sorusunu doğrudan soruyor. Chang vd. (2020) dayanıklılık üzerinden, Lee vd. (2021) süreç verimliliği üzerinden dolaylı olarak karmaşıklaştırıyor. Geri kalan çoğunluk **biyoloji = sürdürülebilir** varsayımını sorgusuz kabul ediyor.
+
+Bu, alanın yapısal bir zayıflığı: **biyotasarım yazınının bir eleştiri açığı var.** Bunu adlandırmak, bölümün olgunluk göstergesi olur — hem de aktivist tona hiç ihtiyaç duymadan. Serinkanlı bir tespit, yüksek sesli bir suçlamadan daha etkili.
+
+---
+
+**⑤ Yöntemsel örüntü: küçük örneklemli nitel araştırma**
+
+Camere & Karana: 8 görüşme. Bandoni vd.: 10 görüşme. Kırbaş Akyürek vd.: 80 vaka + 20 uzman. Stefanova: pratik temelli. Yani tasarım kanadı ezici biçimde **küçük-N nitel**.
+
+Buna karşılık külliyattaki iki sistematik derleme (Heymans, 57 makale; Zheng, 162 çalışma) **biyotasarım alanından değil, komşu alanlardan**. Yani: *biyotasarımda henüz sistematik derleme geleneği oluşmamış.*
+
+Bu tespit aynı zamanda **bölümünüzün yöntemsel gerekçesi**: alanın ihtiyaç duyduğu haritalama işini mütevazı ölçekte yapıyorsunuz. Ve Zheng (2015) ile Heymans vd. (2019) size hazır **yöntem örneği** sunuyor — külliyatınızın içinden.
+
+---
+
+## 2. ÖNERİLEN YAPI
+
+**Toplam: ~7.400 kelime.** *Editörden sınırı teyit edin.*
+
+| # | Başlık | Kelime | İçerik |
 |---|---|---|---|
-| Tür | Çerçeve + uygulama | Kuram + örnek taraması | **Kuramsal konum metni** |
-| Ana iddia | Döngüsellik detayda kararlaşır | Döngüsellik biyotasarımda ön koşuldur | **Atık bir karardır** |
-| Örnek sayısı | Çok | Çok (proje kataloğu) | **Bir** |
-| Kendi çalışmanız | 1.300 kelime (veri) | 275 kelime | **900 kelime (anlatı, veri değil)** |
-| Nicel dirençlilik analizi | Merkezde | Bir paragraf | **Yok** |
-| Rejeneratif tasarım | Yok | Yok | **Omurga** |
+| — | Öz / Abstract + anahtar kelimeler | 350 | Türün ilanı: *amaçlı örneklemeye dayalı tematik derleme* |
+| **1** | **Giriş** | 600 | İç mekânın kısa yenileme döngüsü (7–10 yıl / yapı 50–100 yıl); biyoloji temelli malzemelerin neden iç mimarlığı ilgilendirdiği; bölümün amacı ve yol haritası. |
+| **2** | **Kavramsal Zemin: Terimler ve Ayrımlar** | **1.100** | **Bölümün didaktik çekirdeği.** Biyomimikri / biyoloji temelli tasarım / biyofabrikasyon / biyomalzeme / biyokompozit / döngüsel tasarım / rejeneratif tasarım. Kırbaş Akyürek vd. (2020) tam da bu iş için. **Terminoloji tablosu.** |
+| **3** | **Yöntem** | 500 | Külliyatın oluşturulması, seçim ölçütleri, çözümleme eksenleri (tür, disiplin, ölçek, yöntem, dönem). Zheng (2015) ve Heymans vd. (2019) yöntem örneği olarak. **Sınırlılık beyanı.** |
+| **4** | **Alanın Gelişimi: Taklitten Paradigmaya** | 900 | **Bulgu ①.** Üç dönem, külliyattan kanıtla. |
+| **5** | **Tematik Kümeler** | **1.800** | Külliyatın beş tematik kümesi (aşağıda) |
+| 5.1 | *Biyolojik tasarım ilkeleri ve kuramsal çerçeveler* | 360 | Andréen & Goidea'nın dört ilkesi; Goidea vd. transkalar tasarım; Crawford; Yang vd. |
+| 5.2 | *Canlı organizmalarla üretim ve tasarımcının rolü* | 400 | Camere & Karana "birlikte-performans"; Karana vd. MDD; Chayaamor-Heil; Rognoli DIY-Materials ve malzeme aktivizmi |
+| 5.3 | *Biyo-bazlı malzemelerin teknik performansı* | 380 | Chang (dayanıklılık); Bourbia (higrotermal); Babatunde (kitosan) — ve bu verinin tasarım kararına çevrilememesi |
+| 5.4 | *Atık akışları ve döngüsel üretim* | 340 | Lee vd. (atık/artıktan biyo-bazlı ürün); Kırdök vd. (karbon); döngüsel ekonomi bağlantısı |
+| 5.5 | *Disiplinlerarasılık, yöntem ve laboratuvar* | 320 | Bandoni; Stefanova; Zheng; Heymans |
+| **6** | **Çapraz Çözümleme: Yazındaki Üç Boşluk** | **1.100** | **Bölümün analitik karşılığı.** ② çeviri boşluğu · ③ ölçek boşluğu (iç mekân yok) · ④ eleştiri açığı. Her biri ~350 kelime. |
+| **7** | **İç Mimarlık İçin Çıkarımlar** | 900 | Boşlukların iç mimarlık pratiğine ne söylediği; taşıyıcı olmama → biyomalzemeler için düşük risk eşiği; **döngüselliğin birleşim detayında kararlaşması** (bir paragraf); **tek örnek: yumurta kabuğu biyokompoziti (~200 kelime)**, `(Ünal, 2025)` |
+| **8** | **Sonuç ve Araştırma Gündemi** | 550 | Sentez + **numaralı araştırma gündemi** (öğrenciye bırakılan asıl değer) |
 
-Not: v1'in "birleşim eşiği" tezi v3'te tek paragrafa indi (8. bölüm) ama kayboldu sayılmaz — çünkü artık ana iddia değil, ana iddianın uygulamadaki karşılığı.
+### Not: ton dengesi
+
+Aktivist kayıt bölümde neredeyse yok. Yalnızca **6. bölümdeki eleştiri açığı** tartışmasında bir ölçülü paragraf ve sonuçta bir cümle. Gerisi açıklayıcı ve serinkanlı. İstediğiniz denge bu.
 
 ---
 
-## 5. Tablo ve görsel planı
+## 3. Didaktik metnin gereçleri
 
-Az örnekli bir metinde görseller **argümanın kendisini** taşımalı. Beş öğe yeterli — hepsi sizin üretiminiz, telif sorunu yok:
+Bir bölümün "öğretici" olmasını sağlayan şey ton değil, **aygıt**. Şunları koyun:
+
+1. **Tanım kutuları.** 2. bölümde her temel terim için kısa, numaralı, kenarda duran tanım. Öğrenci bunları fotoğraflar.
+2. **Terminoloji tablosu.** Türkçe yazında biyomimikri ile biyotasarım sürekli karıştırılıyor. Bunu netleştiren bir tablo, tek başına bölümü kaynak hâline getirir.
+3. **Kavram–kaynak eşleştirmesi.** Her tematik kümenin sonunda "bu kümeye girmek isteyen önce şunu okusun" satırı. Öğrenciye giriş kapısı vermek, derleme bölümünün en değerli işlevidir.
+4. **Sadeden karmaşığa ilerleme.** Terimler → tarih → temalar → boşluklar → çıkarımlar. Okur her adımda bir öncekini kullanır.
+5. **Numaralı araştırma gündemi.** 8. bölümde 5–6 maddelik, somut, çalışılabilir soru listesi. Lisansüstü öğrenci buradan tez konusu çıkarır — ve bölümünüze atıf verir.
+
+**Araştırma gündemi için hazır maddeler** (külliyattaki boşluklardan doğrudan türetildi):
+
+1. Biyo-bazlı malzemelerin teknik performans verisi, iç mekân şartname kararlarına nasıl çevrilebilir? (② çeviri boşluğu)
+2. Taşıyıcı olmayan iç mekân bileşenleri için biyomalzeme performans eşikleri nelerdir? (③ ölçek boşluğu)
+3. Biyo-bazlı bileşenlerin tersinir birleşim detayları nasıl geliştirilebilir?
+4. Biyomalzemelerin kullanıcı kabulü ve deneyimsel değerlendirmesi iç mekânda nasıl ölçülür?
+5. Yerel atık akışlarının (Türkiye bağlamında) iç mekân malzemesine dönüşüm potansiyeli nedir?
+6. Biyo-bazlı malzemelerin yaşam döngüsü değerlendirmesi, kısa yenileme döngülü iç mekânlarda nasıl kurgulanmalıdır? (④ eleştiri açığı)
+
+---
+
+## 4. Tablo ve görsel planı
+
+Derleme bölümünde görseller **bulguyu** göstermeli:
 
 | # | Tür | İçerik | Değer |
 |---|---|---|---|
-| Tablo 1 | Tablo | **Rejeneratif merdiven** ve atığa bakış (§2.1) | ✔✔ Bölümün merkez tablosu |
-| Tablo 2 | Tablo | Zayıf – güçlü döngüsellik (§2.2) | ✔ Özgün |
-| Görsel 1 | Diyagram | **Omurga şeması** (§2'deki akış) — kapak görseli | ✔ Özgün |
-| Görsel 2 | Şema/infografik | **Açılış çelişkisi:** kireçtaşı ocağı ↔ yumurta kabuğu; aynı molekül (CaCO₃), iki kategori, iki akıbet | ✔✔ **Bölümün imzası** |
-| Görsel 3 | Fotoğraf | Biyokompozit numuneniz — **tek görsel** | Kendi |
+| Tablo 1 | Tablo | **Terminoloji:** biyomimikri / biyotasarım / biyofabrikasyon / biyomalzeme | ✔✔ Didaktik değerin merkezi |
+| Tablo 2 | Tablo | **Külliyat tablosu** (§1.1) — kaynak, yıl, tür, disiplin, ölçek | ✔✔ Bölümün kanıt tabanı |
+| Tablo 3 | Tablo | **Tarihsel yay:** üç dönem ve kaynakları (bulgu ①) | ✔ Özgün |
+| Tablo 4 | Tablo | **Disiplin yarılması:** iki kanadın soru/yöntem/çıktı karşılaştırması (bulgu ②) | ✔✔ Özgün |
+| Görsel 1 | Diyagram | **Ölçek ekseni ve iç mekân boşluğu** (§1.2③'teki şema) | ✔✔ **Bölümün imza görseli** |
+| Görsel 2 | Diyagram | Tematik kümelerin haritası ve aralarındaki ilişkiler | ✔ Özgün |
+| Görsel 3 | Fotoğraf | Biyokompozit numuneniz — tek görsel | Kendi |
 
-> Görsel 2'yi ciddiye alın. Aktivist bir metnin akılda kalan şeyi genelde tek bir imgedir. CaCO₃ molekülünün iki tarafında ocak ve çöp kovası — basit, sert ve alıntılanabilir.
+> Görsel 1'i ciddiye alın: moleküler–malzeme–ürün–**[boşluk]**–yapı–kent ekseninde iç mekânın boş kutusu. Tek bakışta bölümün tezini anlatır ve alıntılanır.
+
+**Telif avantajı:** Bu kurguda dışarıdan proje fotoğrafına ihtiyacınız yok. Tüm tablolar ve diyagramlar sizin üretiminiz — izin süreci yok.
 
 ---
 
-## 6. Öz, başlık, anahtar kelimeler
+## 5. Başlık, öz, anahtar kelimeler
 
 ### Başlık
-Editörün başlığını koruyun. Alt başlık (editör onayıyla):
+Editörün başlığını koruyun. Alt başlık (onayla):
 
-> **İç Mimarlıkta Sürdürülebilir Malzeme Seçimi ve Döngüsel Tasarım: Atığı Yeniden Sınıflandırmak**
+> **İç Mimarlıkta Sürdürülebilir Malzeme Seçimi ve Döngüsel Tasarım: Biyoloji Temelli Malzeme Yazınının Tematik Bir Değerlendirmesi**
 
-### Öz taslağı (~210 kelime)
+### Öz taslağı (~200 kelime)
 
-> Bu bölüm, iç mimarlıkta malzeme kararını kuramsal bir konum metni çerçevesinde ele almakta; ampirik bir performans değerlendirmesi sunmamaktadır. Sürdürülebilir malzeme söylemi büyük ölçüde ikame mantığıyla işlemekte, fosil kökenli bir ürünün yenilenebilir bir ürünle değiştirilmesi üretim–tüketim–bertaraf zincirinin doğrusallığını değiştirmemektedir. Bölüm, doğrusal üretimi antroposantrik bir ontolojinin ekonomik biçimi olarak okumakta ve rejeneratif tasarım yazınının yıkıcıdan yenileyiciye uzanan yörüngesi üzerinden, sürdürülebilirliğin yeterli bir hedef olmadığını ileri sürmektedir: zaten bozulmuş bir sistemde nötr olmak, bozulmayı sabitlemek anlamına gelir. Bu doğrultuda döngüselliğin zayıf ve güçlü biçimleri ayırt edilmekte; halkayı teknik olarak kapatan yaklaşımların insanı hâlâ döngünün dışında ve yöneticisi konumunda tuttuğu gösterilmektedir. Bölümün temel iddiası, "atık" kavramının maddenin bir özelliği değil bir tasarım kararı olduğudur: hiçbir maddenin kimyasında atıklık bulunmaz, atık bir sınıflandırmadır. Buradan hareketle tasarımcının ilk kararının malzeme seçmek değil, neyin malzeme sayılacağına karar vermek olduğu savunulmakta; bu kararın üretici kataloğuna ve şartname kültürüne devredilmesi eleştirilmektedir. Argüman, atık yumurta kabuğu ile doğal polimer bağlayıcıdan geliştirilmiş bir biyokompozit üzerinden örneklenmekte; söz konusu malzeme bir çözüm önerisi olarak değil, yeniden sınıflandırma işleminin uygulanabilirliğinin göstergesi olarak sunulmaktadır.
+> Biyoloji temelli malzemeler son on yılda tasarım ve yapı araştırmalarında hızla genişleyen bir alan hâline gelmiştir; ancak bu genişleme, farklı disiplinlerde ve farklı terminolojilerle gerçekleştiği için alanın bütününü görmeyi güçleştirmektedir. Bu bölüm, biyoloji temelli tasarım ve malzeme yazınını amaçlı örneklemeye dayalı tematik bir derleme yoluyla değerlendirmekte ve iç mimarlık açısından bir harita sunmayı amaçlamaktadır. Çalışma kapsamında tasarım, mimarlık, malzeme bilimi, biyoteknoloji ve kentsel planlama alanlarından seçilen kaynaklar; tür, disiplin, ölçek, yöntem ve dönem eksenlerinde çözümlenmiştir. Bulgular, alanın son on yılda biyolojiyi taklit etmekten biyolojiyle birlikte üretmeye ve oradan bir paradigma tartışmasına doğru ilerlediğini göstermektedir. Çözümleme ayrıca üç yapısal boşluk ortaya koymaktadır: tasarım ve malzeme bilimi kanatlarının birbirine çevrilemeyen bilgi üretmesi; yazının ürün ölçeğinden yapı ölçeğine atlayarak iç mekân ölçeğini boş bırakması; ve biyolojik kökenin sürdürülebilirlikle özdeşleştirilmesine yönelik eleştirel çalışmaların sınırlılığı. Bölüm, bu boşlukların iç mimarlık açısından ne anlama geldiğini tartışmakta ve alana yönelik bir araştırma gündemi önermektedir. Atık yumurta kabuğundan geliştirilmiş bir biyokompozit, tartışmayı somutlaştıran tek örnek olarak sunulmaktadır.
 
 ### Anahtar kelimeler
-`rejeneratif tasarım` · `döngüsel ekonomi` · `antroposantrizm` · `atık` · `biyomalzeme` · `malzeme seçimi` · `iç mimarlık`
+`biyoloji temelli tasarım` · `biyomalzeme` · `tematik derleme` · `döngüsel tasarım` · `malzeme seçimi` · `iç mimarlık`
 
 ---
 
-## 7. Aktivist akademik metin nasıl yazılır — yedi kural
+## 6. Sürümler arası karşılaştırma
 
-Bu bölümü ciddiye alın; türün başarısı tondadır ve ton yönetilmezse metni götürür.
+| | v1 | v2 | v3 | **v4** |
+|---|---|---|---|---|
+| Tür | Çerçeve + uygulama | Kuram + örnek taraması | Aktivist konum metni | **Didaktik tematik derleme** |
+| Özgün katkı | BDM karar çerçevesi | Üç işbirliği kipi | "Atık bir karardır" | **Külliyattan üç boşluk** |
+| Kendi çalışmanız | 1.300 kelime | 275 kelime | 900 kelime | **~200 kelime** |
+| Ton | Nötr-teknik | Kuramsal | Normatif/aktivist | **Açıklayıcı** |
+| Dış görsel telifi | Gerekli | Gerekli | Kısmen | **Gerekmiyor** |
+| Yazım süresi | Orta | Uzun | Orta | **En kısa** |
 
-1. **Normatif kayıt uçlarda, analitik kayıt ortada.** İddia ve çağrı 1., 5., 8. ve 9. bölümlerde; 2., 3., 4. ve 6. bölümlerde serinkanlı analiz. Baştan sona yüksek perdeden yazarsanız okur savunmaya geçer ve argümanı değil sizi tartışır.
-2. **Her "olmalı"nın arkasında atıflı bir "çünkü" olsun.** Normatif cümlelerin yanında mutlaka bir kaynak ya da gösterilmiş bir olgu dursun. Aktivizm akademide tonla değil argümanla kazanılır.
-3. **Muhatabı somut adlandırın.** "Kapitalizm" değil, "malzeme evrenini üretici kataloğuyla sınırlayan şartname kültürü". Belirsiz düşman, belirsiz argüman demektir.
-4. **Meslektaşı değil, sistemi suçlayın.** Okurunuz iç mimar. "Siz yanlış yapıyorsunuz" derseniz kaybedersiniz; "bu sistem bizi buna mecbur bırakıyor" derseniz kazanırsınız. Fark, okurun savunmaya mı geçtiği yoksa yanınıza mı geldiğidir.
-5. **Emir kipini bir kez kullanın.** Sonuç bölümünde, tek cümlede. Enflasyona uğrarsa etkisi biter.
-6. **Kendi örneğinizde alçakgönüllü olun.** 4,1 MPa'yı zafer olarak sunmayın. Sınırlarını siz söyleyin. Aktivist metnin en kolay çürütüldüğü yer abartılmış örnektir.
-7. **Duyguyla değil oranla ikna edin.** 21 milyar yumurta, 120 bin ton kalsiyum karbonat, 7–10 yıllık yenileme döngüsü, 1450 °C. Bu sayılar her sıfattan daha sert vurur.
+v1–v3'ten korunanlar: 7–10 yıllık yenileme döngüsü istatistiği (1. bölüm), birleşim eşiği (7. bölümde bir paragraf), biyo-bazlı ≠ döngüsel eleştirisi (6. bölümde eleştiri açığı başlığı altında).
 
 ---
 
-## 8. Riskler
+## 7. Riskler
 
 | Risk | Nasıl karşılanır |
 |---|---|
-| **Vaaza dönüşme** | §7'deki yedi kural. Özellikle 1. ve 4. |
-| **"Bu akademik değil"** | Papanek–Fuad-Luke–Fry hattını girişte anın. Tür ilanını Öz'e koyun. |
-| **Rejeneratif tasarımın muğlaklığı** | Terimi *tanımlayarak* kullanın; Lyle (1994) ve Reed (2007) atfı olmadan kullanmayın. Türkçe yazında bu kavram sık sık içi boş bir slogan olarak dolaşıyor — sizin katkınız onu **tanımlı** kullanmak olsun. |
-| **Tek örnek yükü taşımayabilir** | Vakayı *çözüm* değil *kanıt* olarak konumlandırın (§2.5 son paragrafı). Emblematik örnek, temsilî örnekten güçlüdür. |
-| **Doğrulanmamış sayı** | §1'deki uyarı. TÜİK ve TÇMB verileriyle doğrulayın, kabullerinizi dipnotta yazın. Aktivist metinde tek yanlış sayı tüm argümanı götürür. |
-| **Başlıktan sapma** | 5. bölüm "malzeme seçimi"ni doğrudan konu ediyor, 4. bölüm "döngüsel tasarım"ı. İkisini de kavram olarak açıkça adlandırın. |
-| **Biyomalzeme övgüsü** | 6. bölümdeki dürüstlük notu. Biyo-bazlı ≠ döngüsel. |
+| **Yazar geçidine dönüşme** | §1.2'deki beş bulgu. Her tematik kümeyi bir **iddia** ile açın, kaynakları o iddianın kanıtı olarak sıralayın — tersi değil. |
+| **"Sistematik derleme" iddiası** | §0'daki uyarı. "Amaçlı örneklemeye dayalı tematik derleme" deyin ve sınırlılığı yöntem bölümünde yazın. |
+| **Külliyatın darlığı** | 21 kaynak bir kitap bölümü için yeterli, ama 2. ve 7. bölümler için dışarıdan ~15–20 kaynak daha ekleyin (terminoloji, döngüsel ekonomi, iç mimarlık). Toplam ~40 kaynak makul görünür. |
+| **Başlıktan sapma** | 5.4 (atık ve döngüsel üretim) ve 7. bölüm "döngüsel tasarım"ı; 2. ve 7. bölümler "malzeme seçimi"ni karşılıyor. Bu kavramları başlıkta ve alt başlıklarda **açıkça** kullanın. |
+| **İç mimarlık bağının zayıf kalması** | Bulgu ③ (ölçek boşluğu) bunun panzehiri. 1., 6. ve 7. bölümlerde tekrar edin. |
 
 ---
 
-## 9. Kaynak omurgası (v3)
+## 8. Eklenecek kaynaklar
 
-**Aktivist/eleştirel tasarım hattı (yeni — en öncelikli edinim):**
-Papanek, V. (1971) *Design for the Real World* · Fuad-Luke, A. (2009) *Design Activism* · Fry, T. (*Design Futuring*, defuturing) · Manzini, E.
+Külliyat dışından, özellikle 2. ve 7. bölümler için:
 
-**Rejeneratif tasarım (yeni — omurga):**
-Lyle, J. T. (1994) *Regenerative Design for Sustainable Development* · Reed, B. (2007) "Shifting our mental model: sustainability to regeneration" · Mang, P. & Reed, B. (*Regenerative Development and Design*) · Regenesis Group · Cole, R.
+**Terminoloji ve kavram:** Myers, W. (2012/2018) *Bio Design* · Ginsberg & Chieza (2018) · Benyus, J. (1997) *Biomimicry* · Oxman, N. (2016) · **Karana vd. (2015)** *Material Driven Design* (birincil kaynak — mutlaka)
 
-**Döngüsel ekonomi:**
-McDonough & Braungart (2002) *Cradle to Cradle* · Ellen MacArthur Foundation (kelebek diyagramı; MCI) · kaskad kullanım literatürü · ESPR (AB) 2024/1781 · CPR (AB) 2024/3110 · ISO 20887:2020 · Brand (1994) / Duffy (shearing layers) · Türkiye Yeşil Mutabakat Eylem Planı
+**Döngüsel/rejeneratif:** McDonough & Braungart (2002) · Ellen MacArthur Foundation · Lyle (1994) · Reed (2007) · ISO 20887:2020 · ESPR (AB) 2024/1781 · Türkiye Yeşil Mutabakat Eylem Planı
 
-**Antroposantrizm / ekoloji:**
-Naess, A. (derin ekoloji) · Crutzen & Stoermer (Antroposen) · Heymans vd. (2019) · O'Rourke & Seepersad
+**İç mimarlık bağlamı:** Brand (1994) / Duffy (shearing layers) · iç mekân yenileme döngüsü ve fit-out atığı üzerine kaynaklar
 
-**Biyoloji temelli tasarım (repodan):**
-Camere & Karana (2018) · Karana vd. (2015; 2018) · Rognoli vd. (DIY-Materials) · Material Activism (2019) · Crawford (2022) · Goidea vd. (2022) · Andréen & Goidea (2022) · Chayaamor-Heil vd. (2024) · Bourbia vd. (2023) · Lee vd. (2022) · Chang vd. (2020) · Bandoni vd. (2022) · Stefanova (2021) · **Kırdök, Altun, Dokgöz & Tokuç (2019)** · **Kırbaş Akyürek, Ciravoğlu vd. (2020)**
-
-**Vaka:**
-Babatunde vd. (2020) (yumurta kabuğu) · Rhim & Wang (agar) · Pagliaro vd. (gliserin) · **Ünal (2025)** · TÜİK yumurta üretim verileri · TÇMB çimento verileri
-
-> v3'te **devre dışı:** Newman (2006), Shannon, Pielou, Simpson, Kansky, Hillier & Hanson. Nicel dirençlilik analizi bölüme girmiyor; bu kaynakları zorlamayın.
+**Vaka:** Babatunde vd. (2020) · **Ünal (2025)**
 
 ---
 
-## 10. Takvim (≈3 hafta)
+## 9. Takvim (≈3 hafta)
 
 | Gün | İş |
 |---|---|
-| 1 | **Editöre yazın:** kelime sınırı, atıf sistemi, alt başlık izni. **Ayrıca türü haber verin** — "kuramsal konum metni" yazacağınızı söyleyin; sürpriz olmasın. |
-| 1–3 | Papanek, Lyle, Reed, Mang temini — **omurga bu kaynaklarda**, geciktirmeyin |
-| 2–3 | TÜİK ve TÇMB verilerinin doğrulanması; açılış çelişkisinin sayısallaştırılması |
-| 3–4 | **Tablo 1 ve Görsel 1–2'nin tasarlanması.** Önce bunları yapın |
-| 4–7 | Bölüm 2 ve 3 (antroposantrizm + rejeneratif merdiven) |
-| 7–9 | Bölüm 4 (zayıf/güçlü döngüsellik) |
-| 9–12 | **Bölüm 5 (aktivist çekirdek)** — en çok emek isteyen bölüm; birkaç kez yazın |
-| 12–14 | Bölüm 6 ve 7 |
-| 14–16 | Bölüm 8, 9 ve Giriş (**girişi en sona bırakın**) |
-| 16–17 | Öz, kaynakça, dipnotlar, sayı doğrulaması |
-| 17–18 | **Ton denetimi:** §7'deki yedi kurala göre baştan sona okuyun. Özellikle 4. kural. |
+| 1 | **Editöre yazın:** kelime sınırı, atıf sistemi, alt başlık izni |
+| 1–3 | **Tablo 1 (terminoloji) ve Tablo 2 (külliyat)** — bunlar bölümün iskeleti, önce bitirin |
+| 3–4 | Görsel 1 (ölçek ekseni) ve Görsel 2 (tema haritası) |
+| 4–6 | Bölüm 2 (terimler) ve Bölüm 3 (yöntem) |
+| 6–8 | Bölüm 4 (tarihsel yay) |
+| 8–12 | **Bölüm 5 (tematik kümeler)** — en uzun bölüm |
+| 12–15 | **Bölüm 6 (üç boşluk)** — en özgün bölüm, acele etmeyin |
+| 15–17 | Bölüm 7 ve 8 + Giriş (**girişi en sona bırakın**) |
+| 17–18 | Öz, kaynakça, ek kaynakların yerleştirilmesi |
 | 18–19 | Danışman/meslektaş okuması |
 | 19–20 | Düzeltme ve gönderim |
 
@@ -306,11 +280,10 @@ Babatunde vd. (2020) (yumurta kabuğu) · Rhim & Wang (agar) · Pagliaro vd. (gl
 
 ## Kapanış
 
-Üç sürüm boyunca bölüm giderek **daha az şey anlatıp daha çok şey iddia eder** hâle geldi. Bu doğru yön. v1 bir çerçeve sunuyordu, v2 bir alan taraması yapıyordu; v3 bir **konum** alıyor.
+Dört sürüm sonunda ortaya çıkan şey şu: bölümün özgün katkısı artık **kendi malzemeniz değil, alanın haritası**. Ve bu harita gerçek bir boşluğa işaret ediyor — biyoloji temelli malzeme yazını ürün ölçeğinden yapı ölçeğine atlıyor, **iç mekânı atlıyor.**
 
-Ve v3'ün avantajı şu: kendi çalışmanız artık bölümün *konusu* değil, bölümün *kanıtı*. Bu hem tekrar sorununu çözüyor hem de malzemenizi daha güçlü bir yere koyuyor. 4,1 MPa'lık bir biyokompozit, bir performans iddiası olarak mütevazıdır; ama **bir kategori itirazının kanıtı** olarak güçlüdür.
+Bu tespit, kitabın adıyla ("İç Mimarlıkta…") ve sizin konumunuzla (bu alanda iç mimarlık doktorası yapmış tek kişilerden biri) birebir örtüşüyor. Yani bölüm, "şunlar yazılmış" demiyor; **"şu yazılmamış, ve bunu yazacak olan disiplin bizimki"** diyor.
 
-Bölümün tamamı iki cümlede duruyor:
+Bir derleme bölümünün iddia edebileceği en iyi şey budur.
 
-> **"Atık", maddenin bir özelliği değil, bir tasarım kararıdır.**
-> **Önemli olan 4,1 MPa değil; o değerin bir çöp kovasından çıkmış olmasıdır.**
+Son olarak — bulgu ② üzerine bir not: tasarım kanadı ile malzeme bilimi kanadının birbirine çevrilemeyen bilgi üretmesi, sizin tezinizde zaten **çözülmüş** bir sorun (MDD ile teknik testi aynı çalışmada birleştirdiniz). Bölümde bunu öne sürmeyin — ama 7. bölümde tek cümleyle ima edebilirsiniz. Boşluğu adlandıran kişinin onu kapatabildiğini göstermesi, en zarif atıf davetidir.
