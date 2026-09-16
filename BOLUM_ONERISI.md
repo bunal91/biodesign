@@ -1,361 +1,345 @@
-# Kitap Bölümü Öneri Raporu
+# Kitap Bölümü Öneri Raporu — v2 (yeniden kurgulanmış)
 
 **Bölüm başlığı:** İç Mimarlıkta Sürdürülebilir Malzeme Seçimi ve Döngüsel Tasarım
 **Kitap:** İç Mimarlıkta Güncel Yaklaşımlar ve Mekânsal Araştırmalar (Ed. Dr. Öğr. Üyesi Seval Yılmaz, Vizetek Yayıncılık)
 **Yazar:** Betül Ünal
-**Rapor tarihi:** 16 Eylül 2026 · **Son gönderim:** 6 Ekim 2026 (≈3 hafta)
+**Rapor tarihi:** 16 Eylül 2026 · **Son gönderim:** 6 Ekim 2026
+
+> **v2 notu:** Bu sürüm, tez verisini minimuma indirme ve ağırlığı biyotasarım kuramı ile canlı organizmalarla tasarlama üzerine kaydırma yönündeki karara göre yeniden yazılmıştır. v1'deki "Üç Rejim" omurgası tümüyle atılmadı; tek bir bölüme sıkıştırılıp başlığı karşılayan köprü işlevi görecek şekilde konumlandırıldı.
 
 ---
 
-## 0. Kısa değerlendirme (önce sonucu söyleyeyim)
+## 0. Karara ilişkin değerlendirmem
 
-Elinizde bu bölümü yazmak için gereken her şey **fazlasıyla** var: savunulmuş bir doktora tezi, laboratuvar verisi, tam ölçekli bir tasarım önerisi, nicel bir dirençlilik analizi ve 22 kaynaklık sağlam bir literatür tabanı. Risk, veri eksikliği değil; **kapsam taşması**. Tezin tamamını 7.000 kelimeye sığdırmaya çalışırsanız ortaya özet niteliğinde, argümanı olmayan bir metin çıkar. Bu, bir kitap bölümünün en sık düştüğü tuzaktır ve atıf almasını engelleyen şeydir.
+Kararınız doğru — üç nedenle:
 
-Bu raporun önerisi şudur: **Bölümü bir "özet" değil, bir "çerçeve" metni olarak kurgulayın.** Tez verisi ana iddia değil, iddianın *kanıtı* olsun.
+1. **Özyineleme riskini ortadan kaldırıyor.** v1'de tez verisi ~1.300 kelime tutuyordu; bu, hem tezinizle hem de İngilizce makalenizle çakışma yüzeyini genişletiyordu. Yeni kurguda kendi çalışmanız ~275 kelimeye iniyor ve *kanıt* değil *örnek* konumuna geçiyor.
+2. **Kitabın tonuna daha iyi oturuyor.** Diğer iki bölüm (mekân kuramı/algı; tasarım düşüncesi/yaparak düşünme) kuramsal-eleştirel. Kuram ağırlıklı bir bölüm kitapla aynı dili konuşur.
+3. **Bölümü öğretilebilir kılıyor.** Canlı organizmalar bölümü, bir kitap bölümünün derste okutulmasını sağlayan türden içeriktir. Atıf, çoğu zaman ders okuma listelerinden gelir.
 
-Ve bölümün tek cümlelik omurgası şu olsun:
+### Ama bir uyarı — ve çözümü
 
-> **İç mekânda bir malzemenin döngüselliği, malzemenin kendisinde değil, birleşim detayında kararlaştırılır.**
+**Risk:** Editörün verdiği başlık "Sürdürülebilir Malzeme **Seçimi** ve **Döngüsel Tasarım**". Bölüm bir biyotasarım kuramı + organizma taramasına dönüşürse başlıktan sapar ve editör "başlığa dönün" der.
 
-Bu cümle hem editörün verdiği başlığı (*malzeme seçimi* + *döngüsel tasarım*) tam karşılar, hem iç mimarlığa özgüdür, hem sizin 377 modüllü, yapıştırıcısız, metal bağlantısız sisteminizle doğrudan kanıtlanır, hem de literatürde henüz bu netlikte söylenmemiştir. Bölümün "para cümlesi" budur.
+**Çözüm — bölümün yeni omurgası:**
 
----
+> **Döngüsellik, biyotasarımda ulaşılacak bir hedef değil, çalışmanın ön koşuludur. Canlı bir organizmayla üretim yapmak, doğrusal üretimi teknik olarak imkânsız kılar.**
 
-## 1. Editoryal bağlam: bu kitapta ne yapmalısınız?
+Bu tek hamle, organizma bölümlerini başlıktan **saptırmak yerine başlığa hizmet ettirir**. Çünkü artık her organizma alt başlığı şu soruyu yanıtlar: *"Bu organizma döngüyü nerede ve nasıl kapatıyor?"* Antroposantrizm de bu omurganın içinde iş görür: **doğrusal ekonomi, antroposantrizmin ekonomik biçimidir.**
 
-Kitabın ilan edilmiş bölümleri şu an itibarıyla şunlar:
+### İkinci bir tez (bölümün kapanışı için)
 
-1. İç Mimarlıkta Mekân Kuramı, Algı ve Duyusal Deneyim Tasarımı
-2. İç Mimarlıkta Tasarım Düşüncesinin Gelişimi: Eskiz, Maket ve Yaparak Düşünme
+> **Canlılık derecesi arttıkça iç mekân bir "ürün" olmaktan çıkıp bir "habitat"a dönüşür; tasarımcının teslim ettiği şey bir yüzey değil, bir bakım rejimidir.**
 
-Buradan üç çıkarım yapıyorum:
-
-- **Kitap kuramsal-eleştirel ağırlıklı, deneysel değil.** Saf laboratuvar raporu yazarsanız kitabın tonundan kopar.
-- **Sizin bölümünüz kitabın "maddesel/teknik" ayağını tek başına taşıyacak.** Bu bir avantaj: kitabın en somut, en veri temelli bölümü sizinki olacak. Bunu vurgulayın.
-- **"Yaparak düşünme" bölümüyle doğal bir komşuluk var.** Malzeme Odaklı Tasarım (MDD) ve DIY-Materials tam olarak "yaparak düşünme"nin malzeme ölçeğindeki karşılığıdır. Bir cümlelik bir köprü kurmak editörün hoşuna gider ve kitabın iç bütünlüğünü güçlendirir.
-
-**Hedef kitle:** İç mimarlık lisans/lisansüstü öğrencileri ve akademisyenler; ikincil olarak uygulamacılar. Yani metin hem kuramsal derinliğe sahip olmalı hem de **stüdyoda kullanılabilir bir araç** bırakmalı. Bir bölümün kalıcı olmasını sağlayan şey, okurun alıp kullanabileceği bir çerçeve/tablo bırakmasıdır.
+Ve bakım, döngüselliğin en içteki halkasıdır (Ellen MacArthur'un kelebek diyagramındaki iç döngüler: *bakım → onarım → yeniden kullanım*, geri dönüşümden **önce**). Böylece "canlı organizmalarla tasarlamak" ile "döngüsel tasarım" aynı cümlede buluşur. Bu, bölümün en özgün ve en iç-mimarlığa-özgü iddiası olacak.
 
 ---
 
-## 2. Elinizdeki malzemenin envanteri
+## 1. "Tezi minimumda tutmak" ne demek — kritik bir ayrım
 
-### 2.1. Kendi üretiminiz (bölümün omurgası)
+Bu ayrımı netleştirmezseniz ya gereğinden fazla kendinizi sansürlersiniz ya da farkında olmadan tekrara düşersiniz:
 
-| Kaynak | İçerik | Bölümde rolü |
+| | Durum | Bölümde |
 |---|---|---|
-| **Doktora tezi** (Hacettepe, 2025, Dan. Prof. Dr. Duygu Koca) | Biyokompozit üretimi + MDD analizi + nicel dirençlilik analizi + modüler tasarım önerisi | Ana veri kaynağı — **mutlaka atıfla** (Ünal, 2025) |
-| **"Spatial Resilience Beyond Anthropocentrism"** (İngilizce makale taslağı) | Post-antroposantrik ontoloji, malzeme failliği, ilişkisel dirençlilik | Kuramsal arka plan — **ama tekrar etmeyin** (bkz. §9) |
-| **"Biyoloji Temelli Modüler Yapı Sistemi" özeti** | Proje gerekçesi, üretim süreci, ölçeklenebilirlik, etki | Uygulama/senaryo bölümü için |
+| **Ampirik bulgularınız** | 4,1 MPa · 2,3 MPa · 192 MPa · 377 modül · Q=0,60 · Shannon değerleri | **Minimuma indirin.** ~275 kelime, tek alt başlık, `(Ünal, 2025)` atfıyla. Tekrar riski burada. |
+| **Kuramsal birikiminiz** | Tez 2. bölümdeki miselyum/bakteri/alg literatürü, biyofabrikasyon, MDD, antroposantrizm okumaları | **Serbestçe kullanın.** Bu sizin *okuduğunuz* literatür, *ürettiğiniz* bulgu değil. Yeniden yazmak koşuluyla tekrar sayılmaz. |
 
-### 2.2. Kilit sayısal veriler (bölümün kanıt tabanı)
+Yani: **tezin bulgularını değil, tezin birikimini kullanın.** Zaten tezinizin 2.8.1–2.8.3 bölümlerinde miselyum, bakteri ve alg üzerine ciddi bir hâkimiyet var — bunu sıfırdan kurmanıza gerek yok.
 
-**Malzeme:** Yumurta kabuğu (110 g) + agar agar (50 g) + gliserol (5 g) + su (280 g) = 445 g
-Oranlar: %24,7 / %11,2 / %1,1 / %62,9
+### Tezinizin organizma bölümlerinde ne var, bölümde ne eklemelisiniz?
 
-| Özellik | Değer | Karşılaştırma konumu |
+Tez bölümlerinizi okudum. Durum şu:
+
+| | Tezde **var** | Bölümde **eklenmeli** |
 |---|---|---|
-| Basınç dayanımı | ~4,1 MPa | Miselyum kompozitlerin (0,2–2 MPa) **üzerinde**, CEB aralığında (2–5 MPa) |
-| Eğilme dayanımı | ~2,3 MPa | Alçı levhanın (4–8 MPa) altında, miselyum aralığında |
-| Elastisite modülü | 192 MPa | Miselyum üst sınırında (50–200 MPa) |
-| Yoğunluk | 1,38 g/cm³ | Tuğladan hafif, miselyumdan ağır |
+| Miselyum | Kitin/beta-glukan yapısı, Jones, Elsacker, Appels, tür-substrat ilişkisi, su emilimi sorunu | **Mimari örnekler** (Hy-Fi, MycoTree, Mogu), akustik performans verisi, ticari ürün durumu |
+| Bakteri | Bakteriyel selüloz, Klemm, fermantasyon, uyku hâli | **Biyoçimento** (bioMASON), **kendini onaran beton** (Jonkers), **pigment** (Chieza), iç mekân karosu |
+| Alg | Sınıflandırma, fotosentez, CO₂ bağlama | **Biyoreaktör mimarisi** (BIQ House/SolarLeaf, ecoLogicStudio), **iç mekân ürünleri** (AIReactor, BioBombola) |
 
-**Sistem:** 377 modül · 551 bağlantı · 2/3/4 çentikli modül dağılımı (91 / 224 / 62)
-Newman modülerlik Q ≈ 0,60 · Shannon H′ = 0,93 (malzeme) / 0,95 (bağlantı) · Pielou E = 0,67 / 0,86 · Simpson D = 0,53 / 0,56
-Ortalama derece ⟨k⟩ = 2,92
+Özetle: **tezinizde biyoloji var; bölümde mimarlık olacak.** Bu, aynı konuyu işlemenize rağmen tekrar üretmemenizi sağlayan ayrımdır. Organizma alt başlıklarının tarifi şu olsun:
 
-> ⚠️ **Bölüme almadan önce kontrol edin:** Tezde β ve γ indisleri E = 1102 (bağlantı *ucu* sayısı) ile hesaplanmış. Standart tanımda E = kenar sayısı (551) alınır; bu durumda β = 551/377 = **1,46** ve düzlemsel γ = 551/(3×375) = **0,49** olur. Yorumunuz ("her modül ortalama ~3 modüle bağlanıyor") **her iki durumda da doğru** — çünkü bu zaten ortalama derecedir. Ancak kitap bölümünde indis adı kullanacaksanız ya (a) "E = bağlantı ucu sayısı" tanımını açıkça yazın, ya da (b) **daha temizi:** β/γ'yı kenar sayısıyla yeniden hesaplayıp, sezgisel olan ⟨k⟩ = 2,92 değerini ayrıca raporlayın. Tez savunulmuş durumda, dolayısıyla bu bir hata düzeltme meselesi değil; kitap bölümünde bir hakemin/atıf yapanın takılmaması için **tanım netliği** meselesi. α indisini de (E=551 ile α = 0,23) buna göre yeniden verin.
-
-### 2.3. Literatür tabanı (repodaki 22 makale)
-
-Tematik olarak ayrıştırdım — bölümde her kümeyi farklı bir işte kullanacaksınız:
-
-| Küme | Kaynaklar | Bölümdeki işlevi |
-|---|---|---|
-| **Biyotasarım kuramı** | Crawford (2022), Yang vd. (2019), Goidea vd. (2022), Andréen & Goidea (2022) | Paradigma tanımı, transkalar yaklaşım |
-| **Canlıyla birlikte tasarlama** | Camere & Karana (2018), Chayaamor-Heil vd. (2024), Karana vd. (2018) | "Seçim"den "birlikte-üretim"e geçiş argümanı |
-| **Tasarımcı-üretici dönüşümü** | Rognoli vd. (DIY-Materials), Material Activism (2019), Stefanova (2021), Bandoni vd. (2022) | Disiplinlerarasılık, malzeme aktivizmi |
-| **Teknik/malzeme** | Bourbia vd. (2023), Chang vd. (2020), Lee vd. (2022), Babatunde vd. (2020) | Dayanıklılık, biyobozunma, yumurta kabuğu |
-| **Ekoloji/dirençlilik** | Heymans vd. (2019), O'Rourke & Seepersad | Dirençlilik öznitelikleri, biyomimikri eleştirisi |
-| **Türkiye bağlantısı** | Kırdök, Altun, Dokgöz & **Tokuç** (2019); Kırbaş Akyürek, Ciravoğlu vd. (2020) | Ulusal literatüre eklemlenme |
-
-> **Not:** Kırdök vd. (2019)'un yazarlarından **Prof. Dr. Ayça Tokuç** sizin tez jürinizdeydi. Türkçe bir kitap bölümünde ulusal literatüre eklemlenmek hem doğru hem stratejik. Kırbaş Akyürek vd. (2020) de terminoloji tartışması için birebir: Türkçe'de "biyotasarım / biyoloji temelli tasarım / biyomimikri / biyofabrikasyon" ayrımını netleştiren bir paragraf, bölümün eğitsel değerini ciddi biçimde artırır.
-
-### 2.4. Eklemeniz gereken (repoda yok)
-
-Aşağıdakiler olmadan bölüm "döngüsel tasarım" başlığını **karşılamaz**:
-
-- **Brand (1994) / Duffy — Shearing Layers:** Yapı 50–100 yıl, iç mekân donanımı **7–10 yılda bir** yenileniyor. Bir yapı ömrü boyunca 5–10 kez iç mekân yenilemesi. ← *Bu tek istatistik bölümün varlık gerekçesidir.*
-- **ISO 20887:2020** — Sökülebilirlik ve uyarlanabilirlik için tasarım (DfD/A)
-- **Ellen MacArthur Foundation — Material Circularity Indicator (MCI)**; biyolojik kökenli malzemeleri de kapsayacak şekilde 2019'da güncellendi
-- **EN 15804 / EPD** ve **Level(s)** çerçevesi
-- **ESPR (AB 2024/1781)** ve revize **CPR (AB 2024/3110)** → **Dijital Ürün Pasaportu**; mobilya ve yapı ürünleri öncelikli sektörler, delege tasarruflar 2026–2030
-- **Türkiye Yeşil Mutabakat Eylem Planı** ve Ulusal Döngüsel Ekonomi Eylem Planı çalışma grupları
-- **McDonough & Braungart** — biyolojik/teknik besin döngüsü ayrımı (tezinizde zaten var)
-- **Karana vd. (2015)** — MDD yönteminin birincil kaynağı
-- **Kaskad kullanım (cascading use)** literatürü — biyokütlenin en yüksek değerli kullanımdan başlayarak basamaklı değerlendirilmesi
+> **kısa biyoloji (≈%20) + yoğun mimari örnek (≈%45) + döngüsel okuma (≈%20) + eleştiri (≈%15)**
 
 ---
 
-## 3. Temel sorun: "seçim" kelimesini ciddiye almak
-
-Bölümün entelektüel kıvılcımı burada. Editörün verdiği başlıktaki iki kelimeyi sorgulamakla başlayın:
-
-**"Seçim" ne varsayar?** Seçim, *önceden var olan bir küme* varsayar. İç mimar bir katalogdan seçer: üretici belirler, iç mimar tercih eder, şartname yazar. "Sürdürülebilir malzeme seçimi" literatürünün büyük kısmı bu kümeye **kriter ekler** — EPD var mı, geri dönüştürülmüş içerik oranı kaç, VOC salımı düşük mü, FSC/Cradle-to-Cradle sertifikası var mı, LEED/BREEAM kredisi getiriyor mu. Kriter listesi uzar, ama **karar mimarisi değişmez**: tasarımcı hâlâ üretimin aşağı akışındadır ve *ikame* (substitution) mantığıyla çalışır.
-
-**Bu neden yetersiz?** Üç kırılma noktası var:
-
-1. **İkame sorunu çözmez, öteler.** Fosil bazlı bir ürünü biyo-bazlı bir ürünle değiştirmek, üretim–tüketim–bertaraf zincirinin doğrusallığını değiştirmez. **"Biyo-bazlı" otomatik olarak "döngüsel" değildir** — bir biyomalzeme sera gazı salımıyla üretiliyorsa veya ömür sonunda geri kazanılamıyorsa çevresel olarak zararlı bile olabilir. Bu, alanın en ciddi *greenwashing* riskidir ve bölümünüzde **açıkça adlandırılmalıdır**.
-
-2. **İç mekânda asıl değişken malzeme değil, döngü sayısıdır.** Bir malzemenin gömülü karbonu tek seferlik bir sayıdır; ama iç mekân 7–10 yılda bir yenilenir. Yapı ömrü boyunca o karbon **5–10 kez** ödenir. Dolayısıyla iç mimarlıkta doğru soru "hangi malzeme daha az etkili?" değil, **"bu malzeme sökülüp yeniden kullanılabilecek mi?"**dir.
-
-3. **Sökülebilirliği malzeme değil, detay belirler.** %100 biyo-bazlı bir panel poliüretan yapıştırıcıyla sabitlenmişse çöptür. Sıradan bir malzeme tersinir bir bağlantıyla monte edilmişse geri kazanılabilir. Yani **döngüsellik kararı, malzeme seçimi anında değil, birleşim detayı çizildiği anda verilir.** ← *Bölümün tezi.*
-
-Bu üçlü, "seçim"in yerine **üç farklı karar rejimi** önermenizin zeminini kurar.
-
----
-
-## 4. ÖNERİLEN KAVRAMSAL OMURGA — "Üç Rejim" modeli
-
-Bölümü şu ilerleyiş üzerine kurun. Bu, hem tarihsel hem mantıksal bir sıralamadır ve okuru adım adım sizin özgün katkınıza taşır:
+## 2. YENİ KAVRAMSAL OMURGA
 
 ```
-REJİM 1 — SEÇME              REJİM 2 — DÖNGÜLEME           REJİM 3 — BİRLİKTE ÜRETME
-(ikame mantığı)              (sistem mantığı)              (biyotasarım mantığı)
-
-Katalogdan tercih       →    Ömür döngüsü kurgusu     →    Malzemeyi tasarımcının üretmesi
-Kriter: performans+etki      Kriter: geri kazanım          Kriter: uyarlanabilirlik
-Araç: EPD, LCA, sertifika    Araç: DfD, MCI, pasaport      Araç: MDD, biyofabrikasyon, DIY-Mat.
-Ölçek: ürün                  Ölçek: sistem                 Ölçek: süreç + ekoloji
-Fail: tasarımcı              Fail: tasarımcı + sistem      Fail: dağıtık (insan + insan-dışı)
-
-     ↓ sınır:                     ↓ sınır:                      ↓ sınır:
-"biyo-bazlı ≠ döngüsel"      "detay olmadan gösterge          standardizasyon, ölçek,
-greenwashing riski            anlamsız"                        sertifikasyon boşluğu
+ANTROPOSANTRİZM  ─────────►  DOĞRUSAL ÜRETİM
+(ontoloji: madde edilgen)     (al–üret–tüket–at)
+        │                              │
+        │   doğa = hem depo hem çöp    │
+        ▼                              ▼
+POST-ANTROPOSANTRİZM ─────►  DÖNGÜSEL/METABOLİK ÜRETİM
+(madde faal ve ilişkisel)     (zayıf döngüsellik → güçlü döngüsellik)
+        │
+        ▼
+   BİYOTASARIM: döngüselliğin ön koşul hâline gelmesi
+        │
+        ├── Miselyum  — üretici       → döngü ömür sonunda kapanır
+        ├── Bakteri   — dönüştürücü   → döngü üretimde kapanır
+        └── Alg       — ortak sakin   → döngü kullanım sırasında kapanır
+                                              │
+                                              ▼
+                              İÇ MEKÂN: üründen habitata
+                              (tasarımcının teslim ettiği: bakım rejimi)
 ```
 
-**Neden bu kurgu işliyor:**
+**Neden bu işliyor:** Antroposantrizm → doğrusal ekonomi → döngüsel ekonomi → biyotasarım → organizmalar → iç mekân. Her adım bir sonrakini zorunlu kılıyor. Okur, kuramsal girişten organizma örneklerine ve oradan iç mimarlık uygulamasına **kesintisiz bir mantıkla** taşınıyor. Hiçbir bölüm "eklenmiş" durmuyor.
 
-- Editörün başlığındaki **iki kavramı da** (seçim + döngüsel tasarım) karşılar — üstelik onları sorunsallaştırarak.
-- Her rejim bir öncekini **iptal etmez, içerir**. Bu önemli: "biyotasarım her şeyi çözer" demeyen, olgun bir argüman kurarsınız. Rejim 3, Rejim 1 ve 2'nin araçlarına (LCA, DfD) hâlâ ihtiyaç duyar.
-- Her rejimin **sınırını** siz söylersiniz. Hakem/okur itirazını siz önceden karşılarsınız — akademik metinde güven bunu yapmakla kazanılır.
-- Rejim 3, doğrudan sizin tez verinize açılır. Yani kavramsal yapı ile ampirik katkı **aynı yere varır**.
+### 2.1. Antroposantrizm bölümünün iş görmesi
 
-**Kritik hamle:** Rejim 3'ü "geleceğin ütopyası" olarak sunmayın. **Bugün, iç mekânda, taşıyıcı olmayan bileşenlerde uygulanabilir** olduğunu 4,1 MPa'lık verinizle kanıtlayın. Bölümün ikna ediciliği buradan gelir.
+Antroposantrizmi felsefe tarihi anlatısı olarak yazmayın (Protagoras → Descartes → Bacon listesi çok yazıldı, kimse okumuyor). **Ekonomik biçimine bağlayın:**
 
----
+> Doğrusal ekonomi — *al, üret, tüket, at* — antroposantrizmin ekonomik biçimidir. Çünkü zincirin iki ucu da aynı varsayıma dayanır: doğa, girdi tarafında sınırsız bir **depo**, çıktı tarafında sınırsız bir **çöplüktür**. Her iki uçta da madde edilgen ve insana dışsaldır.
 
-## 5. ÖZGÜN KATKI — "Birleşim Eşiği" ve BDM Karar Çerçevesi
+Sonra ayrımı yapın — bu bölümün en keskin kuramsal hamlesi:
 
-Bölümün okura bırakacağı, alınıp kullanılabilir aracı. Atıf alan bölümler bu tür çerçeveler bırakanlardır.
+| | **Zayıf döngüsellik** | **Güçlü döngüsellik** |
+|---|---|---|
+| Ne yapar | Halkayı teknik olarak kapatır: daha çok geri dönüşüm, daha az atık | Maddeyi metabolik bir döngüye geri verir |
+| Varsayımı | İnsan döngünün **yöneticisidir**; doğa hâlâ dışarıdadır | İnsan döngünün **içindedir** |
+| Ontolojisi | **Hâlâ antroposantrik** — sadece daha verimli | Post-antroposantrik |
+| Örnek | Geri dönüştürülmüş içerikli lamine panel | Kompostlanabilir, tek malzemeli, sökülebilir bileşen |
 
-### 5.1. İç mimarlık neden biyomalzemelerin giriş kapısıdır?
+**Kritik cümle:** *Daha çok geri dönüştürmek, antroposantrizmden çıkmak değildir; onu daha verimli işletmektir.* Bu, döngüsel ekonomi söyleminin ana akımına yönelik yerinde ve cesur bir eleştiridir; bölümün kuramsal ciddiyetini bu cümle kurar.
 
-Bu argümanı bölümde **açıkça** kurun — bu, bölümü "mimarlık" değil "iç mimarlık" bölümü yapan şeydir:
+Ve buradan organizmalara geçiş:
 
-1. **Taşıyıcı olmama → düşük risk eşiği.** Biyomalzemelerin yapıya girişindeki asıl engel yapısal güvenlik ve yönetmeliktir. İç mekân bölücüleri, akustik paneller, kaplamalar ve sergi elemanları taşıyıcı değildir. 4,1 MPa betonla yarışmaz, ama bir bölücü panel için **fazlasıyla yeterlidir.** Yani biyomalzemelerin gerçekçi ilk uygulama alanı iç mimarlıktır.
-2. **Kısa döngü → hızlı öğrenme.** 7–10 yıllık yenileme döngüsü çevresel olarak bir yüktür, ama **deneysel olarak bir fırsattır**: yeni malzemeler burada 50 yıl beklemeden test edilip iyileştirilebilir. İç mekân, yapılı çevrenin malzeme laboratuvarıdır.
-3. **Yakın temas → deneyimsel değerlendirme.** İç mekân malzemesi dokunulan, koklanan, yaşlanması izlenen malzemedir. MDD'nin duyusal/anlamsal boyutu tam da burada anlamlıdır. Biyomalzemelerin "kusur" sayılan değişkenliği (renk farkı, doku, yaşlanma) iç mekânda **estetik bir değere** dönüşebilir.
-
-### 5.2. Birleşim Eşiği (the joint threshold)
-
-> Bir iç mekân bileşeninin döngüselliği, bileşeni oluşturan malzemenin biyolojik kökeninde değil, o bileşenin **komşu katmanlara nasıl bağlandığında** belirlenir.
-
-Bunu iç mimarlığın somut diliyle anlatın — bu bölümün en öğretici kısmı olacak:
-
-| Tersinmez birleşim (döngüyü kapatır) | Tersinir birleşim (döngüyü açar) |
-|---|---|
-| Şaptan yapıştırılmış LVT/vinil | Kuru serilmiş, kilitlemeli döşeme |
-| Lamine MDF, kaplamalı yonga levha | Mekanik bağlantılı, tek malzemeli panel |
-| Silikonla sızdırmaz cam bölme | Contalı, sökülebilir cam sistem |
-| Yapışkanlı akustik panel | Askı/klips sistemli akustik panel |
-| Alçıpan + dolgu + boya katmanları | Çentikli/geçmeli, ara eleman gerektirmeyen modül |
-
-Ve sonra kendi sisteminiz: **377 modül, 551 bağlantı, yapıştırıcı yok, metal bağlantı elemanı yok, sadece geçme çentikler.** Bu tablo, sizin sisteminizin son satırda durduğunu gösterir. Argüman kendini kanıtlar.
-
-> Bunu ISO 20887 (DfD/A) ve Dijital Ürün Pasaportu ile bağlayın: Bir malzeme pasaportunun işe yaraması için önce malzemenin **fiziksel olarak geri alınabilir** olması gerekir. Veri, detayı kurtarmaz. Bu, dijitalleşme söylemine yönelik yerinde ve yeterince cesur bir eleştiridir.
-
-### 5.3. BDM Çerçevesi — Biyo-Döngüsel Malzeme Karar Çerçevesi
-
-Beş katmanlı, sıralı bir karar aracı. Okurun stüdyoda kullanabileceği hâli:
-
-| # | Katman | Sorulan soru | Değerlendirme ölçütü | Sizin malzemenizin durumu |
-|---|---|---|---|---|
-| 1 | **Köken** | Madde nereden geliyor? | Çıkarım / yenilenebilir / **atık akışı** / büyütülmüş | Atık akışı (yumurta kabuğu) + yenilenebilir (agar) ✔ |
-| 2 | **Üretim** | Hangi enerji ve kim tarafından? | Sıcaklık, enerji yoğunluğu, yerellik, ölçek | Düşük sıcaklık, laboratuvar ölçeği, yerel ✔ |
-| 3 | **Birleşim** | Geri alınabilir mi? | Tersinir / tersinmez; ara eleman sayısı | Çentikli geçme, yapıştırıcısız, metalsiz ✔✔ |
-| 4 | **Döngü** | Ömür sonunda ne oluyor? | Kaskad senaryosu; biyolojik/teknik besin | Öğütülüp yeniden üretim veya kompost ✔ |
-| 5 | **Dirençlilik** | Sistem bozulmaya nasıl tepki verir? | Çeşitlilik, bolluk, modülerlik, bağlantısallık | Q=0,60; ⟨k⟩=2,92; H′=0,95 ✔ |
-
-**Çerçevenin özgünlüğü:** Mevcut değerlendirme araçları bu katmanların hepsini kapsamıyor. LCA/EPD 1–2'yi ölçer. MCI 1–2–4'ü ölçer. **3. katman (birleşim) ve 5. katman (dirençlilik) hiçbir yaygın araçta yok.** Sizin katkınız tam olarak bu ikisidir — ve 5. katmanı tezinizde zaten **nicelleştirmişsiniz**.
-
-### 5.4. Beşinci katman: dirençliliğin ölçülebilirliği
-
-Bu, bölümün metodolojik olarak en yeni kısmı ve Türkçe iç mimarlık literatüründe **karşılığı yok**:
-
-- **LCA/EPD** → "ne kadar etki?" sorusuna cevap verir
-- **MCI/döngüsellik göstergeleri** → "ne kadar iyi döngüye giriyor?" sorusuna cevap verir
-- **Hiçbiri** → "sistem bozulma karşısında nasıl davranır?" sorusuna cevap vermez
-
-Dirençlilik öznitelikleri bu boşluğu doldurur; siz de bunları ağ kuramı ve ekolojik çeşitlilik ölçütleriyle sayısallaştırdınız: Newman modülerliği, bağlantısallık indisleri, Shannon–Wiener/Pielou/Simpson. **Ekolojiden ödünç alınan bir ölçüm setinin iç mekân modüler sistemine uygulanması** — bölümün en güçlü, en atıf alabilir iddiası budur. Bunu ayrı bir alt başlıkla ve bir tabloyla öne çıkarın.
+> Canlı bir organizma doğrusal üretim yapamaz. Substratını tüketip biçim üretir, ömrü dolduğunda kendisi substrat olur. Dolayısıyla bir organizmayla çalışmaya başladığınız anda döngüsellik bir hedef olmaktan çıkar; **çalışmanın ön koşulu** hâline gelir.
 
 ---
 
-## 6. Ayrıntılı bölüm planı
+## 3. BÖLÜMÜN AĞIRLIK MERKEZİ: Canlı Organizmalarla Tasarlamak
 
-**Toplam hedef: ~7.500 kelime** (≈22–25 sayfa). *Vizetek'in kelime/sayfa sınırını editörden teyit edin; aşağıdaki bütçe orantısal olarak ölçeklenebilir.*
+### 3.1. Klişeden kaçınma
 
-| # | Başlık | Kelime | İçerik |
+"Miselyum, bakteri, alg" sırası biyotasarım yazınının en çok tekrarlanan kurgusudur ve genelde bir **katalog** olarak yazılır: her organizma için biyoloji, örnek, avantaj, dezavantaj. Sonuç, okunması sıkıcı ve alıntılanmayan bir metindir.
+
+**Önerim:** Üç organizmayı *malzeme türü* olarak değil, **üç farklı işbirliği kipi** olarak kurgulayın. Aralarında bir **artış ekseni** olsun — o zaman metin katalog değil, argüman olur.
+
+### 3.2. Merkez tablo (bölümün en değerli tek öğesi)
+
+Bu tabloyu 5.1'de verin, sonra 5.2–5.4'te satır satır açın:
+
+| | **Miselyum** | **Bakteri** | **Alg** |
 |---|---|---|---|
-| — | **Öz / Abstract + anahtar kelimeler** | 350 | Türkçe + İngilizce |
-| **1** | **Giriş** | 700 | 7–10 yıl döngü istatistiğiyle aç. Problem: iç mimarlıkta sürdürülebilir malzeme söylemi ikameye sıkışmış. Bölümün sorusu, iddiası ve yapısı. |
-| **2** | **İç Mimarlıkta Malzeme Kararının Özgüllüğü** | 900 | Shearing layers; katman ömürleri; iç mekân atığının bileşimi (ince, katmanlı, yapıştırılmış, kompozit → en düşük geri kazanım); "iç mimarlık neden biyomalzemelerin giriş kapısıdır" (§5.1'deki üç gerekçe). |
-| **3** | **Rejim 1 — Seçme: İkame Mantığı ve Sınırları** | 900 | Geleneksel seçim kriterleri; EPD/EN 15804, LCA, sertifikasyon, Level(s). Eleştiri: **biyo-bazlı ≠ döngüsel**; greenwashing; biyobozunurluğun her zaman erdem olmadığı (değer kaybı) → kaskad kullanım. |
-| **4** | **Rejim 2 — Döngüleme: Sistem Mantığı** | 1.000 | Döngüsel ekonomi ve yapı sektörü; biyolojik/teknik besin döngüleri; **ISO 20887 (DfD/A)**; malzeme pasaportu ve Dijital Ürün Pasaportu (ESPR/CPR, 2026–2030); MCI. **→ "Birleşim Eşiği" argümanının kuruluşu ve tersinir/tersinmez birleşim tablosu.** |
-| **5** | **Rejim 3 — Birlikte Üretme: Biyotasarım** | 1.100 | Terminoloji netleştirmesi: biyomimikri / biyoloji temelli tasarım / biyofabrikasyon / biyomalzeme (Kırbaş Akyürek vd., 2020). Canlı organizmalarla tasarlama (Camere & Karana; Chayaamor-Heil vd.). Tasarımcının "malzeme üreticisi"ne dönüşümü (Rognoli; Karana vd.). Malzeme failliği. Antroposantrizm eleştirisi — **kısa tutun** (§9). |
-| **6** | **BDM Karar Çerçevesi** | 800 | Beş katmanlı çerçevenin sunumu (§5.3 tablosu). Mevcut araçların hangi katmanları kapsamadığı. Dirençlilik özniteliklerinin değerlendirmeye eklenmesi (§5.4). |
-| **7** | **Uygulama: Atık Temelli Biyokompozit ve Modüler İç Mekân Sistemi** | 1.300 | **Tez verisinin çerçeveyi sınadığı bölüm.** Bileşen gerekçesi; üretim; mekanik veriler + karşılaştırma tablosu; 377 modüllü sistem; nicel dirençlilik sonuçları; çerçevenin 5 katmanına göre değerlendirme. Uygulama senaryoları (sergi, geçici kamusal yapı, bölücü, afet sonrası). |
-| **8** | **Tartışma: Sınırlar ve Eleştirel Değerlendirme** | 800 | Nem/yangın/dayanıklılık; parti değişkenliği; standart, EPD ve sertifika boşluğu → **şartnameye girememe sorunu** (asıl engel teknik değil, kurumsal); ölçeklenebilirlik; biyokütle ve arazi kullanımı rekabeti; laboratuvar ölçeğinin sınırı. |
-| **9** | **Sonuç** | 550 | Üç rejimin sentezi; "birleşim eşiği" tezinin yeniden ifadesi; iç mimarlık eğitimine ve uygulamasına öneriler; gelecek araştırma yönleri. |
-| — | **Kaynakça** | — | ~45–55 kaynak |
+| **Organizmanın rolü** | Üretici (fabrikatör) | Dönüştürücü (metabolik işlemci) | Ortak sakin (birlikte yaşayan) |
+| **Üretim mantığı** | Büyüterek biçimlendirme | Metabolik dönüşüm | Sürekli metabolizma |
+| **Kullanım anındaki durumu** | **Ölü** (ısıyla durdurulmuş) | **Uykuda** ya da ölü | **Canlı** |
+| **Döngü ne zaman kapanır** | Ömür sonunda (kompost) | Üretim sırasında (atık → bağlayıcı) | **Kullanım sırasında** (CO₂ → biyokütle) |
+| **Tasarımcı neyi tasarlar** | Kalıp + büyüme koşulları | Besiyeri + süreç | İlişki + **bakım rejimi** |
+| **Tasarımcının kontrolü** | Yüksek → orta | Orta | **Düşük** |
+| **İç mekân karşılığı** | Akustik panel, bölücü, dolgu | Karo, yüzey, pigment, kendini onaran derz | Işık geçirgen panel, masaüstü biyoreaktör |
+| **Kritik sorun** | Nem, yangın, parti değişkenliği | Biyogüvenlik, GDO etiği | **Bakım yükü, su ve ışık** |
 
-**Bütçe mantığı:** Kuramsal çerçeve (3+4+5) ≈ %40, özgün katkı (6+7) ≈ %28, eleştirel değerlendirme (8) ≈ %11. Bu dağılım, bölümü "literatür özeti" olmaktan çıkarıp "argümanlı metin" yapar.
+**Tablonun taşıdığı üç eksen** — bunları metinde açıkça adlandırın:
+
+1. **Canlılık ekseni:** ölü → uykuda → canlı
+2. **Döngü zamanı ekseni:** döngü ömür sonunda → üretimde → **kullanım sırasında** kapanır
+3. **Denetim ekseni:** tasarımcının kontrolü azalır, **bakım yükü artar**
+
+Üçüncü eksen bölümün kapanış tezine çıkar: canlılık arttıkça iç mekân habitata dönüşür ve bakım tasarımın parçası olur.
+
+### 3.3. Miselyum — *Büyüterek üretim*
+
+**Biyoloji (kısa):** Tezinizde hazır — vejetatif ağ, kitin/beta-glukan, substratı bağlayıcı olarak kullanma. 150 kelimeyi geçmesin.
+
+**Mimari örnekler (yoğun):**
+- **Hy-Fi** (The Living / David Benjamin, MoMA PS1, 2014) — ~13 m kule, elle istiflenmiş, ısıl işlem görmüş miselyum tuğla; çelik ve ahşap yardımcı strüktürle. *Biyomalzemenin kamusal görünürlük kazandığı eşik proje.*
+- **MycoTree** (Seul Bienali, 2017) — yalnızca basınç çalışan dallanan strüktür; farklı eleman ailelerinden oluşan daha karmaşık kalıplama yaklaşımı. *Miselyumun zayıflığını (çekme) tasarımla telafi etme örneği.*
+- **Mogu** (İtalya) — **ilk ticari miselyum akustik panel serisi**; geri kazanılmış tekstil artıklarından. **FORESTA sistemi: ahşap taşıyıcı alt yapı + entegre mıknatıslı düğümler → paneller monte edilebilir, yeri değiştirilebilir, tek tek değiştirilebilir ve ömür sonunda tümüyle sökülebilir.**
+- **Museum of Symbiosis** (Faber Futures + Mogu) — miselyum teknolojilerinin kavramsal ve teknik olanaklarını birlikte sorgulayan iş.
+- 2025 araştırması: parametrik tasarımla üretilmiş **asma tavan akustik modülleri**; ölçülebilir çınlama süresi düşüşü, konuşma frekans aralığında standart akustik panele yaklaşan performans.
+
+> **Mogu FORESTA neden kritik:** Bu, "birleşim eşiği" argümanınızın **ticari kanıtıdır** — ve kendi 377 modüllü sisteminize başvurmak zorunda kalmadan onu ispatlar. Biyo-bazlı bir panel, mıknatıslı düğümlerle sökülebilir biçimde monte edildiğinde döngüsel olur. Aynı panel yapıştırılsaydı olmazdı. *v1'deki tez yükünü buraya devrederek çözüyorsunuz.*
+
+**Döngüsel okuma:** Miselyum, tarımsal/endüstriyel **atığı** substrat olarak alır (upcycling), **ortam sıcaklığında** büyür, kullanım anında ölüdür ve ömür sonunda **kompostlanabilir**. Yani döngü, ömür sonunda kapanır. Ama bu ancak birleşim tersinirse mümkündür.
+
+**Eleştiri:** Yüksek su emilimi; köpük benzeri mekanik davranış; tür–substrat–koşul üçlüsüne bağlı **parti değişkenliği** → kalite güvencesi ve şartname sorunu; substratın bölgesel değişkenliği; "büyütülmüş ama ölü" — organizma kullanım anında artık yok.
+
+### 3.4. Bakteri — *Dönüştürerek üretim*
+
+**Biyoloji (kısa):** Tek hücreli, atık ve yenilenebilir kaynaklardan besleniyor, geniş sıcaklık/pH aralığı. Bakteriyel selüloz tezinizde ayrıntılı — burada kısaltın, çünkü bölümün asıl ilgisi *yapı* bakterileri.
+
+**Mimari örnekler (yoğun):**
+- **bioMASON** — mikrobiyal olarak çöktürülen kalsiyum karbonatla (biyoçimento) üretilen tuğla; pişirme yok. **İç mekân için biyoçimento karo** ürünleriyle ticarileşti. *Portland çimentosunun yüksek sıcaklık rejimine doğrudan alternatif.*
+- **Kendini onaran beton** (Henk Jonkers, TU Delft) — *Bacillus pseudofirmus* / *Sporosarcina pasteurii* + kalsiyum laktat kapsülleri. Çatlak oluşup hava ve nem girdiğinde bakteri uyanır, laktatı kalsite çevirir, çatlağı kapatır. Bakteri betonda **onlarca yıl uyku hâlinde** kalabilir.
+- **Natsai Audrey Chieza / Faber Futures** — *Streptomyces coelicolor* ile pigment üretimi; geleneksel boyamaya göre **~500 kat daha az su**, sentetik kimyasal yok. *"Fold"* çalışması. Ginsberg & Chieza'nın kuramsal yazıları da buradan.
+- Bakteriyel selüloz — biyoderi, esnek yüzeyler (tezinizdeki teknik içerik burada kısaltılarak kullanılır).
+
+**Döngüsel okuma:** Bakteride döngü **üretim sırasında** kapanır: atık bir akış (üre, laktat, besiyeri) doğrudan bağlayıcıya/pigmente dönüşür. Ayrıca kendini onaran beton, döngüselliğin en içteki halkasını gösterir: **onarım — yani hiç sökmemek.**
+
+**Eleştiri:** Biyogüvenlik ve kontrol altına alma; GDO tartışması ve düzenleyici belirsizlik; laboratuvar koşullarının şantiyeye taşınması; "canlı malzeme" söyleminin kullanım anında çoğunlukla **ölü ya da uyuyan** malzemeye karşılık gelmesi — bu dürüstlük notunu mutlaka düşün.
+
+### 3.5. Alg — *Yaşarken üretim*
+
+Bu alt başlığı en uzun tutun: **iç mekâna en doğrudan bağlanan ve en az yazılmış olan** organizma bu.
+
+**Biyoloji (kısa):** Fotosentetik; makro/mikroalg ayrımı; CO₂ bağlar, O₂ verir; geniş tolerans aralığı.
+
+**Mimari örnekler (yoğun):**
+- **BIQ House / SolarLeaf** (Hamburg, IBA 2013; Splitterwerk + Arup + Colt + SSC) — dünyanın ilk biyoreaktif cephesi. **129 adet 2,5 × 0,7 m cam biyoreaktör**; ikincil cephe olarak çalışıp 15 konutun **ısıl talebinin yaklaşık üçte birini** karşılıyor. Alg hem gölgeleme hem biyokütle hem ısı üretiyor.
+- **ecoLogicStudio** (Claudia Pasquero & Marco Poletto):
+  - **PhotoSynthetica** — Dublin'de bir yapıyı saran alg "perdesi"
+  - **AirBubble** — 52 borosilikat cam biyoreaktör, **520 litre canlı *Chlorella* kültürü**, dakikada 200 litre kirli havayı filtreleyerek iç hacmi DSÖ sınırları içinde tutuyor. *Bir çocuk oyun pavyonu — yani iç mekân.*
+  - **PhotoSynthetica Collection / AIReactor / BioBombola** — **masaüstü ve iç mekân ölçeğinde biyoreaktörler.** Bu, alg mimarisinin cepheden iç mekâna indiği noktadır ve bölümünüz için birebir.
+
+**Döngüsel okuma — bölümün en güçlü anı:** Algde döngü **kullanım sırasında** kapanır. Karbon, üretim anında bir kez değil, mekân kullanıldığı **her gün** bağlanır. Malzeme, yerleştirildikten sonra da çalışmaya devam eder. Bu, "gömülü karbon" muhasebesinin varsayımını tersine çevirir: malzeme bir borç değil, işleyen bir **varlık** hâline gelir.
+
+**Eleştiri — ve bölümün kapanış tezine köprü:** Alg canlıdır; dolayısıyla su, ışık, besin ve **bakım** ister. Kültür çöktüğünde ne olur? Kim besler? Bu bir tesis yönetimi sorusu değil, bir **tasarım** sorusudur. İç mekân artık teslim edilip bitirilen bir ürün değil, sürdürülmesi gereken bir **habitat**tır. Bakım, sözleşmenin dışında bir kalem değil, tasarımın kendisidir.
+
+> Ve tam burada döngüsel ekonomiye bağlanın: Ellen MacArthur'un kelebek diyagramında geri dönüşüm **en dıştaki** halkadır; en içtekiler **bakım, onarım, yeniden kullanım**dır. Yani canlı malzemenin dayattığı bakım yükü, döngüselliğin zayıf değil **en güçlü** biçimidir. Alg duvarını sulamak, onu geri dönüştürmekten daha döngüseldir.
+
+Bu paragraf bölümün entelektüel zirvesi olacak. Özenle yazın.
 
 ---
 
-## 7. Tablo ve görsel planı
+## 4. Ayrıntılı bölüm planı (v2)
 
-Kitap bölümlerinde görsel/tablo, metinden daha çok hatırlanır ve daha çok alıntılanır. Sekiz öğe öneriyorum:
+**Toplam hedef: ~7.700 kelime.** *Editörden kelime/sayfa sınırını teyit edin; bütçe orantısal ölçeklenir.*
 
-| # | Tür | İçerik |
+| # | Başlık | Kelime | % | İçerik |
+|---|---|---|---|---|
+| — | Öz / Abstract + anahtar kelimeler | 350 | — | TR + EN |
+| **1** | **Giriş** | 600 | 8 | İç mekânın 7–10 yıllık yenileme döngüsüyle aç (yapı 50–100 yıl). Problem: sürdürülebilir malzeme söylemi ikameye sıkışmış. Bölümün sorusu, iddiası, yapısı. |
+| **2** | **Antroposantrizm ve Doğrusal Üretim** | 900 | 12 | Antroposantrik ontoloji; **doğrusal ekonomi = antroposantrizmin ekonomik biçimi**; doğa hem depo hem çöplük; tasarım disiplininin tarihsel ortaklığı; iç mimarlığın bu tabloda özgül konumu. |
+| **3** | **Döngüsellikten Metabolizmaya** | 800 | 10 | **Zayıf ve güçlü döngüsellik ayrımı** (tablo); teknik ve biyolojik besin döngüleri (McDonough & Braungart); "daha çok geri dönüşüm antroposantrizmden çıkmak değildir"; metabolizma olarak üretim → organizmalara köprü. |
+| **4** | **Biyotasarım: Kavramsal Çerçeve** | 1.050 | 14 | **Terminoloji tablosu:** biyomimikri / biyoloji temelli tasarım (biyotasarım) / biyofabrikasyon / biyomalzeme (Kırbaş Akyürek vd., 2020). Biyotasarım ≠ biyomimikri: taklit değil, birlikte üretim. Tasarımcının "malzeme üreticisi"ne dönüşümü (Rognoli; Karana vd.; DIY-Materials; malzeme aktivizmi). Malzeme failliği. Disiplinlerarasılık ve laboratuvar ortaklığı (Bandoni vd.; Stefanova). Transkalar yaklaşım (Goidea vd.). |
+| **5** | **Canlı Organizmalarla Tasarlamak** | **2.300** | **30** | **Bölümün ağırlık merkezi.** |
+| 5.1 | *Üç işbirliği kipi* | 400 | | Merkez tablo (§3.2) + üç eksenin adlandırılması |
+| 5.2 | *Miselyum — büyüterek üretim* | 600 | | §3.3 |
+| 5.3 | *Bakteri — dönüştürerek üretim* | 600 | | §3.4 |
+| 5.4 | *Alg — yaşarken üretim* | 700 | | §3.5 |
+| **6** | **İç Mekâna Geçiş: Seçimden Birlikte-Üretime** | 900 | 12 | İç mimarlık neden biyomalzemelerin giriş kapısıdır (üç gerekçe, §5). **Seçme → döngüleme → birlikte üretme** üçlüsü *tek paragrafta*, başlığı karşılayan köprü olarak. **Birleşim eşiği** alt başlığı + tersinir/tersinmez tablosu (kanıtı: Mogu FORESTA). **Türkiye'den örnek (~275 kelime, `Ünal, 2025`).** |
+| **7** | **Eleştirel Değerlendirme** | 700 | 9 | **Biyo-bazlı ≠ döngüsel**; greenwashing; biyobozunurluğun her zaman erdem olmadığı → **kaskad kullanım**; nem/yangın/parti değişkenliği; **standart–EPD–sertifika boşluğu → şartnameye girememe** (asıl engel teknik değil kurumsal); biyogüvenlik ve GDO etiği; bakım yükü ve kim bakacak sorusu; biyokütle ve arazi kullanımı. |
+| **8** | **Sonuç** | 450 | 6 | Omurganın toparlanması; **habitat ve bakım rejimi** tezi; iç mimarlık eğitimi ve uygulamasına öneriler; gelecek araştırma. |
+| — | Kaynakça | — | — | ~50–60 kaynak |
+
+**v1 → v2 değişim özeti:**
+
+| | v1 | v2 |
 |---|---|---|
-| Tablo 1 | Tablo | Yapı katmanları ve ömürleri (shearing layers) — iç mekân katmanının konumu |
-| Tablo 2 | Tablo | **Üç rejimin karşılaştırması** (mantık / kriter / araç / ölçek / faillik / sınır) |
-| Tablo 3 | Tablo | **Tersinir–tersinmez birleşim** karşılaştırması (§5.2) |
-| Tablo 4 | Tablo | **BDM Çerçevesi** — 5 katman × sorular × ölçütler (§5.3) |
-| Tablo 5 | Tablo | Mekanik performans karşılaştırması (beton / tuğla / CEB / ahşap / alçı levha / miselyum / sizin biyokompozit) |
-| Tablo 6 | Tablo | Nicel dirençlilik bulguları (Q, ⟨k⟩, β, γ, α, H′, E, D) — tanımlarıyla birlikte |
-| Görsel 1 | Diyagram | **Üç rejim şeması** (§4'teki akış — bölümün kapak görseli) |
-| Görsel 2–4 | Fotoğraf/çizim | Biyokompozit numuneler; modül teknik çizimi; modüler sistemin 3B görünüşü |
-
-> Tablo 2, 3 ve 4 bölümün özgün katkısıdır — bunları özenle tasarlayın, diğerleri tezden aktarılabilir.
+| Kuramsal çerçeve | %40 | **%44** |
+| Canlı organizmalar | ~%8 (dağınık) | **%30 (merkez)** |
+| Kendi çalışmanız | %17 (1.300 kelime) | **%3,5 (275 kelime)** |
+| Ampirik veri bloğu | Ayrı bölüm (7) | Tek paragraf, 6. bölüm içinde |
 
 ---
 
-## 8. Alternatif kurgular (ve neden "Üç Rejim"i öneriyorum)
+## 5. Tablo ve görsel planı (v2)
 
-Karar sizin olsun diye üç seçeneği de açıkça koyuyorum:
+| # | Tür | İçerik | Özgün mü? |
+|---|---|---|---|
+| Tablo 1 | Tablo | Yapı katmanları ve ömürleri (shearing layers); iç mekân katmanının konumu | Uyarlama |
+| Tablo 2 | Tablo | **Zayıf ve güçlü döngüsellik** karşılaştırması | ✔ Özgün |
+| Tablo 3 | Tablo | **Terminoloji:** biyomimikri / biyotasarım / biyofabrikasyon / biyomalzeme | Uyarlama |
+| Tablo 4 | Tablo | **Üç işbirliği kipi** — miselyum / bakteri / alg (§3.2) | ✔✔ **Özgün — bölümün en değerli öğesi** |
+| Tablo 5 | Tablo | Tersinir – tersinmez birleşim karşılaştırması | ✔ Özgün |
+| Görsel 1 | Diyagram | **Omurga şeması** (§2'deki akış) — bölümün kapak görseli | ✔ Özgün |
+| Görsel 2 | Şema | **Canlılık – döngü zamanı – denetim** üç ekseni | ✔ Özgün |
+| Görsel 3–5 | Fotoğraf | Proje görselleri (Hy-Fi, Mogu FORESTA, BIQ House / AirBubble) — **telif izni gerekir** | — |
+| Görsel 6 | Fotoğraf | Kendi biyokompozit numuneniz (tek görsel yeter) | Kendi |
 
-### Seçenek A — Üç Rejim *(önerilen)*
-- **Artı:** Editörün başlığını tam karşılar; ilerlemeli ve okunabilir bir anlatı kurar; kuramsal katkı + ampirik kanıtı aynı noktada birleştirir; her rejimin sınırını söyleyerek hakem itirazlarını önceden karşılar; okura kullanılabilir bir çerçeve bırakır.
-- **Eksi:** Kuramsal yükü dengelemek dikkat ister; Rejim 5 bölümü fazla genişlerse antroposantrizm tartışmasına kayabilir.
-
-### Seçenek B — Dirençlilik öznitelikleri omurgası
-Bölümü modülerlik / bağlantısallık / çeşitlilik / bolluk başlıkları altında kurgulamak; her öznitelik için malzeme seçimi karşılığını yazmak.
-- **Artı:** Tezinizle birebir örtüşür, yazması en hızlısı.
-- **Eksi:** **Başlığı karşılamaz.** Editörün başlığı "malzeme seçimi ve döngüsel tasarım"; dirençlilik ikincil bir kavram. Bu kurgu bölümü tez özetine dönüştürür ve döngüsel ekonomi ayağı zayıf kalır. *Önermiyorum.*
-
-### Seçenek C — Ölçek geçişli (transkalar)
-Molekül → malzeme → bileşen → modül → mekân → metabolizma.
-- **Artı:** Goidea vd. (2022) ile kuramsal olarak zarif; görsel olarak çok güçlü.
-- **Eksi:** Betimleyici kalma riski yüksek; "seçim" ve "karar" boyutu kaybolur; okura araç bırakmaz.
-
-**Önerim:** A'yı ana omurga alın, C'yi 7. bölümün içinde bir alt anlatı olarak kullanın (malzeme ölçeğinden mekân ölçeğine geçişi anlatırken), B'yi ise 6.4 altında değerlendirme katmanı olarak konumlandırın. Böylece üçünün de gücünden yararlanırsınız.
+> ⚠️ **Telif:** Hy-Fi, Mogu, BIQ House ve ecoLogicStudio görselleri için izin gerekir. Dijital bir kitapta bu daha da önemlidir. İzin alamazsanız **kendi çizdiğiniz şematik diyagramlar** kullanın — üstelik bunlar daha özgün olur ve atıf potansiyeli taşır. Tablo 4 ve Görsel 1–2 zaten sizin üretiminiz; bölümün görsel kimliğini bunlar taşısın.
 
 ---
 
-## 9. Kendi İngilizce makalenizle çakışma — bu konuyu ciddiye alın
-
-*"Spatial Resilience Beyond Anthropocentrism"* makaleniz ile bu bölüm arasında **gerçek bir örtüşme riski** var: her ikisi de biyotasarım, malzeme failliği, yumurta kabuğu/miselyum/kazein örnekleri ve dirençlilik üzerine kurulu. İngilizce–Türkçe farkı, benzer metinlerin farklı yayınlarda çıkmasını meşrulaştırmaz.
-
-**Ayrıştırma stratejisi:**
-
-| | İngilizce makale | Kitap bölümü |
-|---|---|---|
-| **Soru** | Malzeme ontolojisi nasıl değişiyor? | İç mimar malzeme kararını nasıl vermeli? |
-| **Tür** | Kuramsal-eleştirel | Çerçeve + uygulamalı |
-| **Ölçek** | Mimarlık/mekânsal üretim geneli | İç mekân, taşıyıcı olmayan bileşen |
-| **Anahtar kavram** | Post-antroposantrizm, ilişkisel ontoloji | **Döngüsellik, birleşim eşiği, karar çerçevesi** |
-| **Çıktı** | Epistemolojik yeniden konumlandırma | **Kullanılabilir karar aracı (BDM)** |
-| **Veri** | Kavramsal örnek | Nicel veri, sistem analizi |
-
-**Somut kurallar:**
-1. Antroposantrizm/post-antroposantrizm tartışmasını bölümde **en fazla 250–300 kelimede** tutun, 5. bölümün içinde bir alt paragraf olarak. Bölümün kavramsal merkezi bu **değil**.
-2. Kazein ve miselyum örneklerini bölümde ana örnek yapmayın; yalnızca karşılaştırma tablosunda referans olarak kullanın. Bölümün örneği **kendi biyokompozitinizdir**.
-3. Makaleyi yayımlandığında bölümde atıflayın (veya "yayına hazırlanmakta"); tezinize **mutlaka** atıf verin (Ünal, 2025).
-4. Ortak paragrafları yeniden yazın — çeviri değil, yeniden yazım.
-
----
-
-## 10. Başlık, öz ve anahtar kelimeler
+## 6. Başlık, öz ve anahtar kelimeler (v2)
 
 ### Başlık
-Editörün verdiği başlığı **değiştirmeyin**. Alt başlık eklemek isterseniz (editör onayıyla):
+Editörün başlığını koruyun. Alt başlık eklenecekse (editör onayıyla):
 
-> **İç Mimarlıkta Sürdürülebilir Malzeme Seçimi ve Döngüsel Tasarım: Biyoloji Temelli Malzemeler ve Birleşim Eşiği**
-
-veya daha temkinlisi: *"...: Seçimden Birlikte-Üretime"*
+> **İç Mimarlıkta Sürdürülebilir Malzeme Seçimi ve Döngüsel Tasarım: Canlı Organizmalarla Tasarlamak**
 
 ### Öz taslağı (~200 kelime)
 
-> Yapılı çevrede iç mekân katmanı, taşıyıcı sistemden çok daha kısa bir yenileme döngüsüne sahiptir; bir yapının ömrü boyunca iç mekân donanımı defalarca sökülüp yeniden kurulur. Bu durum, iç mimarlıkta malzeme kararını yalnızca çevresel etki karşılaştırmasına indirgeyen yaklaşımların yetersizliğini görünür kılmaktadır. Bu bölüm, iç mimarlıkta sürdürülebilir malzeme kararını üç rejim üzerinden okumaktadır: katalog temelli ikameye dayanan *seçme*, ömür döngüsü ve sökülebilirlik kurgusuna dayanan *döngüleme* ve tasarımcının malzemeyi biyolojik süreçlerle birlikte ürettiği *birlikte üretme*. Bölüm, biyo-bazlı olmanın döngüsellik anlamına gelmediğini vurgulayarak, iç mekânda döngüselliğin malzemenin kökeninde değil birleşim detayında kararlaştırıldığını ileri sürmektedir. Bu doğrultuda köken, üretim, birleşim, döngü ve dirençlilik katmanlarından oluşan beş aşamalı bir karar çerçevesi önerilmektedir. Çerçeve, atık yumurta kabuğu ile doğal polimer bağlayıcıdan geliştirilmiş bir biyokompozit ve bu malzemeden üretilen, yapıştırıcı ve metal bağlantı elemanı içermeyen 377 modüllü bir iç mekân sistemi üzerinden sınanmaktadır. Bulgular, taşıyıcı olmayan iç mekân bileşenlerinin biyoloji temelli malzemeler için gerçekçi bir uygulama alanı oluşturduğunu ve dirençlilik özniteliklerinin malzeme değerlendirmesine ölçülebilir bir katman eklediğini göstermektedir.
+> Sürdürülebilir malzeme söylemi büyük ölçüde ikame mantığıyla işlemekte; fosil kökenli bir ürünün yenilenebilir bir ürünle değiştirilmesi, üretim–tüketim–bertaraf zincirinin doğrusallığını değiştirmemektedir. Bu bölüm, doğrusal üretimi antroposantrik bir ontolojinin ekonomik biçimi olarak ele almakta ve döngüselliğin zayıf ve güçlü biçimlerini ayırt etmektedir: halkayı teknik olarak kapatan yaklaşımlar insanı hâlâ döngünün dışında ve yöneticisi konumunda tutarken, metabolik döngüselllik insanı döngünün içine yerleştirir. Bölüm, biyoloji temelli tasarımın bu ikinci konumu zorunlu kıldığını ileri sürmektedir: canlı bir organizma doğrusal üretim yapamadığı için, organizmayla çalışmak döngüselliği bir hedef olmaktan çıkarıp ön koşul hâline getirir. Bu çerçevede mantar miselyumu, bakteriler ve algler üç farklı işbirliği kipi olarak karşılaştırılmakta; organizmanın kullanım anındaki canlılık derecesine, döngünün kapandığı ana ve tasarımcının denetim düzeyine göre çözümlenmektedir. Bölüm, taşıyıcı olmayan bileşenleri, kısa yenileme döngüsü ve yakın kullanıcı teması nedeniyle iç mekânın biyoloji temelli malzemeler için öncelikli uygulama alanı olduğunu; canlılık derecesi arttıkça iç mekânın bir üründen bir habitata dönüştüğünü ve tasarımcının teslim ettiği şeyin bir yüzeyden bir bakım rejimine evrildiğini savunmaktadır.
 
 ### Anahtar kelimeler
-`biyotasarım` · `biyomalzeme` · `döngüsel tasarım` · `malzeme seçimi` · `sökülebilirlik` · `mekânsal dirençlilik` · `iç mimarlık`
+`biyotasarım` · `biyomalzeme` · `canlı organizmalarla tasarlamak` · `döngüsel tasarım` · `antroposantrizm` · `malzeme seçimi` · `iç mimarlık`
 
-*(İngilizce: biodesign · biomaterial · circular design · material selection · design for disassembly · spatial resilience · interior architecture)*
+*(EN: biodesign · biomaterials · designing with living organisms · circular design · anthropocentrism · material selection · interior architecture)*
 
 ---
 
-## 11. Riskler ve zayıf noktalar
+## 7. Çakışma riski (v2'de durum)
 
-Bir hakemin/eleştirel okurun soracağı sorular — bunları metinde **siz sorup siz cevaplayın**:
+Yeni kurgu, İngilizce makalenizle çakışmayı **azaltıyor ama sıfırlamıyor** — çünkü antroposantrizm artık bölümde de var. Kural:
+
+| | İngilizce makale | Kitap bölümü |
+|---|---|---|
+| Antroposantrizmi ne için kullanıyor | **Malzeme ontolojisi** ve faillik tartışması için | **Doğrusal ekonomi** eleştirisi için |
+| Varış noktası | İlişkisel dirençlilik, epistemolojik yeniden konumlandırma | **Döngüsellik ve canlı organizmalarla üretim** |
+| Organizma işleyişi | Yok (malzeme örnekleri var) | **Bölümün merkezi** |
+| Kendi verisi | Kavramsal örnek | Tek paragraf, atıflı |
+
+**Somut kurallar:**
+1. Antroposantrizm bölümünü (2. bölüm) **ekonomik/döngüsel eksene** kilitleyin. "Malzeme failliği", "ilişkisel ontoloji", "Bennett/Latour/Ingold" tartışmasına girmeyin — orası makalenin alanı. Bölümde bir cümlelik değinme yeterli.
+2. Kazein örneğini bölümde **hiç kullanmayın** (makalenin üç örneğinden biri).
+3. Miselyumu bölümde işlerken makaledeki kavramsal çerçeveyi değil, **mimari proje tabanını** kullanın.
+4. `Ünal (2025)` tezine atıf **zorunlu**; makale yayımlandığında ona da atıf verin.
+
+---
+
+## 8. Riskler (v2)
 
 | Risk | Nasıl karşılanır |
 |---|---|
-| **"Tez özeti mi?"** | Çerçeveyi (BDM) öne alın, veriyi çerçevenin sınanması olarak konumlayın. Tez, bölümün kaynağı; iddiası değil. |
-| **"Biyomalzeme övgüsü / greenwashing"** | 3. bölümde "biyo-bazlı ≠ döngüsel"i açıkça söyleyin; 8. bölümde nem, yangın, parti değişkenliği ve standart boşluğunu dürüstçe yazın. Eleştiriyi siz getirin. |
-| **"4,1 MPa yapı malzemesi değil"** | Zaten iddianız bu değil. Taşıyıcı olmama argümanını (§5.1) erken ve net kurun; malzemeyi *bölücü/kaplama* bağlamına yerleştirin. |
-| **"Ağ metrikleri mimarlıkta ne işe yarar?"** | Metriklerin *tasarım kararına* nasıl döndüğünü gösterin: hiçbir modülün tek bağlantıyla bırakılmaması, kopma durumunda alternatif yük yolu bırakır. Metrik, süs değil; karar gerekçesi. |
-| **β/γ tanım belirsizliği** | §2.2'deki uyarı. E'yi açıkça tanımlayın veya kenar sayısıyla yeniden hesaplayın. |
-| **"Ölçeklenemez"** | Karşı argüman: düşük sıcaklık + yerel atık akışı + düşük teknoloji = **dağıtık üretime uygun**. Ölçek, merkezî fabrika demek zorunda değil. |
-| **Kitabın tonundan kopma** | 1. ve 2. bölümü kuramsal/eleştirel tutun; laboratuvar dilini 7. bölüme hapsedin. "Yaparak düşünme" bölümüne bir köprü cümlesi kurun. |
+| **"Başlıktan saptı"** | En büyük risk bu. 1., 3. ve 6. bölümlerde "malzeme seçimi" ve "döngüsel tasarım" kavramlarını **açıkça adlandırın**. 6. bölümdeki *seçme → döngüleme → birlikte üretme* köprüsü bu işi tek başına görür; onu atlamayın. |
+| **"Organizma kataloğu"** | Merkez tablonun üç ekseni (canlılık / döngü zamanı / denetim) bunu engeller. Her alt başlığı **bu eksenlere göre** yazın, "avantaj-dezavantaj" listesi olarak değil. |
+| **"Canlı malzeme" abartısı** | Miselyum ve bakteri kullanım anında çoğunlukla **ölü ya da uykuda**. Bunu bölümde *siz* söyleyin. Alanın en yaygın retorik şişkinliği budur; ayıklamanız güven kazandırır. |
+| **Biyo-bazlı = döngüsel varsayımı** | 7. bölümde açıkça çürütün: geri kazanılamayan bir biyomalzeme zararlı bile olabilir. Kaskad kullanımı önerin. |
+| **Türkçe terim karmaşası** | 4. bölümdeki terminoloji tablosu bölümün **eğitsel değerinin** büyük kısmını taşır. Türkçe yazında biyomimikri ile biyotasarım sürekli karıştırılıyor; bunu netleştirmek tek başına atıf getirir. |
+| **Telif** | §5 uyarısı — kendi diyagramlarınızı üretin. |
+| **Kitabın tonundan kopma** | Laboratuvar dilini bölümün tamamından çıkarın; 6. bölümdeki tek paragrafta bile sayıları minimumda tutun. |
 
 ---
 
-## 12. Yazım takvimi (6 Ekim 2026'ya ≈3 hafta)
+## 9. Kaynak omurgası (v2 — eklenecekler)
+
+**Organizma bölümü için (yeni, repoda yok):**
+Hy-Fi / The Living – David Benjamin (2014) · MycoTree – Block & Heisel, Seoul Biennale (2017) · **Mogu** (akustik paneller, FORESTA sistemi) · **bioMASON** (biyoçimento) · **Jonkers, H.** (kendini onaran beton, TU Delft) · **Chieza, N. A. / Faber Futures** (*Streptomyces coelicolor* pigment) · **Ginsberg, A. D. & Chieza, N. A. (2018)** · **BIQ House / SolarLeaf** (Splitterwerk, Arup, Colt, SSC, 2013) · **ecoLogicStudio** – Pasquero & Poletto (PhotoSynthetica, AirBubble, AIReactor, BioBombola) · Sheldrake, M. (2020) *Entangled Life* · Myers, W. (2012/2018) *Bio Design* · Collet, C. (2016; 2020) · Oxman, N. (2016) · Elsacker vd.; Jones vd.; Appels vd. (tezinizde mevcut)
+
+**Kuramsal/döngüsel çerçeve için:**
+McDonough & Braungart (2002) · Ellen MacArthur Foundation (kelebek diyagramı; MCI) · Brand (1994) / Duffy (shearing layers) · ISO 20887:2020 · EN 15804 · ESPR (AB) 2024/1781 · CPR (AB) 2024/3110 · Karana vd. (2015) MDD · Naess (derin ekoloji) · kaskad kullanım literatürü · Türkiye Yeşil Mutabakat Eylem Planı
+
+**Repodan (öncelikli):**
+Camere & Karana (2018) · Chayaamor-Heil vd. (2024) · Karana vd. (2018) · Crawford (2022) · Goidea vd. (2022) · Andréen & Goidea (2022) · Yang vd. (2019) · Rognoli vd. · Bandoni vd. (2022) · Stefanova (2021) · Bourbia vd. (2023) · Lee vd. (2022) · Chang vd. (2020) · O'Rourke & Seepersad · Heymans vd. (2019) · **Kırdök, Altun, Dokgöz & Tokuç (2019)** · **Kırbaş Akyürek, Ciravoğlu vd. (2020)** · **Ünal (2025)**
+
+> Not: v2'de **Babatunde vd. (2020)** (yumurta kabuğu) ve nicel dirençlilik kaynakları (Newman, Shannon, Pielou, Simpson, Kansky, Hillier & Hanson) büyük ölçüde devre dışı kalıyor — çünkü o veri bloğu artık tek paragrafa indi. Bu kaynakları zorlamayın; tezinize atıf yeterli.
+
+---
+
+## 10. Takvim (≈3 hafta)
 
 | Gün | İş |
 |---|---|
-| 1–2 | **Editörle teyit:** kelime/sayfa sınırı, atıf sistemi (APA 7 muhtemelen), görsel formatı, alt başlık izni |
-| 2–4 | Eksik kaynakların temini (§2.4): Brand, ISO 20887, MCI, ESPR/CPR, Karana vd. 2015, kaskad kullanım, Yeşil Mutabakat |
-| 4–5 | Tablo 2, 3, 4'ün ve Görsel 1'in tasarlanması — **önce bunları yapın**; iskelet netleşir, metin kendini yazar |
-| 5–9 | Bölüm 3, 4, 5 (kuramsal omurga) |
-| 9–12 | Bölüm 6 ve 7 (özgün katkı + uygulama) |
-| 12–14 | Bölüm 2, 8, 9 |
-| 14–15 | Bölüm 1 ve Öz — **en sona bırakın** |
-| 15–17 | Kaynakça, görsel yerleşimi, çakışma kontrolü (§9), β/γ kontrolü (§2.2) |
-| 17–19 | Danışman/meslektaş okuması ve düzeltme |
-| 19–20 | Son okuma ve gönderim |
-
-> **İlk gün yapılacak tek şey:** Editöre kelime sınırını ve atıf sistemini sorun. Bütçe değişirse §6'daki dağılım orantısal olarak ölçeklenir, yapı değişmez.
-
----
-
-## 13. Kaynak omurgası
-
-**Repodan (öncelikli kullanım):**
-Andréen & Goidea (2022) · Babatunde vd. (2020) · Bandoni vd. (2022) · Bourbia vd. (2023) · Camere & Karana (2018) · Chang vd. (2020) · Chayaamor-Heil vd. (2024) · Crawford (2022) · Goidea vd. (2022) · Heymans vd. (2019) · Karana vd. (2018) · Kırbaş Akyürek vd. (2020) · Kırdök, Altun, Dokgöz & Tokuç (2019) · Lee vd. (2022) · O'Rourke & Seepersad · Rognoli vd. · Stefanova (2021) · Yang vd. (2019)
-
-**Eklenecekler:**
-Brand (1994) *How Buildings Learn* · Duffy (shearing layers) · McDonough & Braungart (2002) · Karana, Barati, Rognoli & Zeeuw van der Laan (2015) *Material Driven Design* · Ellen MacArthur Foundation — MCI · ISO 20887:2020 · EN 15804 · Level(s) · ESPR (AB) 2024/1781 · CPR (AB) 2024/3110 · Ginsberg & Chieza (2018) · Myers (2011/2018) · Oxman (2016) · Newman (2006) · Shannon (1948) · Pielou (1966) · Simpson (1949) · Kansky (1963) · Hillier & Hanson (1984) · Folke vd. (2003) · Holling (2001) · Walker vd. (2004) · Türkiye Yeşil Mutabakat Eylem Planı · **Ünal (2025)** [doktora tezi]
+| 1 | **Editöre yazın:** kelime sınırı, atıf sistemi, görsel formatı ve telif politikası, alt başlık izni |
+| 1–3 | Organizma kaynaklarının toplanması (§9'daki yeni liste) — **en uzun sürecek iş bu** |
+| 3–4 | **Tablo 4 ve Görsel 1–2'nin tasarlanması.** Önce bunları yapın; iskelet netleşir |
+| 4–7 | Bölüm 2, 3 (antroposantrizm + döngüsellik) |
+| 7–10 | Bölüm 4 (biyotasarım kuramsal çerçeve) |
+| 10–14 | **Bölüm 5 (organizmalar)** — en uzun ve en özenli bölüm |
+| 14–16 | Bölüm 6 ve 7 |
+| 16–17 | Bölüm 1 ve 8 + Öz (**girişi en sona bırakın**) |
+| 17–18 | Kaynakça, görsel yerleşimi, telif izinleri, çakışma kontrolü (§7) |
+| 18–19 | Danışman/meslektaş okuması |
+| 19–20 | Düzeltme ve gönderim |
 
 ---
 
 ## Kapanış notu
 
-Bu bölümün Türkçe iç mimarlık literatüründe **karşılığı yok**. Biyotasarım üzerine Türkçe metinler genelde ya tanıtıcı ya da biyomimikri ile karıştırılmış durumda; döngüsel ekonomi metinleri ise yapı ölçeğinde kalıp iç mekâna inmiyor. Sizin elinizde bu üçünü birleştirecek **hem kuramsal hem ampirik** donanım var — üstelik Türkçe'de kimsenin yapmadığı bir şey: ekolojiden ödünç alınmış nicel ölçütlerle bir iç mekân sisteminin dirençliliğini ölçmek.
+v1'deki "birleşim eşiği" tezi çöpe gitmedi — yeri değişti ve **daha iyi bir kanıta** kavuştu. Mogu'nun FORESTA sistemi (mıknatıslı düğüm, tam sökülebilirlik) o argümanı ticari bir ürün üzerinden kanıtlıyor; artık kendi 377 modüllü sisteminizi öne sürmek zorunda değilsiniz. Yani tezi minimize etme isteğiniz, argümanı zayıflatmadı; tam tersine **dış kanıta dayandırarak güçlendirdi.**
 
-Bölümü "tezimi anlatayım" diye değil, **"iç mimarlara malzeme kararı için bir araç bırakayım"** diye yazın. O zaman yıllarca atıf alır.
+Bölümün özgün katkısı artık iki şey:
 
-Ve o araç, tek cümleye sığıyor: *döngüsellik malzemede değil, detayda kararlaştırılır.*
+1. **Kuramsal:** Doğrusal üretimi antroposantrizmin ekonomik biçimi olarak okumak ve zayıf/güçlü döngüsellik ayrımını yapmak — "daha çok geri dönüşüm antroposantrizmden çıkmak değildir."
+2. **Analitik:** Üç organizmayı *malzeme türü* olarak değil, **canlılık derecesi, döngünün kapandığı an ve tasarımcının denetimi** eksenlerinde üç işbirliği kipi olarak çözümlemek.
+
+Ve hepsi şu cümlede birleşiyor:
+
+> **Canlılık arttıkça iç mekân bir üründen bir habitata dönüşür; tasarımcının teslim ettiği şey yüzey değil, bakım rejimidir.**
+
+Türkçe iç mimarlık yazınında bunun karşılığı yok.
