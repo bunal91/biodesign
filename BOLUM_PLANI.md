@@ -374,3 +374,125 @@ Bugün iki şey:
 1. **Künye:** "Heil vd." değil **Chayaamor-Heil vd. (2023)** — repodaki 2024 makalesiyle aynı ilk yazar, aynı grup.
 2. **Andréen & Goidea ayrımı daha keskin:** biological design = **doğanın** morfogenetik süreci; biodesign = **tasarımcının** pratiği. Aradaki ilişki taklit değil, **ilke çıkarma** — tam istediğiniz gibi, biyomimikriyi merkeze almadan.
 3. 🔴 **Önerdiğiniz 13 adımlı omurga, İngilizce makalenizin omurgasıyla aynı.** Örgütleyici eksen değişmeli: makale **ontoloji** üzerinden, bölüm **sınıflandırma ve değerlendirme** üzerinden kurulsun. Bölüm döngüsellik ve iç mimarlık çıkarımlarında bitsin, post-antroposantrizmde değil. 13 adım içindekiler değil, **Görsel 1** olsun.
+
+---
+---
+
+# EK: Kesinleşen Yapı Üzerine Değerlendirme (1 Ekim)
+
+Önerdiğiniz 8 başlıklı yapı kullanılabilir. Akış mantıklı, §5 bölümün en özgün kısmı olacak, §7'nin varlığı metni romantizmden koruyor. **Beş düzeltme gerekiyor.**
+
+## D1 · §1 ile §2 çakışıyor
+
+§1'de "antroposentrik tasarım paradigması" ve "biodesign'ın neden önemli hale geldiği" var; §2'de "biyolojiyle yalnızca ilham almadan biyolojik süreçlerle birlikte tasarıma geçiş" var. Bunlar aynı işi iki kez yapar ve okur ikinci kez okuduğunu fark eder.
+
+**Çözüm — iş bölümü netleşsin:**
+
+| | Neyi yapar | Neyi yapmaz |
+|---|---|---|
+| **§1 Giriş** | **Yalnızca problem kurar:** kaynak tüketimi, ekolojik kriz, iç mekânın hızlanan yenileme döngüsü, geleneksel malzeme anlayışının sınırları, bölümün amacı ve kapsamı | Kavram tanımlamaz, paradigma tartışmasına girmez |
+| **§2** | **Tüm kavramsal yükü taşır:** antroposantrik paradigma (iki paragraf), biyotasarım tanımı, ayrımlar, tasarımcının rolü | Malzeme türlerine inmez |
+
+Antroposantrizmi §1'den çıkarıp §2'nin açılışına taşıyın. §1'de en fazla tek cümle kalsın.
+
+## D2 · §2 ile §3 ayrım çizgisi belirsiz
+
+§2'de "bio-based, living materials… arasındaki ayrımlar" var; §3'te "Bio-based materials / Living materials" var. Aynı ayrım iki kez.
+
+**Çözüm — ayrım çizgisini açıkça çizin:**
+
+- **§2 = YAKLAŞIMLAR.** Doğayla kurulan ilişki ve tasarımcının rolü. Kavramsal düzlem. → **Tablo 1**
+- **§3 = MALZEMELER.** Bunlar ne, nereden geliyor, nasıl üretiliyor. Nesne düzlemi. → **Tablo 2**
+
+Yani `living materials` §2'de bir *yaklaşım* olarak, §3'te bir *malzeme sınıfı* olarak geçer. Bunu metinde tek cümleyle belirtirseniz tekrar gibi durmaz: *"Önceki başlıkta bir tasarım yaklaşımı olarak ele alınan canlı malzemeler, burada malzeme sınıfı olarak incelenmektedir."*
+
+## D3 · §3 iki başlık yükü taşıyor
+
+§3'te şu an altı şey var: bio-based · living · miselyum/alg/bakteriyel selüloz · atık ve artıklar · material agency · tasarımcının rolü. Bu ~1.400 kelimelik içerik; oysa 20 sayfada başlık başına ~930 kelime var.
+
+Ve "tasarımcının rolü" **§2'de de var**.
+
+**Çözüm:**
+- "Tasarımcının malzeme geliştirme sürecindeki rolü" → **§2'ye taşınsın** (orada zaten "tasarımcının rolünün değişmesi" var)
+- **Material agency §3'te kalsın** ama *sonuç* olarak, iki paragrafta: malzeme sınıflandırmasından sonra "bu malzemelerin ortak özelliği, tasarımcının denetimini sınırlayan davranışlar sergilemeleridir" biçiminde. Karana vd. (2018) ve Rognoli & Ayala Garcia (2018) burada.
+
+## D4 · §7'de 17 madde var — bu prozada liste olur
+
+8 potansiyel + 9 sınırlılık = 17 madde. 930 kelimede madde başına 55 kelime düşer; yani argüman değil envanter.
+
+**Çözüm: 17 maddeyi tabloya alın, prozayı üç gerçek gerilime ayırın.**
+
+→ **Tablo 3:** Potansiyeller ve sınırlılıklar, karşılıklı iki kolon. Tüm maddeler burada, kısa ve taranabilir.
+
+→ Proza ise yalnızca **üç gerilimi** tartışır (her biri ~250 kelime):
+1. **Değişkenlik hem potansiyel hem sınırlılıktır.** Malzeme çeşitliliği ve uyarlanabilirlik, standardizasyon ve sertifikasyonla doğrudan çatışır.
+2. **Yerel üretim ile ölçeklenebilirlik gerilimi.** Dağıtık, düşük teknolojili üretim yerellik kazandırır ama pazar kabulü ve tedarik güvenilirliği sağlamaz.
+3. **Biyolojik dönüşebilirlik ile dayanıklılık gerilimi.** Ömür sonunda doğaya dönebilen malzeme, kullanım süresince nem ve mikrobiyal etkiye de açıktır.
+
+Böylece ~400 kelime kazanır, metin envanter olmaktan çıkar. Ve bu üç gerilim §4'teki *"bio-based = sustainable değildir"* argümanının iç mekân ölçeğindeki karşılığı olur.
+
+## D5 · Altı boyutlu çerçeve kayboldu — geri gelsin
+
+İki tur önce kurduğumuz **altı boyutlu malzeme değerlendirme çerçevesi** (biyolojik köken · kaynak döngüselliği · malzeme performansı · **deneyimsel performans** · döngüsel ömür sonu · **dirençlilik kapasitesi**) bu yapıda yok.
+
+Bu bölümün **en atıf alabilir öğesiydi** — çünkü okura alıp kullanabileceği bir araç bırakıyor. Üstelik Edalat'ın (2026) çerçevesine iki boyut eklediği için literatürde konumu belli bir katkı.
+
+**Çözüm: §7'nin kapanışı olsun.** Üç gerilimi tartıştıktan sonra: *"Bu gerilimler, biyolojik temelli malzemelerin iç mekânda değerlendirilmesinde tek boyutlu ölçütlerin yetersiz kaldığını göstermektedir. Aşağıdaki çerçeve, altı boyutlu bir değerlendirme önermektedir."* → **Tablo 4**
+
+Bu aynı zamanda **D6'yı da çözer.**
+
+## D6 · Başlıklar kitabın başlığını karşılamıyor
+
+Bölümün adı *"Sürdürülebilir Malzeme **Seçimi** ve **Döngüsel** Tasarım."* Sekiz başlığınızda "malzeme seçimi" hiç geçmiyor, "döngüsellik" yalnızca §4'te.
+
+Editör içindekileri taradığında kendi verdiği başlığın terimlerini görmeli.
+
+**Çözüm — iki başlık adı değişsin:**
+- §4: "Biyotasarımda Döngüsellik ve Ekolojik Yaklaşım" → **"Döngüsel Malzeme Sistemleri ve Biyotasarım"**
+- §7: "Biyotasarımın İç Mimarlık Açısından Potansiyelleri ve Sınırlılıkları" → **"İç Mimarlıkta Biyomalzeme Seçimi: Potansiyeller, Sınırlılıklar ve Bir Değerlendirme Çerçevesi"**
+
+## D7 · §8 başlığı çakışma riskini geri getiriyor
+
+Bu, geçen tur işaret ettiğim konu. §8'in adı *"İç Mimarlıkta Post-Anthropocentric Bir Biyotasarım Yaklaşımı"* ve kapanış zinciri `post-anthropocentric interior design`'da bitiyor — yani İngilizce makalenizin tam tezi, bölümün sonuç başlığı olarak.
+
+Karar sizin; ama maliyeti sıfır bir alternatif var:
+
+**Başlığı değiştirin, içeriği koruyun:**
+> §8 · **Sonuç: İç Mimarlıkta Biyotasarım Temelli Döngüsel Bir Malzeme Yaklaşımı**
+
+Ve post-antroposantrik açılımı sonucun **son paragrafı** olarak bırakın, makaleye atıfla: *"Bu yaklaşımın malzemeyi yalnızca sürdürülebilir bir alternatif değil, insan ve insan-dışı aktörler arasındaki ilişkileri yeniden düşünmeyi sağlayan bir araç olarak ele alan daha geniş kuramsal açılımları için bkz. Ünal (yayına hazırlanmakta)."*
+
+Böylece: bölüm kendi kazandığı sonuçta biter, makalenin tezi bölümün sonucu olmaz, ve okur isterse makaleye gider. Hem risk kalkar hem makaleye okur taşırsınız.
+
+---
+
+## KESİNLEŞEN YAPI
+
+20 sayfa · ~6.600 kelime metin · 4 tablo + 3 görsel (~3 sayfa)
+
+| # | Başlık | Kelime | Ana argüman |
+|---|---|---|---|
+| **1** | Giriş | 550 | Sürdürülebilir malzeme seçimi "hangi malzeme" sorusu değil; kaynak, üretim, birleşim, kullanım süresi, sökülebilirlik ve kullanım sonrası sorularının bütünüdür. |
+| **2** | Biyotasarım Kavramı ve Tasarım Paradigmasının Dönüşümü | 950 | Biyotasarım "doğadan ilham almak" değildir. Ayırt edici nitelik, biyolojik süreçlerin değişkenlik, belirsizlik ve zamansallığının tasarıma girmesi ve klasik *kontrol* anlayışını dönüştürmesidir. → **Tablo 1** |
+| **3** | Biyomalzemeler ve Malzemenin Yeniden Düşünülmesi | 950 | Bioinspired, biobased ve living materials farklı yaklaşımlardır; atık ve artıklar malzeme kaynağıdır; bu malzemeler tasarımcının denetimini sınırlayan davranışlar sergiler. → **Tablo 2** |
+| **4** | Döngüsel Malzeme Sistemleri ve Biyotasarım | 900 | *Bio-based → renewable → sustainable* zinciri otomatik değildir; döngüsellik malzemenin kökeninde değil bileşiminde, birleşiminde ve ömür sonu senaryosunda kararlaşır. → **Görsel 2** |
+| **5** | Adaptasyon, Değişkenlik ve Dirençlilik | 950 | Dayanıklılık, bozulmama değil **değişim karşısında varlığını sürdürme kapasitesidir** (durability through resilience). Döngüsellik ve dirençlilik eş anlamlı değil, birbirini destekleyen iki yaklaşımdır. → **Görsel 3** |
+| **6** | Biyotasarım ve İç Mimarlıkta Mekânsal Dönüşüm | 900 | İç mimarlık, döngüsel tasarım açısından küçük ölçekli mimarlık değil; **malzeme döngülerinin hızlandığı kritik tasarım ölçeğidir.** (+ yumurta kabuğu örneği, ~200 kelime, veri yok) |
+| **7** | İç Mimarlıkta Biyomalzeme Seçimi: Potansiyeller, Sınırlılıklar ve Bir Değerlendirme Çerçevesi | 950 | Üç gerilim: değişkenlik–standardizasyon · yerellik–ölçeklenebilirlik · biyolojik dönüşebilirlik–dayanıklılık. → **Tablo 3** ve **Tablo 4 (çerçeve)** |
+| **8** | Sonuç: İç Mimarlıkta Biyotasarım Temelli Döngüsel Bir Malzeme Yaklaşımı | 450 | Sürdürülebilirlik → döngüsellik → dirençlilik üçgeni; çerçevenin sınırları; araştırma gündemi; son paragrafta post-antroposantrik açılım + makaleye atıf. |
+
+**Görsel 1** (kuramsal hat, altı harekete indirilmiş) → §1 sonu veya §2 başı.
+
+## Yazım sırası
+
+| Sıra | Başlık | Gerekçe |
+|---|---|---|
+| 1 | **§3** | İçerik en belirli (Chayaamor-Heil vd. 2023 + Le vd. 2023 + Tyagi & Jain 2026); terminolojiyi kilitler; Tablo 2 çıkar |
+| 2 | **§2** | §3 yazıldıktan sonra kavramsal ayrım netleşir; Tablo 1 |
+| 3 | **§4** | Le vd. (2023, 2024) + O'Rourke argümanı hazır veriyor |
+| 4 | **§5** | Andréen & Goidea + Heymans + Goidea vd.; §4'ün "değerlendirme yetersiz" bulgusu buraya kapı açıyor |
+| 5 | **§6** | Önceki dördü oturduktan sonra iç mekâna geçiş |
+| 6 | **§7** | Edalat okunduktan sonra; çerçeve en sonda kristalleşir |
+| 7 | **§8** | Gövdeden doğar |
+| 8 | **§1** | **En son** |
+| 9 | **Öz** | Girişten sonra |
