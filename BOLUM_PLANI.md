@@ -1,435 +1,376 @@
-# Bölüm Planı ve Kaynak Matrisi
+# Bölüm Planı — Kuramsal Kurgu ve Kaynak Matrisi
 
 **Bölüm:** İç Mimarlıkta Sürdürülebilir Malzeme Seçimi ve Döngüsel Tasarım
 **Kitap:** İç Mimarlıkta Güncel Yaklaşımlar ve Mekânsal Araştırmalar (Ed. Dr. Öğr. Üyesi Seval Yılmaz, Vizetek Yayıncılık)
-**Yazar:** Betül Ünal · **Hacim:** ~15 sayfa · **Son gönderim:** 6 Ekim 2026
+**Yazar:** Betül Ünal · **Dil:** Türkçe · **Hacim:** 20 sayfa (~6.600 kelime metin) · **Son gönderim:** 6 Ekim 2026
 
 ---
 
-## 0. Planınıza dair değerlendirme
+## 1. İki künye düzeltmesi
 
-**Güçlü yanlar — bunlar kalmalı:**
+### 1.1. "Heil vd." değil, **Chayaamor-Heil vd.**
 
-- **Temel iddianın değişmesi doğru.** "Biyomalzemeler sürdürülebilir alternatiflerdir" klasik ve zayıf; "malzeme seçiminin kendisini yeniden tanımlar" güçlü ve savunulabilir.
-- **Üç paradigma ayrımı** (taklit eden / yararlanan / birlikte çalışan) literatürde karşılığı olan, didaktik açıdan çok işlevsel bir ayrım.
-- **"Bio-based ≠ automatically sustainable"** bölümün akademik omurgası olarak doğru seçim. Aşağıda bunu kanıtlayacak birincil kaynağı buldum.
-- **Sürdürülebilirlik → döngüsellik → dirençlilik** üçgeni bölümün gerçek özgünlüğü ve doktora alanınıza doğal köprü.
-- **"İç mimarlık, malzeme döngülerinin hızlandığı kritik tasarım ölçeğidir"** — bu cümle bölümün en iyi özgün argümanı.
-- **Biyomalzeme romantizminden kaçınma** bölümü olgunluk göstergesi; mutlaka kalsın.
+Doğruladım — ve ilginç bir şey çıktı: eklediğiniz 2023 derlemesinin ilk yazarı, repodaki 2024 makalesinin de ilk yazarı. **Aynı araştırma grubu.**
 
-**Beş kritik uyarı var. Birincisi acil.**
+> **Chayaamor-Heil, N., Perricone, V., Gruber, P. & Guéna, F. (2023).** "Bioinspired, biobased and living material designs: a review of recent research in architecture and construction." *Bioinspiration & Biomimetics*, 18(4), 041001.
+>
+> **Chayaamor-Heil, N., Houette, T., Demirci, Ö. & Badarnah, L. (2024).** "The Potential of Co-Designing with Living Organisms: Towards a New Ecological Paradigm in Architecture." *Sustainability*, 16(2), 673.
 
----
+Soyadı **Chayaamor-Heil**; metin içi atıf "Chayaamor-Heil vd. (2023)". "Heil, Perricone…" olarak yazarsanız kaynakçada H altına girer ve aynı yazarı iki ayrı isimle göstermiş olursunuz.
 
-## 1. 🔴 ACİL: Edalat (2026) zaten altı ölçütlü bir çerçeve öneriyor
+**Bonus:** İki derlemeyi birlikte atıflamak size tutarlı bir hat verir — aynı grup hem *malzeme sınıflandırmasını* (2023) hem *canlıyla birlikte tasarlamayı* (2024) kurmuş. Bölümün 3. ve 4. başlıkları bu iki metnin üzerine oturuyor.
 
-Bunu yazmaya başlamadan okumanız gerekiyor:
+### 1.2. Andréen & Goidea'daki ayrımı tam metinden aldım
 
-> **Edalat, S. (2026).** "Advancing Circular Economy of Bio-Based Building Materials: Critical Gaps and Future Prospects." *Circular Economy and Sustainability*, 6(2). DOI: 10.1007/s43615-026-00729-1
+Sizin aktardığınız ayrım doğru yönde ama biraz gevşek. Makalenin kendi ifadesi şu:
 
-Doğruladım. Yarı-sistematik derleme; biyo-bazlı malzemeler için döngüsel ekonomi modelinin tüm aşamalarını inceliyor, **22 engel ve araştırma boşluğu** tanımlıyor ve — kritik nokta — **döngüsel malzeme tasarımı ve seçimi için altı ölçütlü bir çerçeve öneriyor.**
+> *"Biodesign refers to design (in our case architectural) that uses biological materials and/or approaches for human applications, such as buildings. **Biological design** on the other hand refers to the **morphogenetic processes that connect genotypes to phenotypes**, the processes, and agents that express code in DNA as spatial [form]."*
 
-Sizin önerdiğiniz çerçeve de altı boyutlu. Bu tesadüf, ama okumadan yazarsanız iki sonuçtan biri olur: ya farkında olmadan tekrarlarsınız, ya da hakem/okur tekrarladığınızı düşünür.
+Yani ayrım "tasarımda kullanmak / anlamaya odaklanmak" değil, daha keskin:
 
-**Çözüm — ve bu aslında çerçevenizi güçlendirir:** Edalat'ı okuyun, çerçevenizi **onun uzantısı olarak konumlandırın.** Ayrımı şöyle kurun:
-
-| | Edalat (2026) | Sizin çerçeveniz |
+| | **Biodesign** | **Biological design** |
 |---|---|---|
-| Ölçek | Yapı / genel yapılı çevre | **İç mekân** |
-| Odak | Döngüsel ekonomi engelleri ve boşlukları | **Tasarımcının karar süreci** |
-| Eksik boyut | Deneyimsel değerlendirme | **Material Experience / MDD** |
-| Eksik boyut | Dirençlilik | **Dirençlilik kapasitesi** |
+| Kimin süreci? | **Tasarımcının** pratiği | **Doğanın** kendi süreci |
+| Ne yapar? | Biyolojik malzeme ve yaklaşımları insan uygulamaları için kullanır | Genotipi fenotipe bağlayan morfogenetik süreç; DNA'daki kodu mekânsal forma dönüştürür |
+| Bölümdeki işlevi | İncelenen tasarım pratiği | Bu pratiğin öğrendiği **model** |
 
-Yani **boyut 4 (Experiential Performance)** ve **boyut 6 (Resilience Capacity)** sizin gerçek katkınız. Bunu açıkça söyleyin: *"Edalat'ın (2026) önerdiği çerçeve, malzemenin deneyimsel boyutunu ve sistemin dirençlilik kapasitesini kapsamamaktadır. Bu bölüm, iç mekân bağlamında bu iki boyutu ekleyerek çerçeveyi genişletmeyi önermektedir."* Bu, tekrardan kaçınmaktan öte — **literatüre eklemlenmiş, konumu belli bir katkı** olur.
-
----
-
-## 2. ⚠️ Künye düzeltmesi: 97 makalelik derleme Cosentino değil
-
-Siz "Cosentino et al." olarak andınız; doğru künye:
-
-> **Le, D. L., Salomone, R. & Nguyen, Q. T. (2023).** "Circular bio-based building materials: A literature review of case studies and sustainability assessment methods." *Building and Environment*, 244, 110774.
-
-İlk yazar **Dinh Linh Le**. Cosentino bu alanda gerçekten yazan bir isim (Springer kitap bölümleri var) ama 97 makalelik *Building and Environment* derlemesi Le, Salomone & Nguyen'e ait.
-
-**Aynı ekibin ikinci çalışması sizin için daha da değerli:**
-
-> **Le, D. L., Salomone, R. & Nguyen, Q. T. (2024).** "Sustainability assessment methods for circular bio-based building materials: A literature review." *Journal of Environmental Management*, 352, 120137.
-
-Bulguları, "bio-based ≠ sustainable" iddianızın **birincil kanıtı**:
-- LCA en yaygın yöntem, ama çalışmaların çoğu **cradle-to-gate** — yani kapıdan çıktıktan sonrasına bakmıyor
-- **Çok az çalışma ömür sonu aşamasını hesaba katıyor**
-- **İncelenen ömür sonu senaryolarının çoğu sürdürülebilir değil ve döngüsellik düzeyleri düşük**
-- Sistem sınırları, fonksiyonel birim ve veri tabanları konusunda uzlaşma yok
-
-Bu dört bulgu, bölümünüzün eleştirel omurgasını tek kaynakla kurar. Üstelik §3'teki "otomatik olarak daha iyi değildir" iddianızı ve §5'teki "biyolojik köken döngüsellik anlamına gelir mi?" sorunuzu aynı anda destekler.
-
----
-
-## 3. ⚠️ Tyagi & Jain (2026) planınızı değiştiriyor — iyi yönde
-
-> **Tyagi, P. & Jain, C. (2026).** "Bio-based and regenerative materials in interior design: a systematic literature review and bibliometric analysis." *Journal of Engineering and Applied Science*. DOI: 10.1186/s44147-026-00970-3
-
-Doğruladım. **104 yayın, 2000–2025, VOSviewer bibliyometrik analiz.** Bulguları:
-- 2017 sonrası hızlı büyüme
-- İç mekân **zarf bileşenlerine** (duvar, yalıtım) odaklanma
-- **Biyofabrike malzemeler** (miselyum, bakteriyel selüloz, alg) deneysel araştırmaya hâkim
-- **Vernaküler biyo-bazlı malzemeler** (bambu, kerpiç, saman, kenevir) düşük etkili iç mekân uygulamalarında merkezî
-
-**Bunun iki sonucu var:**
-
-**(a) Düzeltme — önceki sürümlerde kurduğumuz "iç mekân ölçeği boş" argümanı artık geçersiz.** Tyagi & Jain tam olarak bu ölçeği, tam olarak bu yıl taramış. O iddiayı kullanamazsınız.
-
-**(b) Ama bu bir tehdit değil, müttefik.** Yeni konumlandırma çok daha temiz:
-
-> Tyagi & Jain (2026) iç mekânda biyo-bazlı ve rejeneratif malzeme yazınının **ne olduğunu** haritalandırmıştır (betimleyici, bibliyometrik). Bu bölüm ise **nasıl karar verileceğini** sormaktadır (kavramsal, normatif).
-
-Üstelik bulguları sizin argümanlarınızı destekliyor — biyofabrike/vernaküler ayrımı §3'teki taksonominizi doğruluyor, zarf bileşenleri odağı ise §6'daki iç mekân vurgunuzu. Ve Mart 2026'da yayımlanmış bir kaynağa atıf vermek, bölümü güncel gösterir.
-
-> **Not:** Pomponi & Moncaster (2017) da işinize yarıyor — döngüsel ekonomi araştırmasının "kent vizyonu ya da inşaat malzemesine fazla, binanın kendisine az" odaklandığını söylüyorlar. Sizin iç mekân argümanınızın doğrudan öncülü: aynı ihmal bir ölçek daha aşağıda tekrarlanıyor.
-
----
-
-## 4. ⚠️ Hacim: içerik 15 sayfaya sığmıyor
-
-Dürüst hesap:
+**Bu neden önemli:** Makalenin başlığı zaten bunu söylüyor — *"Principles of biological design as a **model** for biodesign."* Doğanın süreci (biological design) incelenir, ilkeler çıkarılır, tasarımcının pratiği (biodesign) bu ilkelerden öğrenir. Üç adımlı bir ilişki:
 
 ```
-15 sayfa × ~380 kelime            = ~5.700 kelime eşdeğeri toplam alan
-4 tablo + 2 görsel                = ~2–2,5 sayfa  → ~850 kelime eşdeğeri
-───────────────────────────────────────────────────────────
-Metin için kalan                  = ~4.850 kelime
+BİYOLOJİK TASARIM        →   DÖRT İLKE        →   BİYOTASARIM
+(doğanın morfogenetik        çeşitlilik ·         (tasarımcının
+ süreci)                     karmaşıklık/         biyolojik malzeme ve
+                             özgüllük ·           yaklaşımlarla pratiği)
+                             dirençlilik yoluyla
+                             dayanıklılık ·
+                             geri besleme/uyarlanma
 ```
 
-Sizin 9 bölümlük planınızdaki içerik ise şu yükü taşıyor:
+Ve tam da istediğiniz şeyi sağlıyor: **biyomimikriyi merkeze almadan biyotasarımı anlatmak.** Çünkü burada ilişki "taklit" değil, "ilke çıkarma". Bu üç adımlı şemayı 2. başlığın omurgası yapın.
 
-| Bölüm | Yüklediğiniz içerik | Gerçekçi ihtiyaç |
+> Makaledeki **Protomycokion** (biyohibrit malzemeden 3B basılmış kolon) somut bir referans olarak kullanılabilir — Andréen & Goidea'nın kendi uygulamaları.
+
+---
+
+## 2. 🔴 Ciddi uyarı: önerdiğiniz omurga, kendi İngilizce makalenizin omurgası
+
+Bunu söylemek zorundayım. Önerdiğiniz 13 adımlı kuramsal hat:
+
+```
+ANTHROPOCENTRIC/LINEAR DESIGN → Material as passive resource → BIO-BASED MATERIALS
+→ BIODESIGN → Designing WITH/AS/FOR living matter → Material agency
+→ Variability/uncertainty/temporality → Feedback/adaptation → Circularity
+→ Ecological embeddedness → RESILIENCE → SPATIAL RESILIENCE
+→ POST-ANTHROPOCENTRIC SPATIAL DESIGN
+```
+
+Ve *"Spatial Resilience Beyond Anthropocentrism: Reconfiguring Material Agency through Biodesign"* makalenizin öz'ü:
+
+> antroposantrik tasarım paradigması → malzemenin edilgen nesne olarak konumlanması → **malzeme nesneleştirilmesinden malzeme failliğine geçiş** → biyo-bazlı malzemelerin endüstriyel varsayımları sarsması → **ilişkisel bir koşul olarak mekânsal dirençlilik** → **post-antroposantrik yönelim**
+
+**Bunlar aynı argüman.** Türkçe–İngilizce farkı bunu çözmez; yayın etiği açısından dil farkı bir ayrım ölçütü değildir. Kitap bölümü yayımlandıktan sonra makaleyi bir dergiye gönderdiğinizde hakem ya da editör bu örtüşmeyi görürse sorun olur.
+
+### Çözüm: örgütleyici eksen değişsin
+
+Ayrım, *konu*da değil **örgütleyici eksende** olmalı:
+
+| | **İngilizce makale** | **Kitap bölümü** |
 |---|---|---|
-| §3 | 4 kategori × 5–6 malzeme = 22 malzeme + LCA eleştirisi | ~1.200 kelime |
-| §6 | 8 tasarım stratejisi | ~1.000 kelime |
-| §7 | 11 dirençlilik özniteliği | ~1.100 kelime |
-| §8 | 6 boyutlu çerçeve + büyük şema | ~900 kelime |
+| Örgütleyici eksen | **Ontoloji** — maddenin varlık statüsü | **Sınıflandırma ve değerlendirme** — doğa temelli malzeme yaklaşımları |
+| Yöntem | Eleştirel kuramsal sorgulama | Kuramsal derleme + kavramsal çerçeve |
+| Kuramsal çıpalar | Latour, Bennett, Ingold | Chayaamor-Heil, Andréen & Goidea, Karana, Le vd. |
+| Varış noktası | **Post-antroposantrik mekânsal yönelim** | **İç mimarlıkta döngüsel malzeme kararı** |
+| Yapmadığı | Taksonomi, LCA eleştirisi, laboratuvar–uygulama boşluğu, iç mekân | Latour/Bennett/Ingold, ilişkisel ontoloji, epistemoloji tartışması |
 
-İçerik **~8.000 kelimeye**, yani 20–22 sayfaya ölçeklenmiş durumda. **Yaklaşık %65 fazla.**
+**Somut kurallar:**
+1. **Antroposantrizm 2. başlıkta iki paragraf** — çerçeve olarak, omurga olarak değil.
+2. **Latour, Bennett, Ingold'u bölüme sokmayın.** Orası makalenin alanı.
+3. **"Post-antroposantrik mekânsal tasarım" bölümün sonucu olmasın.** Sonuçta tek ileriye dönük paragraf olarak geçsin ve makaleye atıf verin ("Ünal, yayına hazırlanmakta" ya da yayımlanmışsa künyesiyle).
+4. **Bölüm döngüsellik ve iç mimarlık çıkarımlarında bitsin**, ontolojide değil.
+5. **"Malzeme failliği" terimini kullanın ama merkeze almayın** — 4. başlıkta tasarımcı–malzeme ilişkisinin bir boyutu olarak, bölümün tezi olarak değil.
 
-### İki seçenek
+### Ve 13 adım bir içindekiler listesi olamaz
 
-**Seçenek 1 (önerilen): Editörden 20 sayfa isteyin.** Bir dakikalık e-posta. Türkiye'deki derlenmiş kitaplarda 20 sayfa sık görülür. Verilirse planınız olduğu gibi çalışır ve hiçbir şeyi kesmeniz gerekmez. **Bugün sorun.**
-
-**Seçenek 2: 15 sayfada kalın, şu kesintileri yapın:**
-
-| Kesinti | Nasıl |
-|---|---|
-| §4 ve §5'i birleştirin | İkisi de döngüsel malzeme sistemi anlatıyor; tek başlık altında ~1.000 kelime yeter → **1,5 sayfa kazanç** |
-| §6'daki 8 stratejiyi 5'e indirin | İç mekân için gerçekten belirleyici olanlar: *longevity, adaptability, disassembly, reuse, biological degradation*. Repair ve recycling'i birer cümleyle anın → **0,7 sayfa** |
-| §7'deki 11 özniteliği 5'e indirin | Döngüsellikle doğrudan kesişenler: *adaptability, modularity, reversibility, redundancy (kaynak çeşitliliği), repairability*. Diğerleri liste olarak kalır → **0,8 sayfa** |
-| **Tek model kullanın** | Aşağıda, §5 | **0,8 sayfa** |
-| Tabloyu 6 malzemeden 4'e indirin | Miselyum, bakteriyel selüloz, yumurta kabuğu, kenevir → **0,3 sayfa** |
-
-Toplam kazanç ≈ 4 sayfa. Bu kesintilerle plan 15 sayfaya oturur.
-
-> **Enumerasyon tuzağı:** 11 özniteliği 1.100 kelimede anlatmak, her birine 100 kelime demek — bu bir **liste**, argüman değil. 5 özniteliği 700 kelimede anlatmak ise her birine 140 kelime: tanım + döngüsellikle ilişkisi + iç mekân karşılığı. Daha az madde, daha çok iddia.
-
----
-
-## 5. ⚠️ İki model birbiriyle yarışıyor
-
-Planınızda iki ayrı özgün katkı var ve ikisi de "bölümün esas katkısı" olarak sunuluyor:
-
-- **§11:** CIRCULAR BIO-MATERIAL SELECTION FRAMEWORK (6 boyut)
-- **§18:** Biyolojik Temelli Döngüsel İç Mekân Tasarım Modeli (büyük şema)
-
-İçerikleri büyük ölçüde örtüşüyor. İki model bir bölümde ikisini de zayıflatır — okur hangisinin katkı olduğunu bilemez.
-
-**Önerim: Tek model, iki gösterim.**
-
-> **Şema = modelin sistemik gösterimi.** Kaynaktan dirençliliğe uzanan akışı görselleştirir (Görsel 2).
-> **Altı boyut = modelin operasyonel aracı.** Tasarımcının soracağı altı soru (Tablo 4).
-
-Metinde bu ilişkiyi tek cümleyle kurun: *"Aşağıdaki şema modelin sistemik yapısını; sonraki tablo ise bu yapıdan türetilen karar ölçütlerini göstermektedir."* Böylece iki görsel öğe tek bir katkının iki yüzü olur.
-
-**Ayrıca şema baskıya uygun değil.** 7 kademe, 4 kademede üç yollu dallanma — 16×24 cm kitap sayfasında okunmaz. **Beş kademeye indirin** ve dallanmaları yan yana üç etiket olarak verin:
+13 kademeli hat **diyagram** olarak çok iyi (Görsel 1 yapın), ama bölüm yapısı olarak işlemez — her adıma 500 kelime düşer, hiçbiri oturmaz. Altı harekete indirin:
 
 ```
-BİYOSFER  →  BİYOTASARIM  →  BİYOMALZEME  →  İÇ MEKÂN  →  DÖNGÜ  →  DİRENÇLİLİK
-                   │               │              │           │
-            bio-based /     performans /    uyarlanabilirlik  biyolojik /
-            biyofabrikasyon  deneyim /      modülerlik        teknik
-            / atık-biyokütle döngüsellik    tersinirlik
+SORUN              KAVRAM            SINIFLANDIRMA      İLİŞKİ
+iç mekânın    →    biyolojik    →    bioinspired /  →   tasarımcı–
+hızlanan           tasarım →         biobased /         malzeme
+malzeme            biyotasarım       living             ilişkisinin
+döngüsü                                                 dönüşümü
+                                                            ↓
+                   DİRENÇLİLİK   ←   DÖNGÜSELLİK  ←───────┘
+                   değişkenlik,      atık değerlendirme,
+                   geri besleme,     eleştirel okuma
+                   uyarlanma         (bio-based ≠ sustainable)
 ```
 
 ---
 
-## 6. ⚠️ Yıldızlı tablo sorunu — ve çözümü
+## 3. REVİZE YAPI — 20 sayfa / ~6.600 kelime
 
-Bunu kendiniz fark etmişsiniz, haklısınız. Ama sorun düşündüğünüzden daha yapısal: **teknik veri koymayacağınızı söylediğiniz bir bölümde 6 malzemeye "Yüksek / Orta" döngüsellik notu vermek, kaynaksız bir derecelendirmedir.** Hakem ilk burayı sorar.
+**Araştırma sorusu:**
+> İç mimarlıkta biyolojik temelli malzeme seçimi, sürdürülebilirlikten döngüselliğe ve döngüsellikten dirençliliğe geçişi sağlayan bir tasarım yaklaşımı olarak nasıl kavramsallaştırılabilir?
 
-**Çözüm — hem daha dürüst hem daha öğretici:** Derecelendirme sütununu **koşul sütununa** çevirin.
+**Temel iddia:**
+> Biyotasarım ve biyolojik temelli malzemeler iç mimarlıkta yalnızca daha sürdürülebilir seçenekler sunmamakta; malzeme seçiminin ölçütlerini, malzemenin yaşam döngüsünü ve tasarımcının kaynak, üretim, kullanım ve atıkla kurduğu ilişkiyi yeniden tanımlamaktadır.
 
-| Malzeme | Biyolojik kaynak | Üretim | İç mekân kullanımı | **Döngüselliği belirleyen koşul** |
-|---|---|---|---|---|
-| Miselyum | Tarımsal/biyolojik atık | Biyofabrikasyon | Akustik panel, dolgu | Bağlayıcı eklenmediyse ve yüzey kaplaması sentetik değilse biyolojik döngüye girer |
-| Bakteriyel selüloz | Bakteriyel fermantasyon | Biyofabrikasyon | Yüzey, kaplama | Kurutma ve stabilizasyon işleminde sentetik katkı kullanılıp kullanılmadığına bağlı |
-| Yumurta kabuğu kompoziti | Gıda atığı | Biyokompozit | Panel, yüzey | **Bağlayıcı sisteminin biyobozunurluğuna bağlı**; sentetik reçine döngüyü kapatır |
-| Kenevir lifi | Tarımsal kaynak | Biyokompozit | Panel, yalıtım | Matris malzemesi ve birleşim detayının tersinirliğine bağlı |
+**Akademik ton cümlesi** (sizin önerdiğiniz, Türkçeleştirilmiş — bölümün omurga cümlesi olsun):
+> Biyolojik temelli malzemeler döngüselliğe ve ekolojik bütünleşmeye doğru alternatif yollar sunar; ancak sürdürülebilirlik ve dirençlilik potansiyelleri bağlama bağlıdır ve yaşam döngüsü, malzeme, mekân ve ekoloji düzeylerinde birlikte değerlendirilmeyi gerektirir.
 
-**Neden bu daha iyi:**
-1. Kaynaksız derecelendirme yapmıyorsunuz — **koşulu** söylüyorsunuz
-2. Le vd. (2024) zaten literatürdeki ömür sonu senaryolarının çoğunun düşük döngüsellikte olduğunu gösteriyor; yani **düz bir not vermek literatüre aykırı olurdu.** Koşullu ifade, bulguyla uyumlu.
-3. Didaktik olarak çok daha değerli: öğrenci "miselyum yüksek" bilgisini değil, **"neye bağlı"** bilgisini öğrenir
-4. Ve bu doğrudan bölümün tezini kanıtlar: döngüsellik malzemenin kökeninde değil, bileşiminde ve birleşiminde kararlaşır
-
----
-
-## 7. REVİZE BÖLÜM PLANI
-
-15 sayfa / ~4.900 kelime varsayımıyla. (20 sayfa alırsanız her bölüme orantılı ekleme yapın; yapı değişmez.)
-
-### Araştırma sorusu
-
-> İç mimarlıkta biyolojik temelli malzeme seçimi, sürdürülebilirlikten döngüselliğe ve döngüsellikten dirençliliğe geçişi sağlayan bir tasarım paradigması olarak nasıl kavramsallaştırılabilir?
-
-### Temel iddia
-
-> Biyotasarım ve biyolojik temelli malzemeler, iç mimarlıkta yalnızca daha sürdürülebilir malzeme seçenekleri sunmamakta; malzeme seçiminin ölçütlerini, malzemenin yaşam döngüsünü ve tasarımcının kaynak, üretim, kullanım ve atıkla kurduğu ilişkiyi yeniden tanımlamaktadır.
+| # | Başlık | Kelime | Ana argüman |
+|---|---|---|---|
+| **1** | **Giriş: İç Mimarlıkta Malzeme Kararının Dönüşümü** | 550 | Sürdürülebilir malzeme seçimi "hangi malzeme" sorusu değil; kaynak, üretim, birleşim, kullanım süresi, sökülebilirlik ve kullanım sonrası sorularının bütünüdür. |
+| **2** | **Biyomimikriden Biyotasarıma: Kavramsal Dönüşüm** | 800 | Biyotasarımı "doğadan ilham almak" olarak tanımlamak yetersizdir. Ayırt edici nitelik, biyolojik süreçlerin **değişkenlik, belirsizlik ve zamansallığının** tasarıma girmesi ve bunun klasik *kontrol* anlayışını dönüştürmesidir. |
+| **3** | **Doğa Temelli Malzeme Yaklaşımlarının Sınıflandırılması** | 900 | **Bioinspired, biobased ve living materials** birbirinden farklı yaklaşımlardır; aynı başlık altında ele alınmaları kavramsal karışıklık üretir. Ayrıca laboratuvar araştırması ile gerçek ölçekli uygulama arasında ciddi bir boşluk vardır. |
+| **4** | **Malzemenin Edilgen Nesneden Etkin Bileşene Dönüşmesi** | 850 | Biyotasarım yalnızca yeni malzemelerin geliştirilmesi değil, **tasarımcının malzemeyle kurduğu ilişkinin yeniden tanımlanmasıdır.** |
+| **5** | **Döngüsellik ve Atık Değerlendirme** | 750 | Biyolojik ve teknik döngülerin yanında, biyokompozitler için belirleyici olan **hibrit biyolojik–teknik döngü**dür. Atık ve artıkların değerlendirilmesi döngüselliğin girdi tarafını kurar. |
+| **6** | **Döngüselliğin Eleştirel Okunması: Biyolojik Köken Yeterli mi?** | 750 | *Bio-based → renewable → sustainable → resilient* zinciri otomatik değildir. Yazın bunun aksini gösteriyor. |
+| **7** | **Değişkenlikten Dirençliliğe** | 800 | Döngüsellik ile dirençlilik eş anlamlı değildir; uyarlanabilirlik, modülerlik, tersinirlik ve kaynak çeşitliliği gibi ortak özellikler üzerinden birbirini destekleyen iki yaklaşımdır. |
+| **8** | **İç Mimarlık İçin Çıkarımlar ve Kavramsal Çerçeve** | 800 | İç mimarlık, döngüsel tasarım açısından yalnızca küçük ölçekli mimarlık değildir; **malzeme döngülerinin hızlandığı kritik tasarım ölçeğidir.** |
+| **9** | **Sonuç** | 400 | Üçgenin toparlanması; çerçevenin sınırları; araştırma gündemi. |
 
 ---
 
-### §1 · Giriş: İç Mimarlıkta Malzeme Seçiminin Dönüşümü · 450 kelime
+## 4. Başlık başlık içerik ve kaynak eşleştirmesi
 
-**Ana argüman:** Sürdürülebilir malzeme seçimi yalnızca "hangi malzeme" sorusu değildir; malzemenin nereden geldiği, nasıl üretildiği, **nasıl birleştirildiği**, ne kadar kullanıldığı, sökülebildiği ve sonra nereye gittiği sorularını kapsar.
+### §1 · Giriş · 550 kelime
 
-İçerik: İklim krizi ve kaynak tüketimi (kısa) → yapı sektörünün malzeme kaynaklı etkisi → **iç mekânın sürekli yenilenmesi ve bunun yarattığı malzeme atığı** → geleneksel sürdürülebilir malzeme seçiminin sınırları → bölümün iddiası, sorusu ve yapısı.
+İklim krizi ve kaynak tüketimi (kısa) → yapı sektörünün malzeme kaynaklı etkisi → **iç mekânın sürekli yenilenmesi** (yapı 50–100 yıl, iç mekân donanımı 7–10 yıl) → geleneksel sürdürülebilir malzeme seçiminin sınırları → bölümün sorusu, iddiası ve yapısı → tür beyanı: *"Bu bölüm kuramsal bir derleme olup teknik performans değerlendirmesi amaçlamaz."*
 
-Kapanışta tek cümlelik tür beyanı: *"Bu bölüm eleştirel bir kavramsal derleme olup, teknik performans değerlendirmesi amaçlamaz."*
-
----
-
-### §2 · Biyotasarım: Doğadan İlham Almaktan Doğa ile Tasarlamaya · 700 kelime
-
-**Ana argüman:** Biyotasarımı "doğadan ilham almak" olarak tanımlamak yetersizdir. Ayırt edici nitelik, **biyolojik süreçlerin büyüme, uyarlanma ve belirsizlik gibi özelliklerinin tasarım sürecine dahil edilmesi** ve bunun klasik tasarımdaki *kontrol* anlayışını dönüştürmesidir.
-
-İçerik: Altı yaklaşımın ayrımı (**Tablo 1**) → doğa ile ilişki ve tasarımcı rolü eksenleri → Andréen & Goidea'nın biyolojik tasarımın dört ilkesi (çeşitlilik; karmaşıklık ve biçimsel özgüllük; dirençlilik yoluyla dayanıklılık; geri besleme ve uyarlanma) → transkalar tasarım → Oxman'ın Material Ecology yaklaşımı: doğayı kaynak olarak tüketmekten biyolojik sistemleri tasarımın etkin parçası kılmaya geçiş → **eleştirel not:** biyoloji otomatik olarak sürdürülebilir değildir (O'Rourke & Seepersad).
-
-> **Not:** "Dirençlilik yoluyla dayanıklılık" ilkesi §7'ye köprü kurar — Andréen & Goidea bunu *tasarımcının normalde çok zayıf sayılacak malzemelerle çalışmasını mümkün kılan ilke* olarak tanımlıyor. Bu, 4,1 MPa'lık bir malzemeyle iç mekân bileşeni tasarlamanın kuramsal gerekçesidir. Köprüyü burada kurun, §7'de kapatın.
+**Kaynaklar:** Brand (1994)/Duffy · Tyagi & Jain (2026) · Pomponi & Moncaster (2017) · Ellen MacArthur Foundation
 
 ---
 
-### §3 · Biyolojik Temelli Malzemeler: Taksonomi ve Eleştirel Çerçeve · 800 kelime
+### §2 · Biyomimikriden Biyotasarıma · 800 kelime
 
-**Ana argüman:** "Bio-based" ile "biofabricated" aynı şey değildir; ve biyolojik köken sürdürülebilirliği garanti etmez.
+- **Antroposen çerçevesi — iki paragraf, fazlası değil** (Crawford, 2022)
+- **Biyolojik tasarım / biyotasarım ayrımı** (§1.2'deki tablo ve üç adımlı şema) — bölümün kavramsal kilidi
+- **Biyomimikrinin konumu:** doğadan analoji ve strateji transferi; neden tek başına yetersiz
+- **Ginsberg & Chieza'nın "design of, with, or from biology" ayrımı** — biyotasarımın ekolojik, teknolojik, ekonomik ve etik boyutları. Bu kaynak bölümü "bio-based = sustainable" düzeyinde kalmaktan korur.
+- **Myers (2018)** — alanın kapsamı ve örnek genişliği (yaklaşık 70 proje); tek tek proje anlatmadan alanın menzilini göstermek için
+- **Andréen & Goidea'nın dört ilkesi** burada tanıtılır; "dirençlilik yoluyla dayanıklılık" ilkesi §7'ye köprü kurar
+- **Terminoloji netleştirmesi** (Kırbaş Akyürek vd., 2020) → **Tablo 1**
 
-İçerik: Le vd.'nin (2023) tanımı → dört kategorili taksonomi (**Tablo 2**): doğal biyolojik malzemeler · tarımsal/biyolojik atık temelli · biyopolimer temelli · biyofabrike malzemeler → Tyagi & Jain'in (2026) iç mekânda biyofabrike/vernaküler ayrımı bu taksonomiyi doğruluyor → **eleştirel çerçeve:**
-
-> Biyo-bazlı malzemeler geleneksel alternatiflere göre bazı çevresel avantajlar sunabilir; ancak ötrofikasyon, arazi kullanımı ve yaşam döngüsü ekonomisi gibi konularda otomatik olarak daha iyi değildir (Le vd., 2023). Dahası, mevcut yaşam döngüsü değerlendirmelerinin çoğu *cradle-to-gate* niteliğindedir; çok az çalışma ömür sonu aşamasını hesaba katar ve incelenen ömür sonu senaryolarının çoğu düşük döngüsellik düzeyine sahiptir (Le vd., 2024).
-
-**Bio-based ≠ automatically sustainable** cümlesi burada, kaynaklı olarak kurulur.
-
----
-
-### §4 · Sürdürülebilir Malzeme Seçiminden Döngüsel Malzeme Seçimine · 900 kelime
-
-*(§4 ve §5 birleştirildi.)*
-
-**Ana argüman:** Malzeme seçimi ölçütleri performans–estetik–maliyet–dayanıklılık dörtlüsünden, kaynak–üretim–deneyim–kullanım süresi–sökülebilirlik–yeniden kullanım–biyolojik dönüşebilirlik bütününe genişler. Bu, ölçüt eklemek değil, **karar yapısını değiştirmektir.**
-
-İçerik:
-- Geleneksel ve döngüsel seçim ölçütlerinin karşılaştırması (**Tablo 3**)
-- **Material Driven Design:** Karana vd.'nin yaklaşımı malzemeyi teknik performansın ötesinde *ne yaptığı, ne ifade ettiği ve kullanıcıda hangi deneyimi oluşturduğu* üzerinden değerlendirir. İç mekân için özel değeri: iç mekân malzemesi dokunulan, koklanan, yaşlanması izlenen malzemedir. "Dayanıklı mı?" sorusu kadar "nasıl hissediliyor, hangi atmosferi kuruyor, eskidiğinde nasıl davranıyor?" soruları da geçerlidir.
-- **Üç döngü modeli:** biyolojik döngü · teknik döngü · **hibrit biyolojik–teknik döngü** (biyokompozitlerde kritik olan budur)
-- Cradle-to-Cradle ve Ellen MacArthur çerçevesi; iç halkaların (bakım, onarım, yeniden kullanım) geri dönüşümden önce gelmesi
-- **Eleştirel soru:** Bir malzemenin biyolojik kökenli olması onun döngüsel olduğu anlamına gelir mi? Hayır — biyolojik içerikli bir kompozite ayrıştırılamayan sentetik reçine eklendiğinde döngüyü kapatmak güçleşir. Edalat (2026) bağlayıcı uyumluluğunu ve toplama altyapısını bu bağlamda temel engeller arasında sayar.
+**Kaynaklar:** Andréen & Goidea (2022) ★ · Crawford (2022) · Ginsberg & Chieza (2018) ★ · Myers (2018) · Chayaamor-Heil vd. (2024) · Kırbaş Akyürek vd. (2020) · Benyus (1997)
 
 ---
 
-### §5 · İç Mekânda Döngüsel Tasarım Stratejileri · 700 kelime
+### §3 · Doğa Temelli Malzeme Yaklaşımlarının Sınıflandırılması · 900 kelime
 
-**Ana argüman — bölümün en özgün cümlesi:**
+**Bölümün didaktik çekirdeği. Ana kaynak: Chayaamor-Heil vd. (2023).**
 
-> İç mimarlık, döngüsel tasarım açısından yalnızca küçük ölçekli mimarlık değildir; **malzeme döngülerinin hızlandığı kritik bir tasarım ölçeğidir.**
+- **Üçlü ayrım** → **Tablo 2**:
 
-İçerik: Beş strateji, her biri tanım + döngüsellikle ilişkisi + iç mekân karşılığı ile: *Design for Longevity · Adaptability · Disassembly · Reuse · Biological Degradation.* (Repair ve Recycling birer cümleyle anılır.)
+| | **Bioinspired** | **Biobased** | **Living** |
+|---|---|---|---|
+| Doğa ile ilişki | İlke/strateji ödünç alınır | Biyolojik kaynak kullanılır | Canlı organizma malzemenin içinde kalır |
+| Malzemede canlı var mı? | Yok | Yok | **Var** |
+| Tasarımcının işi | Analoji kurmak | Kaynak seçmek ve işlemek | Yaşam koşullarını sürdürmek |
+| Örnek alan | Strüktür, yüzey geometrisi | Kenevir, mantar, lif, biyokompozit | Miselyum (canlı), bakteriyel sistemler, alg |
 
-Sonra: Pomponi & Moncaster (2017) döngüsel ekonomi araştırmasının kent vizyonuna ve inşaat malzemesine fazla, binanın kendisine az odaklandığını saptıyor. **Aynı ihmal bir ölçek daha aşağıda tekrarlanıyor:** iç mekân, yenileme hızı en yüksek katman olmasına karşın döngüsellik tartışmasında geç ele alınmıştır. Tyagi & Jain (2026) bu ilginin ancak 2017 sonrası hızlandığını gösteriyor.
+- **Alt sınıflandırma — biobased içinde** (Le vd., 2023 tanımı ve kategorizasyonu): doğal biyolojik malzemeler · tarımsal/biyolojik atık temelli · biyopolimer temelli · biyofabrike
+- **Laboratuvar–uygulama boşluğu** (Chayaamor-Heil vd., 2023): laboratuvar araştırmaları ile gerçek ölçekli mimari uygulamalar arasındaki boşluk. Bu, bölümün *eleştirel* katmanının ilk ayağı ve §6 ile §8'e zemin hazırlar.
+- **İç mekânda durum** (Tyagi & Jain, 2026): biyofabrike malzemeler (miselyum, bakteriyel selüloz, alg) deneysel araştırmaya hâkim; vernaküler biyo-bazlı malzemeler (bambu, kerpiç, saman, kenevir) düşük etkili uygulamalarda merkezî. **Yani üçlü ayrım iç mekânda da gözlenebiliyor.**
 
-Kapanışta bir paragraf: döngüsellik malzemenin kökeninde değil, **bileşiminde ve birleşim detayında** kararlaşır (ISO 20887 ve §6'daki tabloya köprü).
+**Kaynaklar:** Chayaamor-Heil vd. (2023) ★★ · Le vd. (2023) ★ · Tyagi & Jain (2026) ★ · Bourbia vd. (2023) · Lee vd. (2021) · Karana vd. (2018) · Kırbaş Akyürek vd. (2020)
 
 ---
 
-### §6 · Döngüsellikten Dirençliliğe · 700 kelime
+### §4 · Malzemenin Edilgen Nesneden Etkin Bileşene Dönüşmesi · 850 kelime
 
-**Ana argüman:**
+**Sizin kurduğunuz üçlü: Karana → Rognoli → Goidea/Andréen.** Çok iyi bir dizi; aynen koruyun.
 
-> Döngüsel tasarım ile dirençlilik birbirinin eş anlamlısı değildir; ancak uyarlanabilirlik, modülerlik, sökülebilirlik, kaynak çeşitliliği ve yeniden kullanım gibi ortak tasarım özellikleri üzerinden birbirini destekleyen iki paradigma olarak değerlendirilebilir.
+- **Karana vd. (2018):** canlı organizmalarla malzeme üretimi, tasarımcıyı edilgen malzeme seçicisinden **etkin malzeme üreticisine/işbirlikçisine** dönüştürür
+- **Rognoli & Ayala Garcia (2018):** endüstriyel malzeme sistemleri tasarımcıyı çoğunlukla "malzeme seçimi" rolüne indirger; **malzeme aktivizmi** bu ilişkiyi yeniden kurar — düşük teknolojili, deneysel, kendin-yap yaklaşımlarla
+- **Buradan bölümün argümanı:** Biyotasarım yalnızca yeni malzeme geliştirmek değil, tasarımcının malzemeyle kurduğu ilişkiyi yeniden tanımlamaktır
+- **Material Driven Design** (Karana vd., 2015): malzemeyi teknik performansın ötesinde *ne yaptığı, ne ifade ettiği, kullanıcıda ne hissettirdiği ve hangi eylemleri mümkün kıldığı* üzerinden değerlendirmek
+- **Materials Experience** (Giaccardi & Karana): malzeme fiziksel bir nesne değil, toplumsal–kültürel–duyusal ilişkilerin parçası
+- **İç mimarlık için özel anlamı:** iç mekân malzemesi dokunulan, koklanan, yaşlanması izlenen malzemedir. "Dayanıklı mı?" kadar "nasıl hissediliyor, hangi atmosferi kuruyor, eskidiğinde nasıl davranıyor?" soruları da geçerlidir.
+- **Disiplinlerarasılık** (Stefanova, 2021; Bandoni vd., 2022): laboratuvarın tasarım mekânına dönüşmesi; yetki ve yazarlığın yeniden dağılması
+- **Transkalar tasarım** (Goidea vd., 2022): değişkenlik, uyarlanma ve karşılıklı bağımlılığın tasarım sürecine girmesi; moleküler ölçekten mekân ölçeğine geçiş
 
-İçerik: Dirençliliği afet dayanımına indirgememe uyarısı → ekolojik dirençlilik kuramından gelen öznitelikler (Heymans vd.) → **beş öznitelik**, her biri döngüsellikle kesişimi üzerinden: uyarlanabilirlik · modülerlik · tersinirlik · bolluk/kaynak çeşitliliği · onarılabilirlik → bu özniteliklerin Andréen & Goidea'nın dört ilkesiyle örtüşmesi → nedensel zincir:
+> ⚠️ "Malzeme failliği" terimini burada bir kez tanımlayıp geçin. Bölümün tezi değil, bu başlığın bir boyutu (bkz. §2 uyarısı).
 
+**Kaynaklar:** Karana vd. (2018) ★ · Rognoli & Ayala Garcia (2018) ★ · Karana vd. (2015) ★★ · Giaccardi & Karana (2014) · Goidea vd. (2022) ★ · Camere & Karana (2018) · Stefanova (2021) · Bandoni vd. (2022)
+
+---
+
+### §5 · Döngüsellik ve Atık Değerlendirme · 750 kelime
+
+- **Atık ve artıkların kaynağa dönüşmesi** (Lee vd., 2021): biyokütle, atık ve artıkların biyolojik süreçlerle biyo-bazlı ürünlere dönüşümü; döngüsel biyoekonomi
+- **Üç döngü modeli** → **Görsel 2**: biyolojik döngü · teknik döngü · **hibrit biyolojik–teknik döngü** (biyokompozitlerde belirleyici olan)
+- **Cradle to Cradle** (McDonough & Braungart, 2002): biyolojik ve teknik besin ayrımı
+- **Ellen MacArthur çerçevesi:** iç halkaların (bakım, onarım, yeniden kullanım) geri dönüşümden önce gelmesi; geri dönüşüm **en dıştaki**, yani en zayıf halka
+- **Sökülebilirlik ve tersinirlik** (ISO 20887:2020): döngüsellik malzemenin kökeninde değil, **bileşiminde ve birleşim detayında** kararlaşır. Biyolojik içerikli bir kompozite ayrıştırılamayan sentetik reçine eklendiğinde döngüyü kapatmak güçleşir.
+- **Yerel kaynak** boyutu: substratın bölgesel olması, üretimin dağıtık olabilmesi
+
+**Kaynaklar:** Lee vd. (2021) ★ · McDonough & Braungart (2002) · Ellen MacArthur Foundation · ISO 20887:2020 · Le vd. (2023) · Edalat (2026)
+
+---
+
+### §6 · Döngüselliğin Eleştirel Okunması · 750 kelime
+
+**Bölümün akademik omurgası burada. Üç kaynak bunu neredeyse hazır veriyor.**
+
+Ana argüman — şu zincirin otomatik olmadığı:
 ```
-Döngüsellik → kaynak kaybını azaltır
-Uyarlanabilirlik → değişen ihtiyaca uyum sağlar
-Tersinirlik → malzemenin sisteme geri girişini sağlar
-Modülerlik → parçaların bağımsız değişimini sağlar
-         ↓
-Dirençlilik → sistemin bozulma karşısında işlevini sürdürme
-             ve yeniden örgütlenme kapasitesi
+bio-based → renewable → sustainable → resilient
 ```
 
-**Araştırma boşluğu:** Sürdürülebilirlik ve dirençlilik yapı tasarımında giderek birlikte ele alınmakta; ancak iki kavram çoğu çalışmada hâlâ ayrı işlemektedir. *(Bu iddia için kaynağı kesinleştirmeniz gerekiyor — bkz. §9, doğrulanacaklar.)*
+- **O'Rourke & Seepersad (2015):** biyoloji otomatik olarak sürdürülebilir kabul edilemez; biyolojik sistemlerin sürdürülebilirlik modeli olarak kullanılmasının **koşulları** değerlendirilmeli
+- **Le vd. (2023):** döngüsel biyo-bazlı malzemeler bazı çevresel kategorilerde avantaj sağlar; ancak **ötrofikasyon ve arazi kullanımı** gibi kategorilerde olumsuz sonuçlar çıkabilir ve bazı malzemeler yaşam döngüsü açısından ekonomik olmayabilir
+- **Le vd. (2024):** değerlendirmelerin çoğu **cradle-to-gate** sınırında; **ömür sonu aşaması yeterince araştırılmamış**; incelenen ömür sonu senaryolarının çoğu düşük döngüsellik düzeyinde; sistem sınırı, fonksiyonel birim ve veri tabanlarında uzlaşma yok
+- **Edalat (2026):** 22 engel ve araştırma boşluğu; özellikle **ömür sonu planlaması, toplama altyapısı ve bağlayıcı uyumluluğu**
+- **Chayaamor-Heil vd. (2023):** laboratuvar–uygulama boşluğu
+- **Biyomalzeme romantizminden kaçınmak:** arazi ve su kullanımı, tarımsal üretimle rekabet, biyoçeşitlilik, dayanıklılık, yangın performansı, nem, standartlaşma, maliyet, ölçeklenebilirlik, taşıma
 
-İç mekân örneği olarak kendi çalışmanıza **tek cümlelik** gönderme: `(Ünal, 2025)`.
+**Kapanış cümlesi** (§3'teki akademik ton cümlesi burada tekrar edilir ve gerekçelendirilir).
 
----
+> **Bu başlığın bir yan faydası:** Le vd.'nin (2024) "değerlendirme yöntemleri yetersiz" bulgusu, §7'deki dirençlilik ölçütü arayışınızı **gerekçelendirir.** Yani eleştiri, bir sonraki başlığın kapısını açıyor.
 
-### §7 · İç Mimarlıkta Biyomalzeme Seçimi İçin Kavramsal Çerçeve · 650 kelime
-
-**Ana argüman:** Bölümün özgün katkısı burada. Edalat'ın (2026) çerçevesine **iki boyut** ekleniyor.
-
-İçerik:
-- **Görsel 2:** Modelin sistemik gösterimi (beş kademeli, basitleştirilmiş şema)
-- **Tablo 4:** Altı boyutlu karar aracı — *Biological Origin · Resource Circularity · Material Performance · **Experiential Performance** · Circular End-of-Life · **Resilience Capacity***
-- Konumlandırma paragrafı: Edalat'ın çerçevesinin kapsamadığı iki boyut ve neden iç mekân için zorunlu oldukları
-- Her boyut için tasarımcının soracağı soru
+**Kaynaklar:** Le vd. (2024) ★★ · Le vd. (2023) ★★ · O'Rourke & Seepersad (2015) ★ · Edalat (2026) ★ · Chayaamor-Heil vd. (2023) · Chang vd. (2020) · Tyagi & Jain (2026)
 
 ---
 
-### §8 · Biyomalzeme Romantizminden Kaçınmak · 550 kelime
+### §7 · Değişkenlikten Dirençliliğe · 800 kelime
 
-*(Planınızda §17 olarak ayrı duruyordu; bağımsız bir başlık olarak kalması daha iyi — eleştirel katmanı görünür kılar.)*
+- **Dirençliliği afet dayanımına indirgememe** uyarısı
+- **"Durability through resilience"** (Andréen & Goidea, 2022): dayanıklılık, malzemenin uzun süre bozulmaması değil, **değişim karşısında varlığını sürdürebilme kapasitesi**. Bu ilke, tasarımcının normalde "çok zayıf" sayılacak malzemelerle çalışmasını mümkün kılar.
+- **Geri besleme ve uyarlanma** biyolojik tasarımın temel ilkeleri arasında (Andréen & Goidea)
+- **Değişkenlik ve karşılıklı bağımlılık** (Goidea vd., 2022)
+- **Ekolojik dirençlilik öznitelikleri** (Heymans vd., 2019): çeşitlilik, bağlantısallık, modülerlik, bolluk; sosyo-ekolojik sistemler ve sistem düşüncesi
+- **Beş öznitelik**, her biri döngüsellikle kesişimi üzerinden (daha fazlası liste olur, argüman olmaz): **uyarlanabilirlik · modülerlik · tersinirlik · bolluk/kaynak çeşitliliği · onarılabilirlik** → **Tablo 3**
+- **Nedensel zincir** → **Görsel 3**:
 
-**Ana argüman:**
+```
+Döngüsellik        → kaynak kaybını azaltır
+Uyarlanabilirlik   → değişen ihtiyaca uyumu sağlar
+Tersinirlik        → malzemenin sisteme geri girişini sağlar
+Modülerlik         → parçaların bağımsız değişimini sağlar
+                          ↓
+Dirençlilik        → sistemin bozulma karşısında işlevini sürdürme
+                      ve yeniden örgütlenme kapasitesi
+```
 
-> Biyomalzemelerin sürdürülebilirlik potansiyeli, ancak yaşam döngüsü, malzeme bileşimi, kaynak yönetimi, kullanım süresi ve kullanım sonrası senaryolar birlikte değerlendirildiğinde anlamlı hâle gelir.
+- **Ayrım cümlesi:** Döngüsel tasarım ile dirençlilik birbirinin eş anlamlısı değildir; uyarlanabilirlik, modülerlik, sökülebilirlik, kaynak çeşitliliği ve yeniden kullanım gibi ortak tasarım özellikleri üzerinden birbirini destekleyen iki yaklaşımdır.
 
-İçerik: Arazi ve su kullanımı, tarımsal üretimle rekabet, biyoçeşitlilik · dayanıklılık, yangın performansı, nem · standartlaşma ve sertifikasyon boşluğu · maliyet ve ölçeklenebilirlik · **bağlayıcı uyumluluğu** ve ömür sonu altyapısı. Edalat'ın (2026) 22 engeli ve Le vd.'nin (2024) ömür sonu bulguları bu bölümün kaynak tabanı.
+**Kaynaklar:** Andréen & Goidea (2022) ★★ · Heymans vd. (2019) ★ · Goidea vd. (2022) ★ · Walker vd. (2004) · Folke vd. (2003) · Holling (2001) · Le vd. (2024)
+
+---
+
+### §8 · İç Mimarlık İçin Çıkarımlar ve Kavramsal Çerçeve · 800 kelime
+
+- **Ana argüman:** İç mimarlık, döngüsel tasarım açısından yalnızca küçük ölçekli mimarlık değildir; malzeme döngülerinin hızlandığı kritik bir tasarım ölçeğidir.
+- **Üç gerekçe:** (1) taşıyıcı olmama → düşük risk ve yönetmelik eşiği; (2) kısa yenileme döngüsü → hızlı deneme ve öğrenme; (3) yakın kullanıcı teması → MDD'nin deneyimsel boyutunun anlamlı olduğu tek ölçek
+- **Pomponi & Moncaster (2017)** döngüsel ekonomi araştırmasının kent ve inşaat malzemesine fazla, binanın kendisine az odaklandığını saptıyor. **Aynı ihmal bir ölçek daha aşağıda tekrarlanıyor.** Tyagi & Jain (2026) bu ilginin ancak 2017 sonrası hızlandığını gösteriyor.
+- **Beş döngüsel tasarım stratejisi** (iç mekân karşılıklarıyla): uzun ömürlülük · uyarlanabilirlik · sökülebilirlik · yeniden kullanım · biyolojik dönüşüm
+- **Kavramsal çerçeve** → **Tablo 4**: Altı boyutlu değerlendirme — *biyolojik köken · kaynak döngüselliği · malzeme performansı · **deneyimsel performans** · döngüsel ömür sonu · **dirençlilik kapasitesi***
+
+> 🔴 **Konumlandırma zorunlu:** Edalat (2026) döngüsel malzeme tasarımı ve seçimi için **zaten altı ölçütlü bir çerçeve öneriyor.** Çerçevenizi onun uzantısı olarak konumlandırın: *"Edalat'ın (2026) önerdiği çerçeve malzemenin deneyimsel boyutunu ve sistemin dirençlilik kapasitesini kapsamamaktadır. Bu bölüm, iç mekân bağlamında bu iki boyutu eklemeyi önermektedir."* **Boyut 4 ve boyut 6 sizin katkınız** — ve ikisi de doktora alanınızın ayakları.
+
+- **Tek örnek, ~200 kelime, veri yok:** Atık yumurta kabuğundan geliştirilen biyokompozit, *atık değerlendirme → malzeme deneyi → malzeme değişkenliği → modülerlik → uyarlanabilirlik → geçici/yeniden kurgulanabilir mekânsal sistem* hattının bir örneği olarak konumlandırılır. Sizin önerdiğiniz çerçeveleme doğru: *"malzeme değişkenliği, modülerlik, uyarlanabilirlik ve alternatif dirençlilik biçimlerinin araştırılabildiği bir tasarım aracı olarak ele alınan, atık kökenli bir biyokompozit."* Sayısal performans verisi verilmez; `(Ünal, 2025)`.
+
+**Kaynaklar:** Edalat (2026) ★★ · Tyagi & Jain (2026) ★ · Pomponi & Moncaster (2017) ★ · ISO 20887:2020 · Brand (1994) · Karana vd. (2015) · Heymans vd. (2019) · Ünal (2025)
 
 ---
 
 ### §9 · Sonuç · 400 kelime
 
-Üçgenin toparlanması (sürdürülebilirlik → döngüsellik → dirençlilik) · çerçevenin konumu ve sınırları · iç mimarlık eğitimi için kapanış notu · 3–4 maddelik araştırma gündemi.
+Üçgenin toparlanması (sürdürülebilirlik → döngüsellik → dirençlilik) · çerçevenin konumu ve sınırları · **tek ileriye dönük paragraf:** malzemenin yalnızca sürdürülebilir bir alternatif değil, insan ve insan-dışı aktörler arasındaki ilişkileri yeniden düşünmeyi sağlayan bir araç olarak ele alınması — burada makalenize atıf verilir · 3–4 maddelik araştırma gündemi · iç mimarlık eğitimi için kapanış notu.
 
 ---
 
-## 8. KAYNAK MATRİSİ
+## 5. Tablo ve görsel planı
 
-**Durum kodları:** 📁 repoda var · ✅ künyesi doğrulandı · ⬇️ temin edilmeli · 🔴 yazmaya başlamadan oku · ❓ künyesi kesinleştirilmeli
-
-### Çekirdek kaynaklar (bölümün omurgası)
-
-| Kaynak | § | Hangi argüman için | Durum |
-|---|---|---|---|
-| **Edalat, S. (2026)** *Advancing Circular Economy of Bio-Based Building Materials*, Circular Economy and Sustainability 6(2), DOI 10.1007/s43615-026-00729-1 | 4, 7, 8 | Altı ölçütlü çerçeve (konumlandırma zorunlu); 22 engel; bağlayıcı uyumluluğu ve toplama altyapısı | 🔴✅ |
-| **Tyagi, P. & Jain, C. (2026)** *Bio-based and regenerative materials in interior design*, J. Eng. Appl. Sci., DOI 10.1186/s44147-026-00970-3 | 1, 3, 5 | İç mekân yazınının güncel haritası; 2017 sonrası büyüme; biyofabrike/vernaküler ayrımı; zarf bileşenleri odağı | ✅⬇️ |
-| **Le, D. L., Salomone, R. & Nguyen, Q. T. (2023)** *Circular bio-based building materials: A literature review…*, Building and Environment 244, 110774 | 3, 4 | Döngüsel biyo-bazlı malzeme tanımı; kategorizasyon; **otomatik olarak daha iyi değildir** (ötrofikasyon, arazi kullanımı) | ✅⬇️ |
-| **Le, D. L., Salomone, R. & Nguyen, Q. T. (2024)** *Sustainability assessment methods…*, J. Environmental Management 352, 120137 | 3, 4, 8 | **Bio-based ≠ sustainable'ın birincil kanıtı:** LCA'ların cradle-to-gate kalması, ömür sonunun ihmali, EoL senaryolarının düşük döngüselliği | ✅⬇️ |
-| **Andréen, D. & Goidea, A. (2022)** *Principles of biological design…*, Architecture, Structures and Construction 2 | 2, 6 | Biyolojik tasarımın dört ilkesi; **"dirençlilik yoluyla dayanıklılık"** → zayıf malzemeyle tasarlamanın gerekçesi | 📁 |
-| **Karana, E., Barati, B., Rognoli, V. & Zeeuw van der Laan, A. (2015)** *Material Driven Design (MDD)*, Int. J. of Design 9(2) | 4, 7 | MDD yönteminin birincil kaynağı; deneyimsel boyut | ⬇️ **zorunlu** |
-| **Pomponi, F. & Moncaster, A. (2017)** *Circular economy for the built environment: A research framework*, J. Cleaner Production 143(1), 710–718 | 1, 5 | CE araştırmasının bina ölçeğini ihmali → **iç mekân argümanınızın öncülü**; altı boyut | ✅⬇️ |
-| **Ellen MacArthur Foundation** — kelebek diyagramı, üç ilke | 1, 4, 5 | Döngüsel ekonomi çerçevesi; iç halkaların (bakım–onarım–yeniden kullanım) önceliği | ⬇️ |
-| **McDonough, W. & Braungart, M. (2002)** *Cradle to Cradle* | 4 | Biyolojik ve teknik besin döngüsü ayrımı | ⬇️ |
-
-### Biyotasarım ve paradigma ayrımı (§2)
-
-| Kaynak | Hangi argüman için | Durum |
+| # | İçerik | § |
 |---|---|---|
-| **Myers, W. (2012/2018)** *Bio Design* | Biyotasarım tanımı; biyomimikriden ayrımı | ⬇️ |
-| **Benyus, J. (1997)** *Biomimicry* | Biyomimikri tanımı (taklit/analoji) | ⬇️ |
-| **Oxman, N. (2016)** Material Ecology | Doğayı kaynak olarak tüketmekten tasarımın etkin parçası kılmaya geçiş | ⬇️ |
-| **Collet, C. (2016)** | Biyotasarım pratiği; öğrenme ve iyileşme potansiyeli | ⬇️ |
-| **Mironov, V. vd. (2009)** | Biyofabrikasyon tanımı | ⬇️ |
-| **Lyle, J. T. (1994)** · **Reed, B. (2007)** | Rejeneratif tasarım; ekosistemin iyileşmesini hedefleme | ⬇️ |
-| **Goidea, A., Floudas, D. & Andréen, D. (2022)** *Transcalar Design*, Infrastructures 7(4) | Ölçekler arası tasarım; mikrobiyolojik süreçten mimari çıktıya | 📁 |
-| **Chayaamor-Heil, N., Houette, T., Demirci, Ö. & Badarnah, L. (2024)** *The Potential of Co-Designing with Living Organisms*, Sustainability 16(2) | Canlıyla birlikte tasarlama; yeni ekolojik paradigma; belirsizliğin tasarıma girmesi | 📁 |
-| **Camere, S. & Karana, E. (2018)** *Fabricating materials from living organisms*, J. Cleaner Production | Growing Design; **birlikte-performans**; kontrol anlayışının dönüşümü | 📁 |
-| **Crawford, A. (2022)** *Biodesign research in the Anthropocene* | Antroposen bağlamı | 📁 |
-| **Kırbaş Akyürek, B., Ciravoğlu, A., Mohammadi, M. & Yeğenoğlu, H. (2020)** *Building Design in between Living and Manufactured*, Online J. of Art and Design 8(3) | **Terminoloji ayrımı** (80 vaka + 20 uzman); Türkçe yazına eklemlenme | 📁 |
-| **O'Rourke, J. & Seepersad, C. (2015)** *Using biology as a model for sustainability*, ICED15 | Biyoloji **otomatik olarak** sürdürülebilir değildir | 📁 |
-| **Yang, X. vd. (2019)** *Biodesign Research…* | "Biodesign" teriminin disiplinler arası farklı anlamları | 📁 |
-| **Kırdök, O., Altun, T. D., Dokgöz, D. & Tokuç, A. (2019)** *Biodesign as an innovative tool…*, Int. J. Global Warming 19(1/2) | Türkçe mimarlık yazınındaki konum; yapı kaynaklı karbon | 📁 |
+| **Tablo 1** | Doğa ile ilişki ve tasarımcı rolüne göre yaklaşımlar (biyomimikri · biyotasarım · biyolojik tasarım · biyofabrikasyon · rejeneratif) | 2 |
+| **Tablo 2** | **Bioinspired / biobased / living** ayrımı + biobased'in alt kategorileri | 3 |
+| **Tablo 3** | Dirençlilik öznitelikleri ve döngüsellikle kesişimi (5 öznitelik) | 7 |
+| **Tablo 4** | **Altı boyutlu kavramsal çerçeve** (özgün katkı) | 8 |
+| **Görsel 1** | Kuramsal hat — altı harekete indirilmiş (§2'deki şema) | 1 veya 2 |
+| **Görsel 2** | Üç döngü modeli: biyolojik · teknik · **hibrit** | 5 |
+| **Görsel 3** | Döngüsellik → uyarlanabilirlik → tersinirlik → modülerlik → dirençlilik zinciri | 7 |
 
-### Malzeme taksonomisi (§3)
-
-| Kaynak | Hangi argüman için | Durum |
-|---|---|---|
-| **Bourbia, S., Kazeoui, H. & Belarbi, R. (2023)** *A review on recent research on bio-based building materials*, Mater. Renew. Sustain. Energy 12 | Bitkisel malzeme yelpazesi (kenevir, ahşap, mantar, saman, alfa) | 📁 |
-| **Lee, J.-Y., Lee, S.-E. & Lee, D.-W. (2021)** *Current status and future prospects of biological routes…*, Crit. Rev. Env. Sci. Technol. | **Atık ve artık kökenli** biyo-bazlı ürünler kategorisi | 📁 |
-| **Karana, E., Blauwhoff, D., Hultink, E.-J. & Camere, S. (2018)** *When the Material Grows*, Int. J. of Design 12(2) | Miselyum; büyütülen malzeme; MDD uygulaması | 📁 |
-| **Chang, B. P., Mohanty, A. & Misra, M. (2020)** *Studies on durability of sustainable biobased composites*, RSC Advances | Biyokompozit performansının çevresel koşullara bağlılığı (kavramsal) | 📁 |
-| **Babatunde, E. O. vd. (2020)** Kitosan / kabuk atığı | Atıktan biyomalzeme üretimi örneği | 📁 |
-| Miselyum literatürü (biyofabrikasyon, akustik) | Biyofabrike malzeme kategorisi | ⬇️ |
-
-### Döngüsel tasarım ve dirençlilik (§5–§6)
-
-| Kaynak | Hangi argüman için | Durum |
-|---|---|---|
-| **ISO 20887:2020** *Design for disassembly and adaptability* | Sökülebilirlik ve uyarlanabilirlik için tasarım ilkeleri | ⬇️ |
-| **Brand, S. (1994)** *How Buildings Learn* / Duffy — shearing layers | Katman ömürleri; iç mekânın hızlı yenileme döngüsü | ⬇️ |
-| **Heymans, A. vd. (2019)** *Ecological Urban Planning and Design: A Systematic Review*, Sustainability 11(13) | Ekolojik dirençlilik öznitelikleri (çeşitlilik, bağlantısallık, modülerlik, bolluk) | 📁 |
-| **Folke, C. vd. (2003)** · **Holling, C. S. (2001)** · **Walker, B. vd. (2004)** | Dirençlilik kuramı; uyarlanabilirlik ve dönüştürülebilirlik | ⬇️ |
-| Döngüsel bina ölçütleri literatürü — *configuration flexibility, dismantlability, multi-usability, functional convertibility, material reversibility, maintainability, resource recovery, scalability* | §5 ve §6'nın kesişimi; döngüsellik–dirençlilik ortak ölçütleri | ❓ **künye kesinleştir** |
-| Sürdürülebilirlik–dirençlilik birlikteliği literatürü (2026) | §6'daki araştırma boşluğu iddiası | ❓ **künye kesinleştir** |
-| **Ünal, B. (2025)** Doktora tezi, Hacettepe Üniversitesi | İç mekân ölçeğinde dirençlilik öznitelikleri; yumurta kabuğu biyokompoziti | 📁 |
-
-### Malzeme deneyimi ve kendin yap malzeme (§4)
-
-| Kaynak | Hangi argüman için | Durum |
-|---|---|---|
-| **Giaccardi, E. & Karana, E. (2015)** *Foundations of Materials Experience*, CHI | Malzeme deneyimi çerçevesi | ⬇️ |
-| **Rognoli, V., Ayala Garcia, C. & Parisi, S. (2016)** *The material experiences as DIY-Materials* | Kendin yap malzeme; tasarımcının malzeme üreticisine dönüşmesi | 📁 |
-| **Rognoli, V. & Ayala Garcia, C. (2018)** *Material activism* | Malzemelerin demokratikleşmesi; düşük teknolojili üretim | 📁 |
-| **Bandoni, A., Almendra, R. & Forman, G. (2022)** *Interdisciplinarity and Collaboration* | Disiplinlerarası işbirliği; tasarımcı–bilim insanı ilişkisi | 📁 |
-| **Stefanova, A. (2021)** *Practices in Bio-design* | Laboratuvarın tasarım mekânı olması | 📁 |
-
-**Toplam: ~38 kaynak.** Repoda **16**, temin edilecek **~20**, künyesi kesinleştirilecek **2**.
+**4 tablo + 3 görsel ≈ 3 sayfa.** 20 sayfada rahat; 15 sayfada olmazdı. Hepsi sizin üretiminiz, telif izni gerekmez.
 
 ---
 
-## 9. ❓ Kesinleştirmeniz gereken iki künye
+## 6. Kaynak matrisi — durum
 
-Planınızda iki iddia için ScienceDirek bağlantısı verdiniz ama künyeleri belirsiz. Bunları **ya kesinleştirin ya da iddiayı yumuşatın** — yayımlanacak bir metinde "bir çalışmaya göre" ifadesi yeterli değil:
+**📁 Repoda var (16):** Andréen & Goidea (2022) · Goidea vd. (2022) · Chayaamor-Heil vd. (2024) · Camere & Karana (2018) · Karana vd. (2018) · Rognoli vd. (2016) · Rognoli & Ayala Garcia (2018) · Crawford (2022) · Bandoni vd. (2022) · Stefanova (2021) · Heymans vd. (2019) · Lee vd. (2021) · Bourbia vd. (2023) · Chang vd. (2020) · O'Rourke & Seepersad (2015) · Kırbaş Akyürek vd. (2020) · Kırdök vd. (2019) · Babatunde vd. (2020) · Yang vd. (2019) · Ünal (2025)
 
-1. **Döngüsel bina ölçütleri** (configuration flexibility, product dismantlability, multi-usability, functional convertibility, material reversibility, maintainability, resource recovery, scalability). Bu ölçüt seti §5 ve §6'nın kesişimini taşıyor — kaynağı net olmalı.
-2. **Sürdürülebilirlik ve dirençliliğin çoğu çalışmada ayrı işlendiği** iddiası. §6'daki araştırma boşluğunuz buna dayanıyor; dayanağın künyesi olmalı.
+**✅ Künyesi doğrulandı, temin edilmeli (6) — en yüksek öncelik:**
 
-Bu ikisini bulamazsanız alternatif: Heymans vd. (2019) ve Walker vd. (2004) üzerinden kendi sentezinizi kurun ve boşluk iddiasını *"bu bölümün gözlemine göre"* biçiminde kendinize mal edin. Yanlış atıftansa sahiplenilmiş gözlem her zaman daha iyidir.
+| Kaynak | § | Rol |
+|---|---|---|
+| **Chayaamor-Heil, N., Perricone, V., Gruber, P. & Guéna, F. (2023)**, *Bioinspiration & Biomimetics* 18(4), 041001 | 3, 6 | Üçlü sınıflandırma + laboratuvar-uygulama boşluğu |
+| **Le, D. L., Salomone, R. & Nguyen, Q. T. (2023)**, *Building and Environment* 244, 110774 | 3, 5, 6 | Döngüsel biyo-bazlı malzeme tanımı; ötrofikasyon/arazi kullanımı eleştirisi |
+| **Le, D. L., Salomone, R. & Nguyen, Q. T. (2024)**, *J. Environmental Management* 352, 120137 | 6, 7 | Cradle-to-gate sınırı; ömür sonu boşluğu |
+| **Edalat, S. (2026)**, *Circular Economy and Sustainability* 6(2), DOI 10.1007/s43615-026-00729-1 | 5, 6, 8 | 22 engel; **altı ölçütlü çerçeve — konumlandırma zorunlu** |
+| **Tyagi, P. & Jain, C. (2026)**, *J. Eng. Appl. Sci.*, DOI 10.1186/s44147-026-00970-3 | 1, 3, 6, 8 | İç mekân yazınının güncel haritası (104 yayın) |
+| **Pomponi, F. & Moncaster, A. (2017)**, *J. Cleaner Production* 143(1), 710–718 | 1, 8 | CE araştırmasının bina ölçeğini ihmali |
 
----
+**⬇️ Temin edilmeli, standart kaynaklar (~12):** Karana, Barati, Rognoli & Zeeuw van der Laan (2015) **[zorunlu]** · Giaccardi & Karana, *Materials Experience* · Myers (2018) · Ginsberg & Chieza (2018) · Benyus (1997) · McDonough & Braungart (2002) · Ellen MacArthur Foundation · ISO 20887:2020 · Brand (1994) · Walker vd. (2004) · Folke vd. (2003) · Holling (2001)
 
-## 10. Tablo ve görsel planı
-
-| # | İçerik | § | Not |
-|---|---|---|---|
-| **Tablo 1** | Altı yaklaşım: doğa ile ilişki ve tasarımcı rolü | 2 | Didaktik çekirdek |
-| **Tablo 2** | Biyolojik temelli malzeme taksonomisi (4 kategori) | 3 | |
-| **Tablo 3** | Geleneksel ve döngüsel malzeme seçimi ölçütleri | 4 | |
-| **Tablo 4** | **Altı boyutlu karar aracı** (çerçeve) | 7 | Özgün katkı |
-| **Tablo 5** | Malzemeler ve **döngüselliği belirleyen koşullar** (4 malzeme) | 3 veya 8 | ⚠️ Derecelendirme değil, koşul — §6 |
-| **Görsel 1** | Sürdürülebilirlik → döngüsellik → dirençlilik ilerleyişi | 6 | |
-| **Görsel 2** | **Sistemik model** (beş kademeli, basitleştirilmiş) | 7 | Özgün katkı |
-
-> **Uyarı:** 5 tablo + 2 görsel, 15 sayfada **~3 sayfa** yer kaplar. Eğer 15 sayfada kalacaksanız Tablo 5'i Tablo 2 ile birleştirin (taksonomi tablosuna bir "döngüselliği belirleyen koşul" sütunu ekleyin) — hem yer kazanırsınız hem tablo daha güçlü olur.
+**Toplam ≈ 38 kaynak.** 20 sayfalık kuramsal bir bölüm için doğru yoğunluk.
 
 ---
 
-## 11. Takvim (6 Ekim'e 5 gün)
+## 7. ✍️ Nereden yazmaya başlayalım?
+
+**Girişten başlamayın.** Giriş, ne söylediğinizi bilmeden yazılamaz — en sona bırakılır. Bunun yerine **içeriğin en belirli olduğu yerden** başlayın.
+
+### Başlangıç: §3 (Sınıflandırma)
+
+**Neden burası:**
+1. **İçerik belirli.** Chayaamor-Heil vd. (2023) üçlü ayrımı veriyor, Le vd. (2023) alt kategorileri, Tyagi & Jain (2026) iç mekân görünümünü. Yazacak şey tartışmalı değil — derleyip düzenleyeceksiniz.
+2. **Terminolojiyi kilitler.** Geri kalan her başlık bu başlıkta tanımladığınız terimleri kullanacak. Önce burayı yazarsanız sonradan terim değiştirmek zorunda kalmazsınız.
+3. **İki tablo üretir.** Tablo 1 ve Tablo 2 bölümün iskeleti; çıktıkça yapı netleşir.
+4. **Düşük riskli.** Argümantatif iddiası az, momentum kazandırır.
+
+### Yazım sırası
+
+| Sıra | Başlık | Gerekçe |
+|---|---|---|
+| **1** | **§3 Sınıflandırma** | İçerik en belirli; terminolojiyi kilitler; Tablo 1–2 çıkar |
+| **2** | **§6 Eleştirel okuma** | Le vd. (2023, 2024) + O'Rourke argümanı neredeyse hazır veriyor; bölümün akademik omurgası erken otursun |
+| **3** | **§4 Tasarımcı–malzeme ilişkisi** | Karana → Rognoli → Goidea dizisi net; repodaki kaynaklar yeterli |
+| **4** | **§7 Dirençlilik** | Andréen & Goidea + Heymans; §6'nın "değerlendirme yetersiz" bulgusu buraya kapı açıyor |
+| **5** | **§5 Döngüsellik** | §4 ve §6 yazıldıktan sonra bu başlığın ne kadar yer kaplayacağı netleşir |
+| **6** | **§8 İç mimarlık + çerçeve** | Edalat okunduktan sonra; çerçeve en sonda kristalleşir |
+| **7** | **§2 Biyomimikriden biyotasarıma** | En çok okuma gerektiren başlık (Myers, Ginsberg & Chieza, Benyus); gövde yazıldıktan sonra neyi çerçevelemesi gerektiği belli olur |
+| **8** | **§9 Sonuç** | Gövdeden doğar |
+| **9** | **§1 Giriş** | **En son.** Ne söylediğinizi bildikten sonra |
+| **10** | **Öz** | Girişten sonra |
+
+### İlk somut adım
+
+Bugün iki şey:
+1. **Altı kaynağı temin edin** (yukarıdaki ✅ listesi) + Karana vd. (2015). Chayaamor-Heil vd. (2023) ve Le vd. (2023) olmadan §3'ü yazamazsınız.
+2. **Tablo 2'yi doldurun.** Üçlü ayrım tablosu — bu, §3'ün ve dolayısıyla bölümün iskeleti.
+
+---
+
+## 8. Takvim (6 Ekim'e 5 gün, 20 sayfa)
 
 | Gün | İş |
 |---|---|
-| **1 Ekim** | ① Editöre yaz: **20 sayfa mümkün mü?** + şablon, atıf sistemi, alt başlık izni. ② **Edalat (2026), Tyagi & Jain (2026), Le vd. (2023, 2024) ve Karana vd. (2015)'i temin et ve oku** — bunlar olmadan yazmaya başlama. ③ Tablo 1'i bitir. |
-| **2 Ekim** | §1 (giriş) + §2 (biyotasarım) + Tablo 1 kesinleştirme |
-| **3 Ekim** | §3 (taksonomi + eleştirel çerçeve) + Tablo 2 · §4 (döngüsel seçim) + Tablo 3 |
-| **4 Ekim** | §5 (iç mekân stratejileri) + §6 (dirençlilik) + Görsel 1 |
-| **5 Ekim** | §7 (çerçeve) + Tablo 4 + Görsel 2 · §8 (romantizmden kaçınmak) · §9 (sonuç) |
-| **6 Ekim** | Öz, kaynakça, **kelime/sayfa sayımı ve kesme**, son okuma, gönderim |
+| **1 Ekim** | Kaynak temini (6 doğrulanmış + Karana 2015) · Chayaamor-Heil vd. (2023) ve Le vd. (2023) okuma · **Tablo 2** |
+| **2 Ekim** | §3 (900) + Tablo 1 · §6 (750) |
+| **3 Ekim** | §4 (850) + §7 (800) + Tablo 3, Görsel 3 |
+| **4 Ekim** | §5 (750) + Görsel 2 · **Edalat okuma** · §8 (800) + Tablo 4 |
+| **5 Ekim** | §2 (800) + Görsel 1 · §9 (400) · §1 (550) |
+| **6 Ekim** | Öz · kaynakça · sayfa/kelime sayımı · **çakışma denetimi (§2 kuralları)** · gönderim |
 
-> **İlk gün en kritik:** Edalat'ı okumadan §7'yi (çerçeve) yazmaya başlamayın. Çerçevenin konumlandırması ona bağlı.
+> 5 Ekim'de mutlaka **§2'deki beş kuralı** tek tek kontrol edin: Latour/Bennett/Ingold yok mu? Antroposantrizm iki paragrafı aşmamış mı? Sonuç ontolojide mi bitiyor, döngüsellikte mi?
 
 ---
 
-## Özet: planınızda değişen beş şey
+## Özet: bu turda değişen üç şey
 
-1. **Edalat (2026)** zaten altı ölçütlü bir çerçeve öneriyor → çerçevenizi onun uzantısı olarak konumlandırın; *deneyimsel performans* ve *dirençlilik kapasitesi* boyutları sizin katkınız.
-2. **97 makalelik derleme Cosentino değil, Le, Salomone & Nguyen (2023).** Aynı ekibin 2024 çalışması "bio-based ≠ sustainable" iddianızın birincil kanıtı.
-3. **Tyagi & Jain (2026)** iç mekân yazınını bu yıl taramış → "iç mekân ölçeği boş" diyemezsiniz; ama onlar *ne olduğunu* haritalandırdı, siz *nasıl karar verileceğini* soruyorsunuz. Daha temiz bir konum.
-4. **İçerik 20–22 sayfaya ölçeklenmiş.** Ya 20 sayfa isteyin ya §4+§5 birleşmesi ve madde indirimleriyle kesin.
-5. **Yıldızlı derecelendirmeyi koşul ifadesine çevirin.** Hem dürüst, hem didaktik, hem bölümün tezini kanıtlıyor.
+1. **Künye:** "Heil vd." değil **Chayaamor-Heil vd. (2023)** — repodaki 2024 makalesiyle aynı ilk yazar, aynı grup.
+2. **Andréen & Goidea ayrımı daha keskin:** biological design = **doğanın** morfogenetik süreci; biodesign = **tasarımcının** pratiği. Aradaki ilişki taklit değil, **ilke çıkarma** — tam istediğiniz gibi, biyomimikriyi merkeze almadan.
+3. 🔴 **Önerdiğiniz 13 adımlı omurga, İngilizce makalenizin omurgasıyla aynı.** Örgütleyici eksen değişmeli: makale **ontoloji** üzerinden, bölüm **sınıflandırma ve değerlendirme** üzerinden kurulsun. Bölüm döngüsellik ve iç mimarlık çıkarımlarında bitsin, post-antroposantrizmde değil. 13 adım içindekiler değil, **Görsel 1** olsun.
