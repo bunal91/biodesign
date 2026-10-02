@@ -218,15 +218,13 @@ Tablo 3. Biyolojik temelli malzemelerin potansiyelleri ve sınırlılıkları
 
 | Boyut | Potansiyel | Sınırlılık |
 |---|---|---|
-| Kaynak | Değerlendirilemeyen biyokütlenin alternatif hammaddeye dönüşmesi¹; atık alt tabaka ile organizma bileşiminin tasarlanabilmesi² | Kısıtlı hammadde kaynakları; bitkisel malzeme maliyetlerinin ülkeden ülkeye değişkenliği³ |
-| Üretim | Yenilenebilirlik ve düşük gömülü enerji⁴ | Yüksek maliyetler; merkezsiz ve parçalı tedarik zincirleri³ |
-| Performans | Isıl düzenleme kapasitesi⁴; mineral yalıtkanlarla karşılaştırılabilir ısıl performans³ | Sınırlı mekanik dayanım ve zayıf yangın dayanımı³; uzun süreli dayanıklılık bilgisinin sınırlılığı⁵ |
-| Standart | Bambuda yapısal standartların oluşması (ISO 22156, ISO 19624)³ | Çoğu ahşap dışı malzemede kod, kamusal farkındalık ve uzman yüklenici ağı eksikliği³; yönetsel boyutun araştırmada zayıf kalması⁶ |
-| Döngüsellik | Miselyumun kendi kendine bağlanma yoluyla bağlayıcı gereksinimini ortadan kaldırması² | Sökülebilirlik için tasarım ilkelerinin uygulamaya çok az geçmiş olması⁷; ömür sonu planlaması ve toplama altyapısındaki boşluklar³ |
-| Kavramsal | Biyolojik tasarım sisteminin doğası gereği döngüsel olması⁸ | Döngüsellik tanımlarının çoğunun sistemsel değişimi vurgulamaması⁹ |
-| Deneyim | Teknik ve deneyimsel niteliklerin tasarıma girdi oluşturması¹⁰; öz üretimin tasarımcıya açtığı deney alanı¹¹ | Malzemenin toplum tarafından kabulüne ilişkin belirsizlik¹²; endüstriyel üretimle koşullanmış tekdüzelik beklentisi¹³ |
-
-¹ Lee ve diğ. (2022) · ² Attias ve diğ. (2020) · ³ Edalat (2026) · ⁴ Bourbia ve diğ. (2023) · ⁵ Chang ve diğ. (2020) · ⁶ Pomponi ve Moncaster (2017) · ⁷ Rios ve diğ. (2015) · ⁸ Andréen ve Goidea (2022) · ⁹ Kirchherr ve diğ. (2017) · ¹⁰ Karana ve diğ. (2015) · ¹¹ Rognoli ve diğ. (2015) · ¹² Karana ve diğ. (2018) · ¹³ Rognoli ve Ayala García (2018)
+| Kaynak | Değerlendirilemeyen biyokütlenin alternatif hammaddeye dönüşmesi (Lee ve diğ., 2022); atık alt tabaka ile organizma bileşiminin tasarlanabilmesi (Attias ve diğ., 2020) | Kısıtlı hammadde kaynakları; bitkisel malzeme maliyetlerinin ülkeden ülkeye değişkenliği (Edalat, 2026) |
+| Üretim | Yenilenebilirlik ve düşük gömülü enerji (Bourbia ve diğ., 2023) | Yüksek maliyetler; merkezsiz ve parçalı tedarik zincirleri (Edalat, 2026) |
+| Performans | Isıl düzenleme kapasitesi (Bourbia ve diğ., 2023); mineral yalıtkanlarla karşılaştırılabilir ısıl performans (Edalat, 2026) | Sınırlı mekanik dayanım ve zayıf yangın dayanımı (Edalat, 2026); uzun süreli dayanıklılık bilgisinin sınırlılığı (Chang ve diğ., 2020) |
+| Standart | Bambuda yapısal standartların oluşması: ISO 22156 ve ISO 19624 (Edalat, 2026) | Çoğu ahşap dışı malzemede kod, kamusal farkındalık ve uzman yüklenici ağı eksikliği (Edalat, 2026); yönetsel boyutun araştırmada zayıf kalması (Pomponi ve Moncaster, 2017) |
+| Döngüsellik | Miselyumun kendi kendine bağlanma yoluyla bağlayıcı gereksinimini ortadan kaldırması (Attias ve diğ., 2020) | Sökülebilirlik için tasarım ilkelerinin uygulamaya çok az geçmiş olması (Rios ve diğ., 2015); ömür sonu planlaması ve toplama altyapısındaki boşluklar (Edalat, 2026) |
+| Kavramsal | Biyolojik tasarım sisteminin doğası gereği döngüsel olması (Andréen ve Goidea, 2022) | Döngüsellik tanımlarının çoğunun sistemsel değişimi vurgulamaması (Kirchherr ve diğ., 2017) |
+| Deneyim | Teknik ve deneyimsel niteliklerin tasarıma girdi oluşturması (Karana ve diğ., 2015); öz üretimin tasarımcıya açtığı deney alanı (Rognoli ve diğ., 2015) | Malzemenin toplum tarafından kabulüne ilişkin belirsizlik (Karana ve diğ., 2018); endüstriyel üretimle koşullanmış tekdüzelik beklentisi (Rognoli ve Ayala García, 2018) |
 
 Tablo 3’ün okunma biçimi, çerçeve önerisinin de gerekçesini vermektedir. Yedi boyutun beşi malzemenin kendisine, kaynağına ve kurumsal çevresine ilişkindir; yalnızca son boyut kullanıcıyla kurulan ilişkiyi kapsar. Buna karşılık iç mimarlıkta malzeme kararını belirleyen etkenlerin önemli bir bölümü bu son boyutta toplanmaktadır.
 
