@@ -1,9 +1,67 @@
 # Birleştirme ve Son Denetim Raporu
 
-**Tarih:** 2 Ekim 2026 (ikinci tur: yapı sadeleştirme ve kısaltma)
-**Çıktı:** `Kitap_Bolumu_Biyotasarim_Malzeme_Secimi.docx` (ve aynı içeriğin markdown sürümü)
-**Hacim:** Öz dahil **6.239 kelime** gövde + 6 tablo (676 kelime) + 18 kaynaklı kaynakça. A4, 2,5 cm kenar boşluğu, Times New Roman 12, 1,5 satır aralığı → yaklaşık 18–19 sayfa.
-**Başlık:** Dosyadaki başlık bir öneridir; seçenekler `BASLIK_ONERILERI.md` dosyasında.
+**Tarih:** 2 Ekim 2026 (üçüncü tur: terminoloji, kaynak dengesi, kısaltma)
+**Çıktı:** `Kitap_Bolumu_Biyotasarim_Malzeme_Secimi.docx` (ve markdown sürümü)
+**Hacim:** 5.898 kelime gövde + 5 tablo (628 kelime) + 24 kaynak. Times New Roman 12, 1,5 satır aralığı, A4 → yaklaşık 16–17 sayfa.
+
+---
+
+## 0. Üçüncü turda yapılanlar
+
+### Terminoloji
+
+| Değişiklik | Kapsam |
+|---|---|
+| "biyoesinli" → "biyomimikri temelli" | 3.1, Tablo 2 ve ilgili tüm cümleler. Metinde "biyoesinli" kalmadı. |
+| "alanyazın" → "literatür" | 13 yerde (literatürde, literatürü, literatürdeki biçimleriyle). "alanyazın" kalmadı. |
+| Bold kaldırıldı | Gövde metninde, tablolarda ve tablo başlıklarında hiçbir kalın sözcük yok. Yalnızca bölüm başlıkları ve kapak başlığı kalın; tablo başlık satırı gri gölgelemeyle ayırt ediliyor. Vurgu gereken yerlerde italik kullanıldı (Araştırma sorusu / Hipotez etiketleri). |
+
+**Bir uyarı:** "biyoesinlenme" sözcüğünü Tablo 1'de ve 2.1'de **korudum.** Nedeni şu: Kırbaş Akyürek ve diğ. (2020) biyomimikri ile biyoesinlenmeyi birbirinden ayırt eden iki ayrı kavram olarak ele alıyor (biyomimikri biyolojik süreçleri teknolojiye çevirir; biyoesinlenme biyolojik olmayan araştırmaların benzetimini de kapsar). İkisini aynı sözcüğe çevirmek Tablo 1'de iki özdeş satır üretir ve kaynağı yanlış aktarmış olurduk. Bunun yerine 3.1'e şu köprü cümlesini ekledim: *"Birinci kategori, ikinci başlıkta ele alınan biyomimikri yaklaşımının malzeme ölçeğindeki karşılığıdır."* Böylece iki tablo arasında çelişki kalmıyor.
+
+### Edalat ağırlığı azaltıldı: 35 → 20 anış
+
+| Yapılan | Ayrıntı |
+|---|---|
+| **Tablo kaldırıldı** | Edalat'ın altı ölçütlü çerçevesini gösteren eski Tablo 3 tümüyle çıkarıldı. Tablolar yeniden numaralandı (6 → 5 tablo). |
+| **Çerçeve yeniden kuruldu** | Eski öneri "Edalat'ın altı ölçütünü koruyan iki katmanlı çerçeve" idi — yani tek bir kaynağın uzantısı. Yerine **altı boyutlu bağımsız bir çerçeve** kuruldu (Tablo 4): kaynak ve tedarik; bileşim ve birleşim; ömür sonu senaryosu; deneyimsel performans; dirençlilik kapasitesi; kurumsal ve toplumsal çerçeve. Altı boyutun dayanakları altı ayrı kaynak kümesine dağıtıldı; Edalat yalnızca iki satırda ve başka kaynaklarla birlikte yer alıyor. |
+| **Tablo 3 dengelendi** | Potansiyel–sınırlılık tablosunda Edalat 16 hücrenin 12'sini taşıyordu; şimdi 14 hücrenin 4'ünü taşıyor ve 13 ayrı kaynak dipnotu var. |
+| **Tekrarlar kesildi** | Girişteki "döngüsel ekonomiye eklemlenme sınırlı" cümlesi (4.1'de var), 4.2'deki coğrafi dağılım anlatımı ve 7.2'deki üçüncü gerilim kısaltıldı. |
+| **Yeni dayanaklar** | Döngüsellik kavramı artık Kirchherr ve diğ. (2017) ile Pomponi ve Moncaster (2017) üzerinden; sökülebilirlik Rios ve diğ. (2015) üzerinden; miselyum Attias ve diğ. (2020) üzerinden; dirençlilik tanımı Folke (2006) üzerinden kuruluyor. |
+
+Kaynak dağılımı artık dengeli: Edalat 20, Goidea 19, Andréen 15, Karana 14, Kırbaş Akyürek 8, Pomponi ve Moncaster 7, Rios 7, Kirchherr 6, Attias 6, Chayaamor-Heil 6, Chang 6, Heymans 5.
+
+### Eklenen altı yeni kaynak (tümü doğrulandı)
+
+| Kaynak | Nerede kullanıldı | Doğrulama |
+|---|---|---|
+| **Attias, N., Danai, O., Abitbol, T., Tarazi, E., Ezov, N., Pereman, I. ve Grobman, Y. J. (2020).** Mycelium bio-composites in industrial design and architecture. *Journal of Cleaner Production, 246*, 119037. | 3.2, 4.2, 4.3, Tablo 2, Tablo 3, Tablo 4 | Künye ve yöntem (beş bitkisel atık alt tabaka, dört mantar türü) doğrulandı |
+| **Folke, C. (2006).** Resilience: The emergence of a perspective for social–ecological systems analyses. *Global Environmental Change, 16*(3), 253–267. | 5.1, Tablo 4, Tablo 5 | Künye ve dirençlilik tanımı doğrulandı; Andréen ve Goidea'nın (2022) metninde aynı tanımı alıntılaması ikinci bir teyit oluşturdu |
+| **Kirchherr, J., Reike, D. ve Hekkert, M. (2017).** Conceptualizing the circular economy: An analysis of 114 definitions. *Resources, Conservation and Recycling, 127*, 221–232. | 1, 4.1, 7.3, Tablo 3, Tablo 4, Tablo 5 | Künye ve iki bulgu (114 tanım / 17 boyut; azaltma-yeniden kullanma-geri dönüştürme bileşimi; sistemsel değişimin vurgulanmaması) iki ayrı aramayla doğrulandı |
+| **Pomponi, F. ve Moncaster, A. (2017).** Circular economy for the built environment: A research framework. *Journal of Cleaner Production, 143*, 710–718. | 4.1, 4.2, 7.2, 7.3, Tablo 3, Tablo 4 | Künye ve altı boyut (çevresel, teknolojik, ekonomik, toplumsal, yönetsel, davranışsal) iki ayrı aramayla doğrulandı |
+| **Rios, F. C., Chong, W. K. ve Grau, D. (2015).** Design for disassembly and deconstruction: Challenges and opportunities. *Procedia Engineering, 118*, 1296–1304. | 4.3, 6.2, 8, Tablo 2, Tablo 3, Tablo 4, Tablo 5 | Künye ve öz doğrulandı (sökülebilirlik için tasarım ilkelerine ilişkin kapsamlı kılavuzlar var ama geliştirilmiş yapı sayısı çok az) |
+| **Rognoli, V., Bianchini, M., Maffei, S. ve Karana, E. (2015).** DIY materials. *Materials & Design, 86*, 692–702. | 3.3, 7.2, Tablo 3, Tablo 4 | Künye ve kendin yap malzeme tanımı doğrulandı |
+
+Bu ekleme, en baştan istediğiniz **kendin yap malzeme** başlığına da doğrudan bir kuramsal dayanak kazandırdı (Rognoli ve diğ., 2015) — daha önce yalnızca Rognoli ve Ayala García (2018) üzerinden dolaylı olarak kuruluyordu.
+
+### Araştırma sorusu ve hipotez
+
+Girişte iki ayrı etiketli paragraf olarak verildi:
+
+- **Araştırma sorusu:** İç mimarlıkta biyolojik temelli malzeme seçimi, sürdürülebilirlikten döngüselliğe ve döngüsellikten dirençliliğe geçişi sağlayan bir tasarım yaklaşımı olarak nasıl kavramsallaştırılabilir?
+- **Hipotez:** Biyotasarım ve biyolojik temelli malzemeler malzeme seçiminin ölçütlerini ve tasarımcının kaynak, üretim, kullanım ve atıkla kurduğu ilişkiyi yeniden tanımlamaktadır; buna bağlı olarak bir malzemenin döngüselliği ve dirençliliği biyolojik kökeninde değil, tasarım aşamasında verilen bileşim, birleşim ve ömür sonu kararlarında belirlenmektedir.
+
+Hipotezin iki yarısı metinde ayrı ayrı sınanıyor: ilk yarısı 4.3'te (döngüsellik tasarım aşamasında kararlaşır), ikinci yarısı 5. ve 7. başlıklarda (dirençlilik ve değerlendirme çerçevesi). 8. başlıktaki üç düzlem tablosu (Tablo 5) hipotezi üç ölçütte toparlıyor.
+
+### Kısaltma
+
+| | Önce | Sonra |
+|---|---|---|
+| Gövde metni | 6.239 kelime | **5.898 kelime** |
+| Tablo | 6 | **5** |
+| En uzun paragraf | 215 kelime | **151 kelime** |
+| Tahmini sayfa | 18–19 | **16–17** |
+
+Kısaltılan yerler: öz; giriş yol haritası; 2.3'teki dört kategori anlatımı; 3.2'deki iki uzun paragraf bölünerek sıkıştırıldı; 3.3'teki kendin yap malzeme tanımı; 4.2'deki coğrafi dağılım; 5.2 ve 5.3'teki örnek anlatımları; 6.3'teki tez örneği; 7.2'deki birinci ve üçüncü gerilim; 8'deki araştırma gündemi tek paragrafa indirildi.
 
 ---
 
