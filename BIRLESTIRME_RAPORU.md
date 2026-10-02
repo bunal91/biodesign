@@ -1,12 +1,86 @@
 # Birleştirme ve Son Denetim Raporu
 
-**Tarih:** 2 Ekim 2026
-**Çıktı:** `Ic_Mimarlikta_Surdurulebilir_Malzeme_Secimi_ve_Dongusel_Tasarim.docx` (ve aynı içeriğin markdown sürümü)
-**Hacim:** Öz dahil ~7.480 kelime gövde + 6 tablo (676 kelime) + 18 kaynaklı kaynakça. A4, 2,5 cm kenar boşluğu, Times New Roman 12, 1,5 satır aralığı → yaklaşık 21–23 sayfa.
+**Tarih:** 2 Ekim 2026 (ikinci tur: yapı sadeleştirme ve kısaltma)
+**Çıktı:** `Kitap_Bolumu_Biyotasarim_Malzeme_Secimi.docx` (ve aynı içeriğin markdown sürümü)
+**Hacim:** Öz dahil **6.239 kelime** gövde + 6 tablo (676 kelime) + 18 kaynaklı kaynakça. A4, 2,5 cm kenar boşluğu, Times New Roman 12, 1,5 satır aralığı → yaklaşık 18–19 sayfa.
+**Başlık:** Dosyadaki başlık bir öneridir; seçenekler `BASLIK_ONERILERI.md` dosyasında.
+
+---
+
+## 0. İkinci turda yapılanlar
+
+### Alt başlık sayısı: 30 → 18
+
+Her bölüm artık **üç** alt başlık taşıyor; 1. ve 8. bölümlerde alt başlık yok. Üçüncü düzey başlıklar (7.2.1–7.2.3) tümüyle kaldırıldı.
+
+| Bölüm | Önce | Sonra | Birleştirilenler |
+|---|---|---|---|
+| 2. Biyotasarım Kavramı ve Paradigma Dönüşümü | 5 | 3 | 2.1+2.2 → "Terminolojik belirsizlik ve komşu kavramlar"; 2.4+2.5 → "Kesişme biçimleri ve tasarımcının rolü" |
+| 3. Biyolojik Temelli Malzemeler | 4 | 3 | 3.2+3.3 → "Vernaküler kökenden biyofabrikasyona" |
+| 4. Döngüsel Malzeme Sistemleri | 5 | 3 | 4.1+4.2 → "Atık akımlarının kaynağa dönüşmesi"; 4.4+4.5 → "Biyolojik kökenin sınırları" |
+| 5. Adaptasyon, Değişkenlik ve Dirençlilik | 5 | 3 | 5.2+5.3 → "Dirençlilik yoluyla dayanıklılık"; 5.4+5.5 → "Zamansallık, yedeklilik ve ölçek ilişkisi" |
+| 6. İç Mimarlıkta Mekânsal Dönüşüm | 6 | 3 | 6.2+6.3 → "İkame tuzağı ve ömür sonu kararı"; 6.4+6.5+6.6 → "Mekânsal sistem, deneyim ve bir uygulama örneği" |
+| 7. Biyomalzeme Seçimi İçin Bir Değerlendirme Çerçevesi | 4 + 3 alt alt | 3 | 7.2.1–7.2.3 tek alt başlıkta ("Üç gerilim"); 7.3+7.4 → "İki katmanlı değerlendirme çerçevesi" |
+
+### Başlıklar: soru biçiminden düz biçime
+
+| Önce | Sonra |
+|---|---|
+| 2.2. Biyomimikri neden yeterli bir çerçeve değildir? | (2.1 içine alındı) |
+| 4.4. Biyolojik köken döngüsellik güvencesi midir? | 4.3. Biyolojik kökenin sınırları |
+| 5.3. Değişkenlik: kusur mu, kapasite mi? | (5.2 içine alındı) |
+| 6.1. İç mekân neden öncelikli uygulama alanıdır? | 6.1. İç mekânın öncelikli konumu |
+| 6.2. İkame tuzağı: malzemeyi neyin yerine koyuyoruz? | 6.2. İkame tuzağı ve ömür sonu kararı |
+| 7.3. Alanyazının kendi teşhisi: neyin eksik olduğu | (7.3 içine alındı) |
+
+Metinde **soru biçiminde alt başlık kalmadı.** Ana bölüm adları da kısaltıldı (örnek: "Biyotasarım ve İç Mimarlıkta Mekânsal Dönüşüm" → "İç Mimarlıkta Mekânsal Dönüşüm").
+
+### Tablolar bölüm sonundan metnin içine taşındı
+
+| Tablo | Yeni yeri | Tablodan sonra gelen metin |
+|---|---|---|
+| Tablo 1 | 2.1 içinde | Kavramların aynı soyutlama düzeyinde olmadığı değerlendirmesi + Myers |
+| Tablo 2 | 3.1 içinde | Üç yaklaşımın ömür sonu senaryosu bakımından farklı koşullar üretmesi |
+| Tablo 3 | 4.2 içinde | Altı ölçütün tamamının malzeme düzeyinde kurulmuş olması → 7. bölüme köprü |
+| Tablo 4 | 7.1 içinde | Sekiz boyutun yalnızca birinin kullanıcı ilişkisini kapsaması |
+| Tablo 5 | 7.3 içinde | Çerçevenin eşzamanlı kullanım mantığı + ikinci katman örneği |
+| Tablo 6 | 8 içinde | Son kolonun bölümün yöntemsel tutumunu özetlemesi |
+
+Her tablodan sonra **yorum paragrafı** eklendi; tablolar artık bölüm sonunda asılı kalmıyor.
+
+### Metin içi tablo göndermeleri
+
+Her tabloya metin içinde parantezli gönderme yapıldı — Tablo 1: 4, Tablo 2: 4, Tablo 3: 5, Tablo 4: 4, Tablo 5: 4, Tablo 6: 4 kez. Girişteki yol haritası paragrafı da hangi tablonun hangi başlıkta olduğunu gösteriyor.
+
+### Kısaltma: 7.483 → 6.239 kelime (−%17)
+
+| Nerede | Ne çıkarıldı |
+|---|---|
+| 2.1 | Kırbaş Akyürek'in yüzde dağılımı (%34, %20, %18, %17, %22,5) niteliksel sıralamaya indirildi |
+| 2.3 | Dört kategorinin tek tek uzun anlatımı sıkıştırıldı |
+| 3.1–3.2 | Ayrı "atık" alt başlığı 3.2'ye taşındı; tekrarlanan tanım cümleleri çıkarıldı |
+| 4.1 | Edalat'ın coğrafi dağılımında ülke adları sayımı kısaltıldı |
+| 5.1 | İki tanımın iki ayrı paragrafta anlatımı tek paragrafta birleştirildi |
+| 5.2 | Vernaküler toprak köyleri anlatımı yarıya indirildi; bakım yükü/robotik cümlesi çıkarıldı |
+| 5.3 | Esfahak ve sanat yapıtı örnekleri iki paragraftan iki cümleye indirildi; standartlaşma nedensellik zinciri sıkıştırıldı |
+| 6.3 | Üç alt bölümün girişleri tek paragrafa toplandı; tez örneği kısaltıldı |
+| 7.2 | Üç gerilim üç alt başlıktan üç paragrafa indirildi |
+| 8 | Araştırma gündeminin dördüncü maddesindeki kaynak yinelemesi çıkarıldı |
+
+### Bu turda çıkarılan tekrarlar
+
+- Goidea ve diğ.'nin "canlı maddeyle tasarlamak" tanımı 2.3'te kaldı, 5.3'ten çıkarıldı
+- Chayaamor-Heil ve diğ. (2024) ölçek kısıtı 3.2'de tam, 6.1'de tek cümlelik gönderme
+- Edalat'ın ahşap/ahşap dışı denge önerisi 4.3'te tam, 7.2'de tek yan cümle
+- "Malzeme Odaklı Tasarım" tanımı 6.2'de bir kez; 6.3'te yalnızca adıyla anılıyor
+- Andréen ve Goidea'nın "tersinirlik" cümlesi 5.2'de tam, 6.3'te kısa gönderme
+- Dirençlilik tanımı yinelemesi 5.1'de tek paragrafa indirildi
 
 ---
 
 ## 1. Yapılan işlem: sekiz ayrı dosya tek bölüme dönüştürüldü
+
+> Bu başlıktan sonraki bölümler **birinci turu** (birleştirme) belgeliyor. Alt başlık numaraları o turdaki yapıya göredir; güncel yapı için yukarıdaki 0. başlığa bakınız.
 
 | Birleşik metindeki yeri | Kaynak dosya |
 |---|---|
