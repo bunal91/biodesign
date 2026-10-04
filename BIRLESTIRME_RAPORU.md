@@ -310,3 +310,49 @@ Bu ortamda LibreOffice veya PDF dönüştürücü bulunmadığından **dosya gö
 - Tabloların sayfa sonlarında bölünüp bölünmediği (gerekirse "satırın sayfalara bölünmesine izin ver" kapatılabilir)
 - Tablo başlıklarının tablodan ayrı sayfaya düşmemesi (keepNext tanımlı, ama kontrol edilmeli)
 - Yayıncının istediği punto, satır aralığı ve kenar boşluklarına uygunluk (şu an: Times New Roman 12, 1,5 satır aralığı, A4, 2,5 cm)
+
+---
+
+# EK — Son tur (editöryel değerlendirme maddelerinin uygulanması)
+
+## 12. Tablo 5 yerine Şekil 1
+
+Tablo 5 (üç düzlem karşılaştırması) kaldırıldı, yerine **Şekil 1** konuldu. Şekil, sürdürülebilirlik ⊂ döngüsellik ⊂ dirençlilik kapsama ilişkisini artan genişlikte üç bant olarak gösterir. Her bantta düzlemin adı, sorduğu soru, eklediği ölçütler ve tek başına yetersiz kaldığı nokta yer alır. Sınır ifadeleri O'Rourke ve Seepersad (2015), Rios ve diğ. (2015) ile Chang ve diğ. (2020) çalışmalarına dayandırıldı. Dosya: `Sekil_1.png` (15 × 8 cm, 400 dpi).
+
+Şekil başlığı **şeklin altına** yerleştirildi (Türkçe akademik yayıncılıkta yaygın kullanım). Tablo başlıkları tabloların üstündedir. Vizetek'in şablonu farklı istiyorsa tek yerde değiştirilmesi yeterlidir.
+
+## 13. Değerlendirme maddelerinin karşılığı
+
+| # | Madde | Uygulama |
+|---|---|---|
+| 1 | "belirlenmektedir" fazla kesin | "önemli ölçüde şekillenmektedir" |
+| 2 | Araştırma sorusundaki doğrusal "geçiş" kurgusu | Soru yeniden yazıldı: "...ölçütlerini birlikte ele alan bir tasarım yaklaşımı olarak nasıl kavramsallaştırılabilir?" |
+| 3 | "hipotez" terimi kuramsal derlemeye uygun değil | "temel sav" |
+| 5 | "3.2 Biyofabrikasyon" başlığı içeriğe dar | "3.2 Malzeme kaynakları ve üretim biçimleri" |
+| 6 | Tablo 2'deki "Canlı" sütunu fazla kesin | "Canlı organizmayla üretilen"; üretimde canlılık ile kullanımda canlılık ayrımı 3.1 metnine eklendi |
+| 8 | Edalat fazla yük taşıyor | 19 → 18 atıf, düz metinde 11 → 10. Hiçbir tablo ve çerçeve tek başına bu kaynağa dayanmıyor |
+| 9 | "fiilî uygulama alanı büyük ölçüde iç mekândır" | "mevcut uygulamalarında iç mekân bileşenleri önemli bir yer tutar" |
+| 10 | "belirleyici ölçek" | "önemli bir uygulama ölçeği" |
+| 11 | 5.3'teki dört öznitelik yazarın sentezi | "Yorumlama bu bölümün kendi sentezidir, anılan kaynakların doğrudan önerisi değildir" cümlesi eklendi |
+| 12 | Altı boyutlu çerçeve yazarın sentezi | "literatürde doğrudan tanımlanmış mevcut bir modelin aktarımı değil, bu bölüm kapsamında geliştirilen kavramsal bir sentezdir" |
+| 13 | Tablo 4 – Şekil 1 ilişkisi belirsiz | Sonuç bölümüne ilişkiyi kuran paragraf eklendi |
+| 14 | "Soru yedi adımda" | "Soru, ikinci başlıktan sekizinci başlığa uzanan yedi bölüm üzerinden ele alınmaktadır" |
+| 15 | Miselyum paneli cümlesi fazla kategorik | "tek başına biyotasarım yaklaşımının bütün kapsamını karşılamaz" |
+| 20–21 | Yapay zekâ ritmi (Birincisi/İkincisi, Bu durum/Bu çerçevede/Dolayısıyla/Böylece) | "Bu durum", "Bu çerçevede", "Dolayısıyla", "Böylece", "Bu bağlamda", "Öte yandan" cümle başı olarak **sıfır**. "Birincisi"/"İkincisi" birer kez. Noktalı virgül düz metinde **sıfır**, iki nokta 6 (hepsi fiilden sonra sıralama) |
+| 22 | İç mimarlık çok geç giriyor | 2.1, 2.2, 3.2, 3.3, 4.2, 5.1, 5.2 ve 5.3'ün sonlarına iç mimarlık karşılığını kuran cümleler eklendi |
+
+## 14. Sayfa sayısı — bu kez ölçüldü
+
+Önceki turlarda bu ortamda dönüştürücü bulunmadığı için sayfa sayısı hesapla tahmin ediliyordu. Bu turda LibreOffice Writer ve poppler kurularak belge **PDF'e dönüştürüldü ve sayfaları sayıldı**:
+
+**20 sayfa.** (Son sayfa 20 satır, yani yarı dolu — küçük eklemeler için pay var.)
+
+Dönüştürmede Times New Roman yerine ölçü eşdeğeri Liberation Serif kullanıldı, bu nedenle Word'deki sonuç ±1 sayfa oynayabilir.
+
+## 15. Bu turda ayrıca düzeltilenler
+
+- **Başlık rengi:** Word'ün yerleşik Başlık stilleri başlıkları mavi gösteriyordu. Tüm başlıklara siyah renk tanımlandı.
+- **Tablo satırları:** `cantSplit` tanımlandı, satırlar sayfa sonlarında ikiye bölünmüyor.
+- **"cümle: açıklama" kalıbı:** 6 yerde kaldırıldı, cümleler yeniden kuruldu.
+- **Tekrarlar:** Edalat'ın ahşap dışı malzeme dağılımı saptaması 1., 6.1 ve 8. başlıklarda üç kez geçiyordu; 1. başlıktaki kısaltıldı, 8. başlıktaki sıkıştırıldı. 7.1'de Tablo 3'ün "Standart" satırını birebir tekrarlayan cümle çıkarıldı.
+- **Kaynak denetimi:** 31 kaynağın tamamı metinde kullanılıyor, metindeki her atıf kaynakçada var. Alfabetik sıra (Türkçe) doğru.
