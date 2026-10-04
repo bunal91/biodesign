@@ -356,3 +356,31 @@ Dönüştürmede Times New Roman yerine ölçü eşdeğeri Liberation Serif kull
 - **"cümle: açıklama" kalıbı:** 6 yerde kaldırıldı, cümleler yeniden kuruldu.
 - **Tekrarlar:** Edalat'ın ahşap dışı malzeme dağılımı saptaması 1., 6.1 ve 8. başlıklarda üç kez geçiyordu; 1. başlıktaki kısaltıldı, 8. başlıktaki sıkıştırıldı. 7.1'de Tablo 3'ün "Standart" satırını birebir tekrarlayan cümle çıkarıldı.
 - **Kaynak denetimi:** 31 kaynağın tamamı metinde kullanılıyor, metindeki her atıf kaynakçada var. Alfabetik sıra (Türkçe) doğru.
+
+---
+
+## 16. 2.2'nin kaynak çeşitlendirmesi
+
+2.2 baştan sona Andréen ve Goidea (2022) üzerine kuruluydu. İki kaynak eklendi, ikisinin de birincil metni okunup doğrulandı.
+
+**Collet, C. (2021).** *Designing our future bio-materiality.* AI & Society, 36, 1331–1342. https://doi.org/10.1007/s00146-020-01013-y
+
+Biyotasarım alanını tasarımcının doğayla kurduğu ilişkiye göre üç kademede haritalar: doğa model, doğa birlikte çalışılan ortak, doğa kurcalanabilir sistem. Üç konumun farklı değerler taşıdığı saptaması (ortaklık / denetim) bölüme yeni bir boyut ekler ve bu çalışmanın ikinci kademede konumlandığını açıkça söylememizi sağlar.
+
+> **Dikkat:** İkincil kaynaklar (Wikipedia, blog yazıları) Collet'nin çerçevesini "dört strateji" olarak aktarıyor (bio-based / bio-informed / bio-integrated / bio-engineered). Makalenin kendisinde **üç** kademe var. İkincil aktarım kullanılmadı, asıl metindeki üçlü çerçeve yazıldı.
+
+**Pedersen Zari, M. ve Storey, J. B. (2007).** *An ecosystem based biomimetic theory for a regenerative built environment.* Sustainable Building Conference 07 (SB07), Lizbon, Portekiz.
+
+Taklidin üç düzeyi (organizma, davranış, ekosistem) ve kritik saptama: yalnızca organizma düzeyinde taklit eden ürünler yaşam döngüsü açısından kendiliğinden daha sürdürülebilir değildir. Cırt bant örneği (bitki tohumunun tutunma biçimini taklit eder, ama petrokimyasal kökenlidir ve geri dönüştürülmez) bölümün ana savını biyomimikri literatürünün kendi içinden destekler.
+
+> **Dikkat:** Bu bir konferans bildirisi ve mekânı kaynaklar arasında tutarsız görünüyor (bazı dizinler Auckland, bazıları Lizbon diyor). PDF'in oluşturulma tarihi 1 Ağustos 2007 ve belge CIB/iconda veritabanında barınıyor; ikisi de Lizbon (12–14 Eylül 2007) ile tutarlı. **Teslimden önce teyit edilmeli.**
+
+Yer açmak için kesilenler (hepsi gerçek tekrar, içerik kaybı yok):
+- 2.3'teki dört kategorinin çıplak sıralaması (taksonomi işini artık Collet yapıyor)
+- 5.2'nin kendini özetleyen kapanış cümlesi
+- 6.2'nin 5.3'ü tekrarlayan kapanış paragrafı (anahtar cümle bir önceki paragrafa taşındı)
+- 6.3'teki üçlü geriye dönük özet
+- 4.1'de kendinden önceki iki cümleyi tekrarlayan cümle
+- 8'de üçüncü kez geçen aynı saptama
+
+Sonuç: 33 kaynak, **20 sayfa** (ölçüldü), son sayfa 28 satır.
