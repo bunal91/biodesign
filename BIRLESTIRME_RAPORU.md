@@ -384,3 +384,83 @@ Yer açmak için kesilenler (hepsi gerçek tekrar, içerik kaybı yok):
 - 8'de üçüncü kez geçen aynı saptama
 
 Sonuç: 33 kaynak, **20 sayfa** (ölçüldü), son sayfa 28 satır.
+
+---
+
+# EK — Dil, yapı ve başlık turu
+
+## 17. Tablo ve şekil başlıkları
+
+Tüm tablo başlıkları **tabloların altına** alındı, italik kaldırıldı, ortalandı. Şekil 1'in başlığı zaten alttaydı, aynı biçime getirildi. Tablo altı açıklama notları başlığın hemen altında, ortalanmış ve küçük puntoda.
+
+## 18. Bölüm girişleri
+
+Sekiz bölüm girişi de "önceki başlık şunu yaptı, bu başlık şunu yapıyor" kalıbından çıkarıldı. Her giriş artık kendi konusunu açıyor. Örnek: 4. başlık eskiden "Üçüncü başlık malzemeleri sınıflandırdı..." diye başlıyordu, şimdi "Biyolojik kökenli bir malzemenin döngüsel sayılıp sayılamayacağı, ilk bakışta malzemenin kendisine ilişkin bir soru gibi görünür" diye başlıyor.
+
+## 19. Alt başlık yapısı
+
+Kısa bölümlerin alt başlıkları kaldırıldı, bölümler tek akışta yazıldı:
+
+| Bölüm | Önce | Şimdi |
+|---|---|---|
+| 4. Döngüsel malzeme sistemleri | 4.1, 4.2 | alt başlıksız |
+| 7. Değerlendirme çerçevesi | 7.1, 7.2 | alt başlıksız |
+
+2., 3., 5. ve 6. başlıklar üçer alt başlıkla kaldı, 1. ve 8. zaten alt başlıksızdı.
+
+## 20. Araştırma sorusu ve sav
+
+Soru işareti kaldırıldı, soru bir önerme olarak kuruldu: "Bölümün araştırma sorusu bu zeminden doğmuştur ve iç mimarlıkta biyolojik temelli malzeme seçiminin ... nasıl kavramsallaştırılabileceği biçiminde belirlenmiştir." Sav da "Bölümün temel savı ise şöyle özetlenebilir" ile açılıyor, ardından ikinci bir önerme geliyor.
+
+## 21. "Birincisi / ikincisi" ayrımları
+
+| | Önce | Şimdi |
+|---|---|---|
+| Birincisi / İkincisi / Üçüncüsü | 2 | 0 |
+| Birinci–Dördüncü öznitelik (5.3) | 4 | 0 |
+| İlki / İkinci gerilim / Üçüncü gerilim (7) | 3 | 0 |
+| Bu durum / Bu çerçevede / Dolayısıyla / Böylece / Bu bağlamda | 0 | 0 |
+
+## 22. Cümle ritmi
+
+Kısaltma artık cümle budayarak değil, gereksiz cümleleri silerek yapıldı.
+
+| | Önce | Şimdi |
+|---|---|---|
+| Ortalama cümle uzunluğu | 14,9 kelime | 15,5 kelime |
+| 8 kelime ve altı cümle | 54 | 39 |
+| Noktalı virgül (düz metin) | 0 | 0 |
+| İki nokta (düz metin) | 6 | 5 (hepsi fiilden sonra sıralama) |
+
+Silinen cümleler: 2.1'deki adlandırma dökümü, 2.1'de bölüm girişiyle çakışan saptama, 3.1'deki gereksiz geri gönderme, 3.1'de savı taşımayan değişkenlik cümlesi, 5.3'te iki kez söylenen ölçek saptaması, 7'de Tablo 3'ü tekrarlayan cümle.
+
+## 23. Kaynaklar
+
+**Şüpheli dört künyenin dördü de doğrulandı, hiçbiri çıkarılmadı:**
+
+| Kaynak | Şüphe | Sonuç |
+|---|---|---|
+| Rognoli ve Ayala García (2018) | Yıl belirsizdi | SciELO kaydı: sayı 70, Aralık 2018. DOI eklendi |
+| Pedersen Zari ve Storey (2007) | Konferans mekânı çelişkiliydi | Bildiri kitabı adı netleşti: SB07, Lizbon |
+| Lee ve diğ. (2022) | Sayfa aralığı eksikti | 2453–2509 doğrulandı, eklendi |
+| Tyagi ve Jain (2026) | Yalnızca öz düzeyinde | 104 yayın, PRISMA, 2000–2025 ve vernaküler/biyofabrike ayrımı doğrulandı |
+
+**Edalat:** 18 → 17 atıf, düz metinde 10 → 9. 7. başlıktaki üç saptamadan Edalat'ınki çıkarıldı, kalan ikisi savı zaten kuruyor. 6.1'de Edalat'ın yanına Tyagi ve Jain (2026) kondu, böylece iç mekân saptaması tek kaynağa dayanmıyor.
+
+**Bölüm başına kaynak çeşitliliği** (tablolar hariç, düz metin):
+
+| Bölüm | Farklı kaynak | En ağır kaynağın payı |
+|---|---|---|
+| 1. Giriş | 9 | %20 |
+| 2. Biyotasarım kavramı | 8 | %20 |
+| 3. Biyolojik temelli malzemeler | 8 | %18 |
+| 4. Döngüsel malzeme sistemleri | 10 | %25 |
+| 5. Dirençlilik | 10 | %13 |
+| 6. İç mekân ölçeği | 8 | %31 |
+| 8. Sonuç | 8 | %20 |
+
+Hiçbir bölüm tek kaynak etrafında dönmüyor. 33 kaynağın tamamı metinde kullanılıyor, metindeki her atıf kaynakçada, Türkçe alfabetik sıra doğru.
+
+## 24. Sayfa düzeni notu
+
+**20 sayfa** (PDF'e dönüştürülüp sayıldı). Bu düzende Tablo 1 ve Tablo 3 sayfa sonunda ikiye bölünüyor, başlık satırları devam sayfasında tekrarlanıyor. Tabloların bütün kalması istenirse Word'de tablo satırları seçilip "sonrakiyle birlikte tut" işaretlenmesi yeterli, ancak bu bölümü **21 sayfaya** çıkarıyor ve üç sayfayı yarı boş bırakıyor. Tercih yayıncının şablonuna göre yapılmalı.
