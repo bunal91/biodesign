@@ -464,3 +464,22 @@ Hiçbir bölüm tek kaynak etrafında dönmüyor. 33 kaynağın tamamı metinde 
 ## 24. Sayfa düzeni notu
 
 **20 sayfa** (PDF'e dönüştürülüp sayıldı). Bu düzende Tablo 1 ve Tablo 3 sayfa sonunda ikiye bölünüyor, başlık satırları devam sayfasında tekrarlanıyor. Tabloların bütün kalması istenirse Word'de tablo satırları seçilip "sonrakiyle birlikte tut" işaretlenmesi yeterli, ancak bu bölümü **21 sayfaya** çıkarıyor ve üç sayfayı yarı boş bırakıyor. Tercih yayıncının şablonuna göre yapılmalı.
+
+---
+
+## 25. Öz yeniden yazıldı
+
+Önceki öz bölümün içindekiler listesi gibi okunuyordu ("Çalışma önce... ardından... Son olarak..."). Kuramsal bir bölümün özü ne yaptığını değil ne iddia ettiğini söylemelidir.
+
+Değişenler:
+- Anlatı sırası yerine sav öne alındı. "Bölümün temel savına göre biyotasarım, tasarımcının önüne yalnızca yeni malzeme seçenekleri koymamakta..." cümlesi özün merkezine taşındı.
+- Kip birliği sağlandı. Önceki özde "ele alır / gösterilir / önerilir" biçiminde geniş zaman ile edilgen çatı karışıyordu. Tamamı akademik Türkçenin yerleşik -mAktA kipine çevrildi.
+- Bölümün özgün katkısı olan üç düzlem ilişkisi (sürdürülebilirlik, döngüsellik ve dirençliliğin birbirini kapsaması) özde ilk kez açıkça yer aldı. Önceki özde yalnızca ima ediliyordu.
+- "Oysa böyle bir kurgu" gibi konuşma diline yakın geçişler kaldırıldı.
+- 135 kelimeden 157 kelimeye çıktı. Türkçe kitap bölümü özleri için olağan aralık içinde.
+
+Terminoloji notu: öz içinde "biyolojik temelli" yazımı korundu, çünkü bölümün tamamı (3. başlığın adı, Tablo 2, metin içi kullanımlar) bu yazımı kullanıyor.
+
+Uzayan özü karşılamak için iki yerde kısaltma yapıldı. Birinci başlıktaki tablo ve şekil dökümü tek cümleye indirildi (zaten özde anlatılıyor), altıncı başlıktaki tez örneğinin yöntem ayrıntısı seyreltildi.
+
+**20 sayfa** (ölçüldü), 33 kaynak, gövde 5009 kelime.
